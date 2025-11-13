@@ -38,7 +38,7 @@
         {
             "seedType": 5,
             "name": "Mordeur",
-            "introduce": "<size=36><color=black>Mordeur a failli obtenir un contrat pour faire des cascades pour La Petite Boutique des Horreurs, mais cela a échoué lorsque son agent en a trop exigé au début. Mais Mordeur n'est pas irrité. Il dit que cela fait simplement partie du business.</color></size>",
+            "introduce": "<size=36><color=black>Le Mordeur a failli obtenir un contrat pour faire des cascades pour La Petite Boutique des Horreurs, mais cela a échoué lorsque son agent en a trop exigé au début. Mais Mordeur n'est pas irrité. Il dit que cela fait simplement partie du business.</color></size>",
             "info": "<size=36>Les Mordeurs dévorent des zombies tout entiers, mais sont vulnérables en mangeant.\n\n<color=black>Dégâts : </color><color=#8B0000> Insta</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>150</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
         },
@@ -752,9 +752,9 @@
         {
             "seedType": 1039,
             "name": "Noix Glacée",
-            "introduce": "<size=36><color=black>Frost-nut leva haut ses pointes glacées, prêt à affronter les zombies. D’autres ont remarqué à quel point il semblait \" froid \" et \" silencieux \". Pourtant, son expression restait inchangée, résolue dans sa défense contre les morts-vivants. La vérité était que son visage était simplement figé sur place.</color></size>",
-            "info": "<size=36>Noix Glacée sont de solides plantes-barrières. Elles ralentissent les zombies qui les attaquent.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Les zombies qui le mordent sont ralentis et accumulent 10 points Cryo.</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsqu'il est affecté par le Champi-glace, soigne 1000 points d'Endurance.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-glace + Tall-nut</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>La Noix Glacée leva haut ses pointes, prêt à affronter les zombies. D’autres ont remarqué à quel point elle semblait \" froide \" et \" silencieuse \". Pourtant, son expression restait inchangée, résolue dans sa défense contre les morts-vivants. La véritée était que son visage était simplement figé sur place.</color></size>",
+            "info": "<size=36>Les Noix Glacée sont de solides plantes-barrières. Elles ralentissent les zombies qui les attaquent.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Les zombies qui le mordent sont ralentis et accumulent 10 points Cryo.</color>\n<color=black>Spécial : </color><color=#8B0000>Lorqu'un zombie est gelé, soigne 1000 points de Robustesse.</color>\n</size>",
+            "cost": "<color=black>Formule de Fusion : </color><color=#8B0000>Champi-glace + Grande Noix</color>"
         },
         {
             "seedType": 1040,
@@ -983,9 +983,9 @@
         {
             "seedType": 1073,
             "name": "Noix Brûlante",
-            "introduce": "<size=36><color=black>Scorch-nut est un grand fan des Jeux olympiques et insiste avec passion pour que Torche soit choisie comme torche olympique. Attention cependant aux non-informés : n’essayez pas de le manger. Vous pourriez vous retrouver brûlant à cause de la chaleur épicée.</color></size>",
-            "info": "<size=36>Les zombies s'enflammeront quand il se fera mordre.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=#720026>Debuff enflammé : </color><color=#8B0000>Les zombies enflammés seront 50 % plus vulnérables à toutes les attaques.</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsqu'il est affecté par le Jalapeño, soigne 1000 points d'Endurance. Les zombies qui l'attaquent perdent également 20 points de vie par morsure.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Jalapeño + Tall-nut</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Noix Brûlante est un grand fan des Jeux Olympiques et insiste avec ferveur pour que Torche soit choisie comme la flamme officielle. Petit avertissement à ceux qui ne la connaissent pas : n’essayez pas de le manger. Vous risqueriez de vous enflammer sous l’effet de sa chaleur épicée.</color></size>",
+            "info": "<size=36>Les zombies s’enflamment lorsqu’ils la mordent.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsqu’il est affecté par Jalapeño, il récupère 3000 points de Robustesse. Inflige le malus Enflammé et cause 20 dégâts aux zombies qui le mordent.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Jalapeño + Noix Géante</color></size>"
         },
         {
             "seedType": 1074,
