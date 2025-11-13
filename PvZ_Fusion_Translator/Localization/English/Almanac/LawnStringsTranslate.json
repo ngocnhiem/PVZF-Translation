@@ -1978,7 +1978,7 @@
             "seedType": 1147,
             "name": "Hypno-nut",
             "introduce": "<align=justified><size=36><color=black>Hypno-nut has a soft spot for zombies: \"There's something oddly pleasant about the way they nibble on me. It's not like scratching an itch… let's just call it affection from prolonged contact,\" it says, philosophically.</color>",
-            "info": "<size=36>Hypnotizes zombies and summons a Hypnotized Mystery-box Zombie every 30 Seconds!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Each time it's bitten, there's a 4% chance to hypnotize the zombie.\n<color=black>•</color> Can recover 100 Toughness when hit by a Trippy-shroom spore, and stores one spore of that color each time it's hit (up to 3).\n<color=black>•</color> When it collects 7 different spore colors, it consumes one of each and summons a Hypnotized Golden Mystery-box Zombie, then fully heals.</color>",
+            "info": "<size=36>Hypnotizes zombies and summons a Hypnotized Mystery-box Zombie every 30 Seconds!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Each time it's bitten, there's a 4% chance to hypnotize the zombie.\n<color=black>•</color> Recovers 100 HP when hit by a Trippy-shroom spore, and stores one spore of that color each time it's hit (up to 3).\n<color=black>•</color> When it collects 7 different spore colors, it consumes one of each and summons a Hypnotized Golden Mystery-box Zombie, then fully heals.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Hypno-shroom</color>"
         },
         {
@@ -2235,8 +2235,8 @@
         },
         {
             "seedType": 1184,
-            "name": "Sunflower Pot",
-            "introduce": "<align=justified><size=36><color=black>\"What do you guys think 'flower pot' means, huh?\" Sunflower Pot snapped. \"Is it a pot for growing flowers? Or is it a pot that is a flower? Either way, let's get one thing straight—I am a flowerpot. End of discussion.\"</color>",
+            "name": "Solar Pot",
+            "introduce": "<align=justified><size=36><color=black>\"What do you guys think 'flower pot' means, huh?\" Solar Pot snapped. \"Is it a pot for growing flowers? Or is it a pot that is a flower? Either way, let's get one thing straight—I am a flowerpot. End of discussion.\"</color>",
             "info": "<size=36>Generates extra Sun for you.\n\n<color=black>Sun Output: </color><color=#8B0000>15/25s</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Sunflower > Flower Pot</color>"
         },
@@ -3133,7 +3133,7 @@
             "seedType": 1312,
             "name": "Wallop-shroom",
             "introduce": "<align=justified><size=36><color=black>Wallop-shroom trained a batch of Nut-shrooms but didn't teach them combat. When asked, \"How do we defend against zombies?\" he replied: \"With a hard shell and do-or-die determination!\" Then he launched them at the zombies. \"This is a technique I learned from baseball,\" he announced proudly.</color>",
-            "info": "<size=36>Picks up nearby Nut-shrooms to attack.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> Picks up Nut-shrooms within a 3×3 area and bats them forward as projectiles. Projectile damage equals the Nut-shroom's HP. If the projectile hits a zombie and deals enough damage to kill it, the shot pierces through, with its damage reduced by the amount dealt.</color>",
+            "info": "<size=36>Picks up nearby Nut-shrooms to attack.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> Picks up Nut-shrooms within a 3×3 area and bats them forward as projectiles. Projectile damage equals the Nut-shroom's HP and ignores Type 2 armor. If the projectile hits a zombie and deals enough damage to kill it, the shot pierces through, with its damage reduced by the amount dealt.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Fume-shroom</color>"
         },
         {
