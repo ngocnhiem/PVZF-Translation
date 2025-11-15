@@ -494,7 +494,7 @@
         },
         {
             "theZombieType": 111,
-            "name": "Frost-nut Zombie",
+            "name": "Frost Tall-nut Zombie",
             "introduce": "<align=justified><size=36><color=black>Frost-nut Zombie's head has sparked numerous opinions in the zombie world. Some say he aims to distance himself from the cold world, while others suspect it relates to Dr. Edgar's wild experiments. Yet, only he knows that this headgear appeared after he ate a specific blue mushroom.</color>",
             "info": "<size=36>A sturdy zombie that can also nullify the Chill effect from ice projectiles.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to chill and freeze.</color>"
         },
@@ -536,7 +536,7 @@
         },
         {
             "theZombieType": 118,
-            "name": "Pea Commando Football Zombie",
+            "name": "Pea-storm Football Zombie",
             "introduce": "<align=justified><size=36><color=black>They say fate is unpredictable, and Pea Commando Football Zombie would have to agree. One second, he's in a vegetarian batting cage. The next? He's accidentally ingested a high-powered pitching machine. Now, his new un-life is just one endless round of rapid-fire peas.</color>",
             "info": "<size=36>Unleashes a relentless barrage of peas at your defenses!\n\n<color=black>Damage: </color><color=#4B0082>20/0.1s</color>\n<color=black>Toughness: </color><color=#4B0082>270 + 1400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Constantly shoots volleys of peas at your plants.</color>"
         },
@@ -777,8 +777,8 @@
         {
             "theZombieType": 232,
             "name": "<color=#4B0082>Phantom Archduke",
-            "introduce": "<align=justified><size=36><color=black>\"He has returned!\" cry the zombies in awe. \"he has returned!\" panic the plants. Meanwhile, Dr. Zomboss tinkers proudly with his hologram projector, confident it will shine in the zombie war of vengeance.</color>",
-            "info": "<size=36>An army of holograms that tear through defenses despite being mere projections.\n\n<color=black>Toughness: </color><color=#4B0082>15000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to chill, freeze, stun, and knockback. Ignores plants while charging left, dealing 1000 damage to all plants it passes through.\n<color=black>•</color> Does not trigger Lawn-mowers or game-overs.</color>"
+            "introduce": "<align=justified><size=36><color=black>\"He has returned!\" cry the zombies in awe. \"He has returned!\" panic the plants. Meanwhile, Dr. Zomboss tinkers proudly with his hologram projector, confident it will shine in the zombie war of vengeance.</color>",
+            "info": "<size=36>An army of holograms that tear through defenses despite being mere projections.\n\n<color=black>Toughness: </color><color=#4B0082>15000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to chill, freeze, stun, and knockback. Ignores plants while charging left, dealing 1000 damage to all plants it passes through.\n<color=black>•</color> Does not trigger Lawn-mowers or game overs.</color>"
         },
         {
             "theZombieType": 233,
@@ -801,7 +801,7 @@
         {
             "theZombieType": 236,
             "name": "Frost Legion Frayer Disc",
-            "introduce": "<align=justified><size=36><color=black>This new model of the Floating Disc is equipped with an advanced anti-gravity emitter and plant sensor that allows full autonomous flight and combat. Its pilot doesn't even need to operate it, or stay awake. So why keep a pilot at all? \"Some zombies are too stupid to do anything else,\" Dr. Edgar Zomboss said, as he welded the cockpit shut.</color>",
+            "introduce": "<align=justified><size=36><color=black>This new model of the Freezer Disc is equipped with an advanced anti-gravity emitter and plant sensor that allows full autonomous flight and combat. Its pilot doesn't even need to operate it, or stay awake. So why keep a pilot at all? \"Some zombies are too stupid to do anything else,\" Dr. Edgar Zomboss said, as he welded the cockpit shut.</color>",
             "info": "<size=36>Equipped with two classic sci-fi weapons.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Every 2s, locks onto the nearest plant within a 2.5-tile radius and fires a Dissolver Beam, dealing 300 damage, prioritizing non-pumpkin, non-pot, non-flying plants.\n<color=black>•</color> When close to a plant, hovers directly above it and unleashes a Siphon Drainer that deals 10 damage every 0.02s to all plants on that tile. If hypnotized, the damage becomes healing instead with equal the amount.\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Dissolver Beams now target the farthest plant within range\n2. Siphon Drainer's range: 1 Tile → 3×3 Area</color>"
         },
         {
@@ -820,7 +820,7 @@
             "theZombieType": 239,
             "name": "Clown-on-the-Jetski Zombie",
             "introduce": "<align=justified><size=36><color=black>The first zombie to use pogo sticks and Jack-in-the-Boxes on water. How did he do it? \"Science! Newton's third law, nitroglycerin, and springs! Oh yeah!\" Is he a genius or a maniac? Who knows!</color>",
-            "info": "<size=36>Uses a modified pogo stick to jetski across water lanes, rushing at plants and littering a cluster of j-i-t-b bombs.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Very fast. When stopped by a plant, dies instantly and litters bombs that detonate like Jack-in-the-Boxes within a 3.5-tile radius, for a total of (plants hit × map lanes) bombs.\n<color=black>•</color> Always triggers a Jack-in-the-Box explosion on death.</color>"
+            "info": "<size=36>Uses a modified pogo stick to jetski across water lanes, rushing at plants and littering a cluster of Jack-in-the-Boxes.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Very fast. When stopped by a plant, dies instantly and litters bombs that detonate like Jack-in-the-Boxes within a 3.5-tile radius, for a total of (plants hit × map lanes) bombs.\n<color=black>•</color> Always triggers a Jack-in-the-Box explosion on death.</color>"
         },
         {
             "theZombieType": 300,
