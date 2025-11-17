@@ -1,4 +1,10 @@
-Plants VS. Zombies: Fusion - Update 3.1 Changelog
+<align=center><size=20>Disclaimer</size></align>
+The Official source of PvZ Fusion is only on the dev, 蓝飘飘fly's Bilibili</color>
+The only valid source of this translation is from this community: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color> and the associated GitHub pages.
+Stay away from other sources like <color=#8B0000>pvzfusion.net</color> or <color=#8B0000>pvzfusion.pro</color> as they redistribute our work without permission.
+Please visit our community for future updates and support.
+
+<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.1.1 Changelog</size></align>
 
 1. Abyss Season 2
 - Test your skills in the brand new Abyss season, featuring 30 new levels, with a new level layout and Abyss modifiers! 
