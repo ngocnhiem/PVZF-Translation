@@ -417,7 +417,7 @@
         {
             "theZombieType": 74,
             "name": "Hypno Pepper Zombie",
-            "introduce": "<align=justified><size=36><color=black>On her first appearance at the Hypnotized Zombie Beauty Pageant, Hypno Pepper Zombie won unanimous praise from all judges and took the first place with ease. Both plant and zombie judges called her 'hot' abd 'spicy'. Aside from a few mysteriously missing contestants, it was a flawless event.</color>",
+            "introduce": "<align=justified><size=36><color=black>On her first appearance at the Hypnotized Zombie Beauty Pageant, Hypno Pepper Zombie won unanimous praise from all judges and took the first place with ease. Both plant and zombie judges called her 'hot' and 'spicy'. Aside from a few mysteriously missing contestants, it was a flawless event.</color>",
             "info": "<size=36>Burns Hypnotized Zombies in her lane.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082> Immune to Stuns. Self-destructs after some time, releasing a row of flames that deals 1800 damage only to Hypnotized Zombies in her lane.</color>"
         },
         {
