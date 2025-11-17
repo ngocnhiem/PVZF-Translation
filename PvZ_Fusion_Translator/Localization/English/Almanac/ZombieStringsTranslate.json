@@ -247,6 +247,18 @@
             "info": "<size=36>A rolling bowling ball on the zombies' side.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Switches lanes when hitting plants, speeds up on slopes. Slows down after switching lanes.\n<color=black>•</color>Crushes plants that has less than or equal to 1000 Toughness, and deals 1000 damage to tougher plants.\n<color=black>•</color> Spawns 5 Imps upon death.\n<color=black>•</color> Has equal probablities to drop an ice ball, fireball, or Mecha Fragment.\n<color=black>•</color> The balls can crush plants, block up to 30 bullets, and last 30 seconds. Can be countered by Ice-/Fire-based plant fusions.\n<color=black>Weakness: </color><color=#4B0082>Umbrella Fusions</color>"
         },
         {
+            "theZombieType": 41,
+            "name": "Silver Zombie Statue",
+            "introduce": "<align=justified><size=36><color=black>Gin. Yin. Silver. Silber. Argent. Plata. Argentum. Argyros.",
+            "info": "<size=36>Gin.\n\n<color=black>Toughness: </color><color=#4B0082>200</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immobile.\n<color=black>•</color> Drops a Diamond (1k Coins) upon death.</color>"
+        },
+        {
+            "theZombieType": 42,
+            "name": "Golden Zombie Statue",
+            "introduce": "<align=justified><size=36><color=black>Kin. Jin. Gold. Gold. Or. Oro. Aurum. Chrysos.",
+            "info": "<size=36>Kin.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immobile.\n<color=black>•</color> Drops a Diamond (3k Coins) upon death.</color>"
+        },
+        {
             "theZombieType": 43,
             "name": "Armored Gargantuar",
             "introduce": "<align=justified><size=36><color=black>The Armored Gargantuar is a big fan of a skin called 'Cavalier' from his favorite game. So, he spent a fortune custom-ordering a set of medieval armor tailored just for him. However, when he tried to take it off, he found it was stuck for good... And that's how he ended up with a permanent 'Cadavelier' skin.</color>",
@@ -310,7 +322,13 @@
             "theZombieType": 53,
             "name": "Frost Legion Freezer Disc",
             "introduce": "<align=justified><size=36><color=black>Before every liftoff, the crew of the Freezer Disc spends half an hour clearing snow and ice — and dragging out the Snowfurs hiding in the corners. \"Getting this frozen lump off the ground eats up a ridiculous amount of fuel,\" the pilot grumbles.</color>",
-            "info": "<size=36>It’s snowing! This chilly guest drifts in with flurries, silences plants, and leaves with backup.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Blover. Creates snowflakes while moving, silencing plants below. Slows down over time — when speed reaches zero, reverses direction. Upon exit, summons a Frost Legion Squad: one each of Shieldbearer, Snowball Launcher, and Trident Thrower Zombies.</color>"
+            "info": "<size=36>It's snowing! This chilly guest drifts in with flurries, silences plants, and leaves with backup.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Blover. Creates snowflakes while moving, silencing plants below. Slows down over time — when speed reaches zero, reverses direction. Upon exit, summons a Frost Legion Squad: one each of Shieldbearer, Snowball Launcher, and Trident Thrower Zombies.</color>"
+        },
+        {
+            "theZombieType": 54,
+            "name": "Dummy Zombie",
+            "introduce": "<align=justified><size=36><color=black>I cannot die.</color>",
+            "info": "<size=36>Literally testing dummy.\n\n<color=black>Toughness: </color><color=#4B0082>Invincible</color>\n<color=black>Traits: </color><color=#4B0082>Shows last received damage, received damage dps and total received damage.</color>"
         },
         {
             "theZombieType": 55,
@@ -343,6 +361,12 @@
             "info": "<size=36>Gets angry when his reading is interrupted... then goes home to fetch another tabloid.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 720 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>After losing his tabloid, greatly increases speed and reverses direction. Upon exiting on the right, spawns a brand new Dolphinhead Newspaper Zombie. This does not trigger if he's hypnotized.</color>"
         },
         {
+            "theZombieType": 60,
+            "name": "Boomer Missile",
+            "introduce": "<align=justified><size=36><color=black>Boom!</color>",
+            "info": "<size=36>Explodes.\n\n<color=black>Toughness: </color><color=#4B0082>1000</color>\n<color=black>Traits: </color><color=#4B0082>Can only be targeted by anti-air attacks.</color>"
+        },
+        {
             "theZombieType": 61,
             "name": "Dolphinhead Football Zombie",
             "introduce": "<align=justified><size=36><color=black>This guy moves like a fish in water on the football field. Wait! It's supposed to be a metaphor! Who said you could flood the lawn!?</color>",
@@ -365,6 +389,12 @@
             "name": "Beach Michael Zombie",
             "introduce": "<align=justified><size=36><color=black>Heehee~</color>",
             "info": "<size=36>Michael is on vacation with a newfound passion for uncovering stone statues from lost coastal civilizations!\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Summons 4 Dancing Statues with 500 HP. If not destroyed after 15s, each Statue breaks and spawns a Beach Michael with HP equal to the statue's remaining HP.\n<color=black>•</color> In non-TD modes, Statues appear in the same spots where a regular Michael would summon Dancing Pole Vaulters.</color>"
+        },
+        {
+            "theZombieType": 65,
+            "name": "Stone Dancing Statue",
+            "introduce": "<align=justified><size=36><color=black>Moai.</color>",
+            "info": "<size=36>Hm.\n\n<color=black>Toughness: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Breaks and spawns a Beach Michael with HP equal to the statue's remaining HP 15s after being summoned.\n<color=black>•</color> In non-TD modes, Statues appear in the same spots where a regular Michael would summon Dancing Pole Vaulters.</color>"
         },
         {
             "theZombieType": 66,
