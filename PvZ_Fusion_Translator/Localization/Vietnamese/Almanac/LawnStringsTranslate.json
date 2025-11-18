@@ -943,7 +943,7 @@
       "name": "Thiết Đậu Tiểu Đội (942)",
       "introduce": "<align=justified><size=36><color=#3D1400>Điều tụi Thiết Đậu Tiểu Đội lo sợ nhất... cuối cùng cũng tới thật: bị Nấm Nam Châm hút chặt như crush nhìn thấy tin nhắn 'anh ơi có đồ ăn'. Dính vô cái là không ai gỡ ra nổi! Nhưng hoá ra xui xẻo lại hoá hên: Nấm Nam Châm tích trữ đồ sẵn, tiện tay độ cho tụi nó full set vũ khí chiến. Giờ thì khỏi nói – chính thức trở thành Đội Hình Thép, bắn đâu nát đó, đỉnh khỏi bàn!</color>",
       "info": "<size=36>Tiểu Đội Bất Khả Chiến Bại!\n\n<color=#4A2900>Điều Kiện Sử Dụng:Chế Độ Du Lịch|Chọn Lúc Ban Đầu\n<color=#3D1400>Sát Thương:</color><color=red> 80*4/giây (Súng Máy), 240/2 giây (Phòng Không), 400/3 giây (Bắn Tỉa)</color>\n<color=#3D1400>Máu:</color><color=red> 6000\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> <color=#3D1400>Súng máy:</color> Sát thương từ súng máy gây đẩy lùi và sẽ gây thêm sát thương tương ứng với lượng giáp cấp 2 hiện tại của Zombie\n<color=black>•</color><color=#3D1400> Pháo Phòng Không:</color> Chỉ tấn công mục tiêu trên không cùng hàng, gây nổ bán kính 1 ô và đẩy lùi\n<color=black>•</color> <color=#3D1400>Bắn tỉa:</color> Mang đặc điểm của Đậu Cao Xạ</color>\n\n<color=#3D1400>Buff 1:</color><color=red> Bắn tỉa luôn gây 1.000.000 sát thương, có 1/3 xác suất bắn liên tục lập tức nhưng sẽ bắn mỗi 7.5 giây.</color>\n<color=#3D1400>Buff 2:</color><color=red> Tăng khả năng đẩy lùi cho Súng Máy và Phòng Không và sát thương của pháo Phòng Không tăng x3<color=#3D1400>|Mở khoá công thức:</color> Thiết Đậu Không Binh</color></color>",
-      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu Sắt Tí hon + Nấm Nam Châm</color>"
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu Sắt Tí Hon + Nấm Nam Châm</color>"
     },
     {
       "seedType": 943,
@@ -1076,7 +1076,7 @@
     "name": "Thiết Đậu Không Binh (961)",
     "introduce": "<align=justified><size=36><color=#3D1400>Sau khi trang bị bô phản lực từ trường mới nhất, Thiết Đậu Tiểu Đội cuối cùng đã trở thành một đơn vị đặc nhiệm có thể tấn công bất cứ đâu. Tuy nhiên, do hạn chế kỹ thuật, họ không thể dùng vũ khí hạng nặng nữa mà chỉ có thể dùng súng máy, nhưng niềm tin và quyết tâm tiêu diệt Zombie vẫn không hề thay đổi.</color></size></align>",
     "info": "<size=36>Nâng cấp toàn diện, giờ đây oanh tạc từ trên cao\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Mở khóa bằng buff của Thiết Đậu Tiểu Đội</color>\n<color=#3D1400>Sát Thương: </color><color=red>80*3/0.16 giây\n<color=#3D1400>Máu: </color><color=red>6000\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Phân loài của Thiết Đậu Tiểu Đội, chuyển đổi qua lại bằng Cỏ 3 Lá và Nam Châm.\n<color=black>•</color> Sau khi ghép sẽ triển khai 1 drone Nấm Sắt, có thể triển khai tới bất kì vị trí nào tương tự như Pháo Ngô.\n<color=black>•</color> Có thể nhấn Ctrl để tập hợp toàn bộ drone Nấm Sắt vào chung 1 vị trí.\n<color=black>•</color> Cho mỗi buff của Thiết Đậu Tiểu Đội được mở khóa, sát thương x3.</color>",
-    "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đàn Nấm Biển + Nấm Hải Yêu</color>"
+    "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Thiết Đậu Tiểu Đội + Cỏ 3 Lá</color>"
    },
    {
     "seedType": 962,
