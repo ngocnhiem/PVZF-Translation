@@ -397,6 +397,24 @@
         "introduce": "<size=36><color=black>Thay vì ta có thầy yểm bùa hay gì đó, chúng ta có Zombie Nguyền Rủa cầm cái thang, ít nhất cái thang này có thể trừng phạt cây bị đặt trên nó.</color>",
         "info": "<size=36>Nguyền rủa cây bằng thang của mình.\n\n<color=black>Máu: </color><color=#4B0082>720+1400 (Giáp cấp 2)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Thang không thể bị hút bởi cây từ tính và sát thương nhận vào đều chuyển hết cho thang.\n<color=black>•</color> Khi đặt thang, toàn bộ cây trong ô có thang đó sẽ phải nhận sát thương thay. Thang chỉ biến mất nếu Zombie cầm thang chết hay gây đủ 8000 sát thương.</color>"
     },
+    {
+            "theZombieType": 73,
+            "name": "Hoa Lan Thây Ma",
+            "introduce": "<align=justified><size=36><color=black>Không ai biết vì sao cô lại xuất hiện giữa đám xác sống, cũng chẳng ai hiểu được vì sao cô có thể triệu hồi Zombie vô tân. Có người nói cô chính là xác sống từ Hoa Lan Lửa; cũng có kẻ cho rằng cô là kẻ phản bội của phía cây. Nhưng dù sự thật là gì đi nữa, Hoa Lan Thây Ma vẫn giữ điều ấy trong lòng. Vì không một ai có thể hiểu được.</color>",
+            "info": "<size=36>Bông hoa xấu xa mà có thể triệu hồi Zombie như mộ.\n\n<color=black>Máu: </color><color=#4B0082>300</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Chỉ xuất hiện từ ô thứ 5 bên phải sân trở đi, ưu tiên chọn ô trống.\n<color=black>•</color> Sẽ triệu hồi 1 Zombie ngẫu nhiên sau 10 giây, sau đó sẽ triệu hồi Zombie ngẫu nhiên mỗi 15 giây.\n<color=black>•</color> Có thể chắn đạn, mỗi đạn nó chặn sẽ chỉ mất 30 máu. Nếu dùng phân bón lên nó thì sẽ biến mất ngay lập tức và sẽ rớt ra hộp quà.</color>"
+        },
+          {
+            "theZombieType": 74,
+            "name": "Zombie Ớt Thôi Miên",
+            "introduce": "<align=justified><size=36><color=black>Lần đầu xuất hiện tại Cuộc Thi Sắc Đẹp Zombie Thôi Miên, Zombie Ớt Thôi Miên đã nhận được lời khen tuyệt đối từ toàn bộ ban giám khảo và dễ dàng giành vị trí quán quân. Cả giám khảo phía cây và Zombie đều gọi cô ấy là “nóng bỏng” và “cay xé lưỡi”. Ngoài việc một vài thí sinh bị mất tích một cách bí ẩn… thì đó quả là một sự kiện hoàn hảo.</color>",
+            "info": "<size=36>Đốt Zombie thôi miên trên hàng của nó.\n\n<color=black>Máu: </color><color=#4B0082>720</color>\n<color=black>Đặc Điểm: </color><color=#4B0082> Sau 1 thời gian, phát nổ và gây 1800 sát thương lên Zombie Thôi Miên.</color>"
+        },
+        {
+            "theZombieType": 75,
+            "name": "Zombie Thợ Mỏ Ớt Thôi Miên",
+            "introduce": "<align=justified><size=36><color=black>Zombie Thợ Mỏ Ớt Thôi Miên có bất ngờ tuyệt hảo trong ngày sinh nhật của mình, cô ta đã biến mọi cây thành Zombie thôi miên, chỉ là, đám Zombie này không thích mấy cái đánh lén này.</color>",
+            "info": "<size=36>Dùng xẻng để biến cây thành Zombie, rồi sau đó phát nổ\n\n<color=black>Máu: </color><color=#4B0082>1500</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với bơ, nếu còn cuốc và tấn công lên cây, biến cây đó thành Zombie Cây Thôi Miên ngẫu nhiên, hoặc gây 500 sát thương lên cây phòng thủ.\n<color=black>•</color>Sau 1 thời gian, phát nổ và gây 1800 sát thương cho Zombie bị thôi miên.</color>"
+        },
         {
            "theZombieType": 100,
             "name": "Zombie Đậu Hà Lan (100)",
@@ -731,13 +749,67 @@
             "theZombieType": 229,
             "name": "<color=#4B0082>Nguyên Soái Hắc Thiết (229)",
             "introduce": "<size=36><color=black>Đánh thức từ giấc ngủ ngàn năm, chỉ huy tối cao của phe Zombie đã xông pha chiến trận, cày nát đội hình đối phương. Cùng với con ngựa đáng tin cậy của mình, và với khẩu súng gattling và giáp được ban tặng bởi tiến sĩ Zomboss. Hắn mang đến lời chào từ bóng tối, lưỡi đao chiến mã quét qua, màn đêm phủ xuống, trật tự mới khai sinh; như để tuyên bố với toàn bộ cây: đây chính là cái giá của việc khước từ hắn.</color></color>",
-            "info": "<size=36>Đại soái thống lĩnh vạn binh mã.\n\n<color=black>Sát Thương:</color><color=#4B0082> 80/0.1 giây</color>\n<color=black>Máu:</color><color=#4B0082> 36000</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, đẩy lùi, thôi miên, nuốt chửng. Chỉ nhận 5000 sát thương từ hành quyết.\n<color=black>•</color> Có thể xuất hiện trực tiếp từ ô 5 bên phải sân nếu không bị chặn. Sau đó cưỡi chiến mã nghiền nát cây ở phía trước và kích hoạt hiệu ứng Nguyền Rủa ở phạm vi 3x3 ô trong 5 giây.\n<color=black>•</color> Sau khi tông cây, nó sẽ dừng trong 1.5 giây, sau đó di chuyển bình thường trong 10 giây trước khi tiếp tục húc vào cây.\n<color=black>•</color> Hồi 200 máu mỗi 0.1 giây.\n<color=black>•</color> Nếu máu dưới 2/3, triệu hồi 1 hàng Zombie Thiết Bầu Dục Bão Tố.\n<color=black>•</color> Nếu máu xuống 0, Nguyên Soái Hắc Thiết sẽ xuống ngựa và tiếp tục chiến đấu.\n<color=black>Hiệu ứng Nguyền Rủa:</color><color=#4B0082>Toàn bộ sát thương Nguyên Soái Hắc Thiệt nhận vào sẽ chuyển hết cho cây, cây không thể nhận sát thương thay và sẽ không kích hoạt hiệu ứng nhận sát thương của cây. Sát thương sẽ chia đều cho cây bị ảnh hưởng và chỉ biến mất sau 5 giây và sát thương tối thiểu phải nhận vào là 5000.</color></size>"
+            "info": "<size=36>Đại soái thống lĩnh vạn binh mã.\n\n<color=black>Sát Thương:</color><color=#4B0082> 80/0.1 giây</color>\n<color=black>Máu:</color><color=#4B0082> 36000</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, đẩy lùi, thôi miên, nuốt chửng. Chỉ nhận 5000 sát thương từ hành quyết.\n<color=black>•</color> Có thể xuất hiện trực tiếp từ ô 5 bên phải sân nếu không bị chặn. Sau đó cưỡi chiến mã nghiền nát cây ở phía trước và kích hoạt hiệu ứng Nguyền Rủa ở phạm vi 3x3 ô trong 5 giây.\n<color=black>•</color> Sau khi tông cây, nó sẽ dừng trong 1.5 giây, sau đó di chuyển bình thường trong 10 giây trước khi tiếp tục húc vào cây.\n<color=black>•</color> Hồi 200 máu mỗi 0.1 giây.\n<color=black>•</color> Nếu máu dưới 2/3, triệu hồi 1 hàng Zombie Thiết Bầu Dục Bão Tố.\n<color=black>•</color> Nếu máu xuống 0, Nguyên Soái Hắc Thiết sẽ xuống ngựa và tiếp tục chiến đấu.\n<color=black>Hiệu ứng Nguyền Rủa:</color><color=#4B0082> Toàn bộ sát thương Nguyên Soái Hắc Thiệt nhận vào sẽ chuyển hết cho cây, cây không thể nhận sát thương thay và sẽ không kích hoạt hiệu ứng nhận sát thương của cây. Sát thương sẽ chia đều cho cây bị ảnh hưởng và chỉ biến mất sau 5 giây và sát thương tối thiểu phải nhận vào là 5000.</color></size>"
         },
         {
             "theZombieType": 230,
             "name": "<color=#4B0082>Nguyên Soái Hắc Thiết Bão Tố (230)",
             "introduce": "<size=36><color=black>Nguyên Soái Hắc Thiết và An Bá Tử Khang đã quen nhau từ lâu, họ luôn tranh đấu để thành phó tướng trong quân đội Zombie. Khi rảnh rỗi, họ còn chơi cờ tưởng bản Zombie nữa.</color></color>",
-            "info": "<size=36>Biện pháp cuối cùng\n\n<color=black>Sát Thương:</color><color=#4B0082> 80/0.1 giây</color>\n<color=black>Sát Thương Cắn:</color><color=#4B0082> 100</color>\n<color=black>Máu:</color><color=#4B0082> 18000</color>\n<color=black>Đặc Điểm:</color><color=#4B0082> Chỉ xuất hiện sau khi Nguyên Soái Hắc Thiết bị đánh bại. Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, đẩy lùi.</color></size>"
+            "info": "<size=36>Biện pháp cuối cùng.\n\n<color=black>Sát Thương:</color><color=#4B0082> 80/0.1 giây</color>\n<color=black>Sát Thương Cắn:</color><color=#4B0082> 100</color>\n<color=black>Máu:</color><color=#4B0082> 18000/45000 (Boss)</color>\n<color=black>Đặc Điểm:</color><color=#4B0082> Chỉ xuất hiện sau khi Nguyên Soái Hắc Thiết bị đánh bại. Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, đẩy lùi.</color></size>"
+        },
+        {
+            "theZombieType": 231,
+            "name": "<color=#4B0082>Hắc Thiết Kỵ Sĩ (231)",
+            "introduce": "<size=36><color=black>Tuy bị giáng cấp xuống còn Kỵ Sĩ, Hắc Thiết Kỵ Sĩ vẫn chu du khắp nơi, tập hợp binh mã nhằm chinh phạt 1 lần nữa.</color></color>",
+            "info": "<size=36>Chỉ huy tối cao của binh đoàn Zombie.\n\n<color=black>Sát Thương:</color><color=#4B0082> 500</color>\n<color=black>Máu:</color><color=#4B0082> 90000</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Là Boss, không thể bị tiêu diệt bởi xe cắt cỏ. Miễn nhiễm sát thương từ Óc Chó Lăn Khổng Lồ. Có khả năng nghiền nát những cây miễn nhiễm với nghiền nát.\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, bơ, đẩy lùi, thôi miên, nuốt chửng. Chỉ nhận 5000 sát thương từ hành quyết.\n<color=black>•</color> Xuất hiện từ ngoài cùng sân, nghiền nát cây đằng trước, sau đó sẽ thi triển các kỹ năng sau đây:\n<color=black>Skill 1:</color><color=#4B0082> Vung cờ hiệu, triều hồi Zombie ngẫu nhiên trên mỗi hàng.\n<color=black>Skill 2:</color><color=#4B0082> Lao thẳng về phía trước, sau đó tung 1 nhát chém. Rồi quay đầu và tung thêm 1 nhát nữa. (Các đòn tấn công sẽ gây sát thương cho cả cây trong bí ngô)\n<color=black>Skill 3:</color><color=#4B0082> Chém 4 phát về phía trước, gây sát thương diện rộng.\n<color=black>Skill 4:</color><color=#4B0082> Triệu hồi Ma Kỵ Sĩ ở mỗi hàng, lao về phía trước và gây 1000 sát thương cho toàn bộ cây nó đi qua.\n<color=black>Skill 5:</color><color=#4B0082> Nhảy ngẫu nhiên ở giữa sân và đầu sân, sau đó nhảy về phía cuối sân.\n<color=black>•</color> Nếu máu xuống 0, Nguyên Soái Hắc Thiết sẽ xuống ngựa và tiếp tục chiến đấu. Máu sẽ là 45000.</color></size>"
+        },
+        {
+            "theZombieType": 232,
+            "name": "<color=#4B0082>Ma Kỵ Sĩ (232)",
+            "introduce": "<size=36><color=black>Đám Zombie hô vang khi Hắc Thiết Kỵ Sĩ trở về từ cõi chết, trong khi tiến sĩ Edgar cười thầm trong lòng, khi máy chiếu vật thể hoạt động hoàn hảo và sẽ sớm dùng cho công cuộc trả thù.</color></color>",
+            "info": "<size=36>Trỗi dậy từ cái chết.\n\n<color=black>Sát Thương:</color><color=#4B0082> 1000</color>\n<color=black>Máu:</color><color=#4B0082> 15000</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Triệu hồi từ Hắc Thiết Kỵ Sĩ.\n<color=black>•</color> Khi ra sân sẽ chạy tới cuối sân, gây 1000 sát thương cho bất kì cây nào nó đi qua.\n<color=black>•</color> Cây trong bí ngô sẽ không bị nó gây sát thương.\n<color=black>•</color> Không tính là thua nếu Ma Kỵ Sĩ chạy vào nhà.</color></size>"
+        },
+        {
+            "theZombieType": 233,
+            "name": "Vũ Trang Khổng Nhân Cường Hóa (233)",
+            "introduce": "<size=36><color=black>Các Vũ Trang Khổng Nhân tự hào về tính đồng đội, nhưng Mắt Xanh dường như thường bị xa lánh. Đó là vì ba con còn lại có thể làm thành cột đèn giao thông rồi.</color></color>",
+            "info": "<size=36>Trang bị tận răng với sức mạnh cường hóa.\n\n<color=black>Sát Thương:</color><color=#4B0082> 3600</color>\n<color=black>Máu:</color><color=#4B0082> 16000+16000 (Giáp cấp 1)</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Không còn khả năng ném tiểu Zombie, sát thương gây ra với Zombie thôi miên là 3600.\n<color=black>•</color> Khi ra sân sẽ ở 1 trong 4 dạng sau:\n<color=black>Mắt Đỏ:</color><color=#4B0082> Giảm 66% sát thương nhận vào, miễn nhiễm với hiệu ứng Chịu Nhiệt.\n<color=black>Mắt Xanh:</color><color=#4B0082> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, đẩy lùi. Tốc độ di chuyển x2, mỗi lần đập sẽ gây 5 lần sát thương.\n<color=black>Mắt Vàng:</color><color=#4B0082> Miễn nhiễm với bơ, mỗi lần đập sẽ nhảy về phía trước 1 ô rồi đập thêm 1 phát.\n<color=black>Mắt Lục:</color><color=#4B0082> Miễn nhiễm với hiệu ứng độc tỏi, mỗi lần đập thì sẽ hồi 10% máu tối đa.\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Vũ Trang Khổng Nhân Cường Hóa có khả năng của cả 4 dạng.\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082> Phạm vi tấn công của Khổng Nhân Vũ Trang Cường Hóa tăng thêm 1 ô.</color></size>"
+        },
+        {
+            "theZombieType": 234,
+            "name": "<color=#4B0082>Lãnh Chúa Imp (234)",
+            "introduce": "<size=36><color=black>Là kẻ đừng đầu trong đám tiểu Zombie, Lãnh Chúa Imp không uyên bác như Zombie Giáo Sư, không lịch thiệp như Zombie Vũ Công - mà hắn ta chỉ làm điều hắn ta thích, cưỡi chiếc ca nô hình con gà và bắt đầu 1 chuyến phiêu lưu mới.",
+            "info": "<size=36>Thay thế Hắc Diện Vũ Trang, chỉ huy quân đoàn Luyện Ngục.\n\n<color=black>Máu: </color><color=#4B0082>48000</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Chỉ xuất hiện ở tuyến du lịch mới, thay thế cho Hắc Diện Vũ Trang Khổng Nhân.\n<color=black>•</color> Giảm 80% sát thương các Zombie phải nhận. Đồng thời tăng 20% tốc độ và có tỉ lệ 20% sát thương nhận vào còn 1 cho toàn bộ Zombie trên sân.\n<color=black>•</color> Miễn nhiễm với hiệu ứng rong biển và bơ.\n<color=black>•</color> Nghiền nát cây nó đi qua. \n<color=black>•</color> Nếu bị phá hủy thì Lãnh Chúa Imp sẽ nhảy vào ô đất gần đó để chạy thoát.</color></size>"
+        },
+        {
+            "theZombieType": 235,
+            "name": "<color=#4B0082>Lãnh Chúa Imp (235)",
+            "introduce": "<size=36><color=black>Người ta thường nó, đánh kẻ chạy đi chứ không ai đánh kẻ chạy lại, và nếu mà không đánh tên Lãnh Chúa đó thì thực sự sẽ rất khó chịu đấy.",
+            "info": "<size=36>Rút lui khỏi chiến tuyến, trở lại với cỗ chiến kê mới.\n\n<color=black>Máu: </color><color=#4B0082>12000</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Chỉ xuất hiện sau khi Lãnh Chúa Imp bị đánh bại. Miễn nhiễm với hiệu ứng bơ và đẩy lùi.\n<color=black>•</color> Cho mỗi miniboss trên sân, giảm 20% sát thương nhận vào.\n<color=black>•</color> Sau khi rơi xuống đất sẽ chạy ra khỏi sân và bỏ qua cây.\n<color=black>•</color> Một khi ra khỏi sân, trở lại với xuồng ca nô gà của mình, áp dụng cho cả khi bị dù bật bay ra khỏi sân.</color></size>"
+        },
+        {
+            "theZombieType": 236,
+            "name": "Tàu UFO Xung Kích (233)",
+            "introduce": "<size=36><color=black>Lấy cảm hứng từ Tàu UFO tấn công của Yuri từ Yuri Revenge, được trang bị vũ khí hạng nặng và hệ thống tự điều khiển. Nên là ngay cả kíp lái cũng không cần làm gì mấy, cứ ngồi xem nó chạy là được.</color></color>",
+            "info": "<size=36>Thay thế máy tạo tuyết bằng súng laser và tia từ trường.\n\n<color=black>Sát Thương:</color><color=#4B0082> 300/2 giây (Laser), 10/0.02 giây (Tia từ trường)</color>\n<color=black>Máu:</color><color=#4B0082> 3000</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Mỗi 2 giây sẽ khóa mục tiêu vào cây gần nó nhất trong phạm vi 2.5 ô, gây 300 sát thương. Ưu tiên cây không phải chậu hoa và bí ngô.\n<color=black>•</color> Khi áp sát cây đằng trước, lơ lửng trên cây đó và gây sát thương bằng 10/0.02 giây cho toàn bộ cây trong ô đó.\n<color=black>•</color> Nếu ở dạng thôi miên, đòn tấn công sẽ hồi máu cho cây thay vì gây sát thương.\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Tàu UFO Xung Kích ưu tiên tấn công cây xa nhất trong phạm vi bắn.\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082> Phạm vi sát thương của tia từ trường tăng lên thành 3x3 ô.</color></size>"
+        },
+        {
+            "theZombieType": 237,
+            "name": "Tàu Ngầm Anh Đào (237)",
+            "introduce": "<size=36><color=black>Việc sơn tàu ngầm cá heo này thành màu đỏ chả giúp được gì trong việc ẩn thân giữa đám tàu ngầm đâu. Ơ mà hình như tụi Zombie uống sạch sơn tại vì nghĩ nó là nước não rồi.</color></color>",
+            "info": "<size=36>Sử dụng năng lượng anh đào để tăng công suất cho động cơ.\n\n<color=black>Máu:</color><color=#4B0082> 9000</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Nghiền nát cây đằng trước.\n<color=black>•</color> Nếu như nhận hiệu ứng từ đạn siêu anh đào phe mình, hồi 150 máu và tăng 30% tốc độ (Tối đa x8 tốc độ)\n<color=black>•</color> Stack Rong Biển lên Zombie này không bao giờ vượt quá 10.</color></size>"
+        },
+        {
+            "theZombieType": 238,
+            "name": "Kỵ Sĩ Tuyết (238)",
+            "introduce": "<size=36><color=black>Việc lợi dụng Tiểu Thú Tuyết để bắt và thuần hóa Thú Tuyết là 1 công việc khó khăn. Vì thế Kỵ Sĩ Tuyết phải giả vờ thành con non nhắm bắt và thuần hóa. Tuy nhiên cái giá phải trả là hành động như 1 con Thú Tuyết.</color></color>",
+            "info": "<size=36>Húc cây, đẩy cây ra khỏi sân.\n\n<color=black>Máu:</color><color=#4B0082> 9000</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Khả năng kháng lạnh cấp 1, miễn nhiễm với đóng băng.\n<color=black>•</color> Nếu phía trước là cây thường, đẩy cả hàng cây 1 ô. Nếu như cây miễn nhiễm với nghiền nát hay là cây lớn (VD: Hắc Tảng), sẽ nghiền nát thay vì đẩy cây.\n<color=black>•</color> Khi đẩy cây mà không còn ô trống hoặc bị chặn đứng bởi cây miễn nghiễm nghiền nát/cây lớn, cây ở trước các cây đó sẽ bị nghiền nát để tạo ra ô trống.\n<color=black>•</color> Nếu máu còn dưới 50%, nhảy về phía trước 2.2 ô, bỏ qua cây.</color></size>"
+        },
+         {
+            "theZombieType": 239,
+            "name": "Zombie Ca-nô Hề (239)",
+            "introduce": "<size=36><color=black>Vua Hề Bật Nhảy là người đầu tiên cải tiến cái cần hề của mình thành 1 ca nô siêu tốc. Hỏi hắn làm thế nào à? “Khoa học! Định luật III Newton cộng Nitroglycerin! Và đừng quên cái lò xo nữa!”</color></color>",
+            "info": "<size=36>Phóng nhanh vượt ẩu.\n\n<color=black>Máu:</color><color=#4B0082> 6000</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Di chuyển cực nhanh.\n<color=black>•</color> Một khi tông vào cây, phát nổ và sẽ bắn ra số bom hề tương đương với (số cây bị ảnh hưởng bởi bom hề/số hàng trên sân) lên mọi hàng ở vị trí ngẫu nhiên.\n<color=black>•</color> Nếu chết sẽ luôn nổ bom hề.</color></size>"
         },
         {
             "theZombieType": 300,
