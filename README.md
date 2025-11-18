@@ -20,7 +20,7 @@ The download links for the Multi-language Mod and the translation files of the M
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
 **\_Redist (Install these if you have problem launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
-**Multi-Language 3.0.1 Version 2** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.0.1_v2)
+**Multi-Language 3.1.1 Version 2** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.1.1_v1)
 **English 3.0.1 Version 2** | Android | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.0.1_android_v2)
 **Chinese 3.1.1** | PC | [MEGA](https://mega.nz/file/cikAzYQA#bfRyhtqRgR2x0lK3KYqVL65D5WNVXfiSV2XMWJx1oaY) [Google Drive](https://drive.google.com/file/d/1ijPum6sPics1iLGgSjJOMBwgRq9GUunL/view?usp=sharing)
 **Chinese 3.1.1** | Android | [MEGA](https://mega.nz/file/3Mh3VZyZ#eHtGzgMjtMjnhft6gLL7paW70dyNw5g0k3LJU9qyR6s) [Google Drive](https://drive.google.com/file/d/1jQfA_DEByMZzYYWdADiBIrJMIXTNF3wR/view?usp=sharing)
@@ -30,7 +30,8 @@ The download links for the Multi-language Mod and the translation files of the M
 > Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
 
 > The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, **Ukrainian** and **Korean**. Other contained languages are empty for the moment.
-	Up-to-date - English, Spanish, Vietnamese, Japanese, Korean, Ukrainian
+	Up-to-date (3.1.1) - English, Vietnamese
+    Partially Up-to-date (3.1.1) - Spanish, Japanese, Korean, Ukrainian
 	Last Updated 2.6.1 - Indonesian, Russian 
 	Last Updated 2.5.1 - Portuguese, Javanese
 	Last Updated 2.3.1 - French
