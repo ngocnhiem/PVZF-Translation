@@ -110,7 +110,7 @@
   "通用_时停": "<color=#FF6700>Generalis:</color>\nStasis",
   "可以通过长按来取下时停按钮，用以敲打僵尸并将其“时停”": "Hold the Slow Mode button to pick it up, allowing you to hit zombies and put them into Stasis.",
   "通用_升级": "<color=#FF6700>Generalis:</color>\nUpgrade",
-  "可以使用手套点击植物自身来升级": "Click on a plant with the Gloves to upgrade it.",
+  "可以使用手套点击植物自身来升级": "Click on a plant while holding it with the Glove to upgrade it.",
   "蒜毒_聚塑": "<color=#4f9c1f>Toxicus:</color>\nIntegration",
   "每拥有1个蒜毒词条，僵尸受到的伤害增加{value}%，激活腐化效果": "For each Toxicus modifier, zombies take {value}% more damage and the Corruption effect is activated.",
   "蒜毒_腐蚀": "<color=#4f9c1f>Toxicus:</color>\nCorrosion",

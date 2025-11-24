@@ -202,7 +202,7 @@
             "theZombieType": 33,
             "name": "Ladder Zombie",
             "introduce": "<align=justified><size=36><color=black>Ladder Zombie heard online that with a ladder and some work clothes, he could sneak past any defenses. Armed with a ladder and dressed like a worker, he sets out to conquer the plant defenses.\nPeashooter's comment: \"Didn't anyone tell him that his zombie skin is way too noticeable...?\"</color>",
-            "info": "<size=36>This zombie uses a ladder to bypass obstacles.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 720 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Can use the ladder to ignore plant defenses. Laddered plants cannot be moved by gloves. Ladders can be destroyed by Cremators. Ladder can be removed by Magnet-shrooms.</color>"
+            "info": "<size=36>This zombie uses a ladder to bypass obstacles.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 720 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Can use the ladder to ignore plant defenses. Laddered plants cannot be moved by the Glove. Ladders can be destroyed by Cremators. Ladder can be removed by Magnet-shrooms.</color>"
         },
         {
             "theZombieType": 34,
