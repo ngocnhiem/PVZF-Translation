@@ -688,10 +688,10 @@
         },
         {
             "seedType": 1030,
-            "name": "Double Pisto-pois",
-            "introduce": "<size=36><color=black>Contrairement à son comfrère brillant et enjoué, Double Pisto-Pois mène une vie insouciante, jusqu'à ce qu'il soit temps de se battre. Il a secrètement appris à maîtriser l'art du double tir, une maîtrise qu'il cache au Pisto-Pois.  \\\"Je veux qu'il vive une vie insouciante sans jamais avoir à apprendre ces maîtrises de guerre.\\\"</color></size>",
-            "info": "<size=36>Double Pisto-pois tire deux pois à la fois.\n\n<color=black>Dégâts : </color><color=#8B0000>20*2/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pisto-pois + Pisto-pois</color></size>",
-            "cost": ""
+            "name": "Double-pois",
+            "introduce": "<size=36><color=black>Contrairement à son comfrère brillant et enjoué, Double-Pois mène une vie insouciante, jusqu'à ce qu'il soit temps de se battre. Il a secrètement appris à maîtriser l'art du double tir, une maîtrise qu'il cache au Pisto-Pois.  \\\"Je veux qu'il vive une vie insouciante sans jamais avoir à apprendre ces maîtrises de guerre.\\\"</color></size>",
+            "info": "<size=36>Double-pois tire deux pois à la fois.\n\n<color=black>Dégâts : </color><color=#8B0000>20*2/1.5 Secondes</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Pisto-pois</color></size>"
         },
         {
             "seedType": 1031,
@@ -703,9 +703,9 @@
         {
             "seedType": 1032,
             "name": "Sulfateuse à Pois",
-            "introduce": "<size=36><color=black>Gatling Pea, le grand frère de la famille Pea, se tient droit avec son canon de fusil, fondement même de la sécurité de tous. Son dos est comme un monument sur le champ de bataille, admiré de tous. Pourtant, il sourit modestement, sachant que son quotidien est en réalité géré par son jeune frère, Pistopois. \"Je ne peux pas vivre sans lui\", admet-il doucement.</color></size>",
-            "info": "<size=36>Sulfateuse à Pois tire quatre pois à la fois.\n\n<color=black>Dégâts : </color><color=#8B0000>20*4/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pois cassés + Pisto-pois</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>La Sulfateuse à Pois est le grand frère de la famille Pois. Il se tient droit avec son canon de fusil. Il est le fondement même de la sécurité de tous. Son dos est comme un monument sur le champ de bataille, admiré de tous. Pourtant, il sourit modestement, sachant que son quotidien est en réalité géré par son jeune frère, Pistopois. \"Je ne peux pas vivre sans lui\", admet-il doucement.</color></size>",
+            "info": "<size=36>Sulfateuse à Pois tire quatre pois à la fois.\n\n<color=black>Dégâts : </color><color=#8B0000>20*4/1.5 Secondes</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Triple-pois + Pisto-pois</color></size>"
         },
         {
             "seedType": 1033,
@@ -1101,10 +1101,10 @@
         },
         {
             "seedType": 1090,
-            "name": "Double-pois",
-            "introduce": "<size=36><color=black>Les frères Split Pea se disputaient toujours sur la meilleure direction pour tirer : vers l'avant ou vers l'arrière. Mais maintenant, ils ont trouvé une solution astucieuse : il suffit de laisser les pois rebondir. Problème résolu !</color></size>",
-            "info": "<size=36>Les Double-pois tirent des pois en avant et en arrière.\n\n<color=black>Dégâts : </color><color=#8B0000>20*3/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les pois tirés vers l'arrière rebondiront et avanceront.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Double Pisto-pois + Pisto-pois</color></size>",
-            "cost": ""
+            "name": "Triple-pois",
+            "introduce": "<size=36><color=black>Les frères Pois se disputaient toujours sur la meilleure direction pour tirer : vers l'avant ou vers l'arrière. Mais maintenant, ils ont trouvé une solution astucieuse : il suffit de laisser les pois rebondir. Problème résolu !</color></size>",
+            "info": "<size=36>Les Triple-pois tirent des pois en avant et en arrière.\n\n<color=black>Dégâts : </color><color=#8B0000>20*3/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les pois tirés vers l'arrière rebondiront et avanceront.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Double-pois + Pisto-pois</color>"
         },
         {
             "seedType": 1091,
@@ -2330,6 +2330,48 @@
             "introduce": "<align=justified><size=36><color=black>\" Fais-moi confiance, ici dedans c’est très sûr. \" murmure la Citrouille Courageuse pour apaiser le Champi-peureux, tandis que le vieux phonographe intégré et les livres de contes de fées l’aident à oublier la horde de zombies dehors.</color></size>",
             "info": "<size=36>Une citrouille aux couleurs du Champi-peureux. Les plantes peureuses à l’intérieur ne seront plus effrayées.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Spécial : </color><color=#8B0000>Les plantes de type Champi-peureux placées dans la citrouille ne prendront plus peur (Champi-furieux et Champi Sulfat-furieux ne s’autodétruiront plus).</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-peureux > Citrouille</color></size>"
+        },
+        {
+            "seedType": 1268,
+            "name": "Double Hypno-pois",
+            "introduce": "<align=justified><size=36><color=black>Le Double Hypno-pois parle si vite qu’il termine souvent ses phrases avant que quelqu’un d’autre ne commence à parler. \" La réalité est une boucle ! J’ai déjà tiré cette rafale… deux fois ! \"\n\n— Écrit par Ocean Soul</color></size>",
+            "info": "<size=36>Un Double Pisto-pois qui tire des Pois Hypnotiques.\n\n<color=black>Dégâts : </color><color=#8B0000>30×2/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Invoque un Zombie Hypno-pois hypnotisé lorsqu’il tue une cible.\n<color=black>•</color> Peut se fusionner automatiquement avec un Pisto-pois gratuit 15 secondes après sa plantation (appuyer pour activer).</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Double Pisto-pois + Champi-hypno</color></size>"
+        },
+        {
+            "seedType": 1269,
+            "name": "Triple Hypno-pois",
+            "introduce": "<align=justified><size=36><color=black>\" Je me sens tout étourdi ! \" \" En vrai, ça va. \" \" Non, je suis complètement désorienté. \" \" Normal, ta tête est à l’arrière. \" \" C’est une expression. \" \" Moi, je parle littéralement. \" \" Ces deux-là se disputent encore \", soupire l’Hypno-pois, \" sûrement pour la 3 682ᵉ fois. \"</color></size>",
+            "info": "<size=36>Un Triple-pois qui tire des Pois Hypnotiques.\n\n<color=black>Dégâts : </color><color=#8B0000>30×3/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Invoque un Zombie Hypno-pois hypnotisé lorsqu’il tue une cible.\n<color=black>•</color> Peut se fusionner automatiquement avec un Tire-pois gratuit 15 secondes après sa plantation (appuyer pour activer).</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Triple-pois + Champi-hypno</color></size>"
+        },
+        {
+            "seedType": 1270,
+            "name": "Sulfateuse Hypnotique",
+            "introduce": "<align=justified><size=36><color=black>Vedette du Club des Zombinamis, la Sulfateuse Hypnotique ne mâche pas ses mots. \" Mes yeux vont très bien. Je sais parfaitement quels zombies peuvent être sauvés. \" Elle critique sévèrement l’Hypno Ecraseur : \" Il est beaucoup trop violent. Nous devrions être plus bienveillants avec nos potentiels collaborateurs. \" Leur débat est devenu si intense qu’il ne reste plus qu’eux deux dans le club… en plus de celui qui en est à l’origine.</color></size>",
+            "info": "<size=36>Une Sulfateuse qui tire des Pois Hypnotiques.\n\n<color=black>Dégâts : </color><color=#8B0000>30×4/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>Invoque un Zombie Hypno-pois hypnotisé lorsqu’elle tue une cible.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Sulfateuse à Pois + Champi-hypno</color></size>"
+        },
+        {
+            "seedType": 1320,
+            "name": "Double Pois-brûlant",
+            "introduce": "<align=justified><size=36><color=black>\" Double puissance, double sensations, double fun ! Par rapport au Pois Brûlant, moi, j’aime enchaîner deux fondues épicées d’affilée ! \" Il ne se rend pas compte que Bois-infernal a maintenant deux fois plus de travail.</color></size>",
+            "info": "<size=36>Tire des Pois Brûlants par paires.\n\n<color=black>Dégâts : </color><color=#8B0000>30×2/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Ses attaques appliquent l’altération Enflammé.\n<color=black>•</color> Peut se fusionner automatiquement avec un Pisto-pois gratuit 15 secondes après sa plantation (appuyer pour activer).</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Double-pois + Jalapeno</color></size>"
+        },
+        {
+            "seedType": 1321,
+            "name": "Triple Pois-brûlant",
+            "introduce": "<align=justified><size=36><color=black>\" Bon sang ! Où est le soutien ? Mitrailleur de gauche, dégage à droite ! \" Emporté et prompt à s’énerver, ce tireur hurle souvent sur ses coéquipiers — heureusement, il n’a pas encore commencé à leur tirer dessus.</color></size>",
+            "info": "<size=36>Tire des Pois Brûlants en triples rafales.\n\n<color=black>Dégâts : </color><color=#8B0000>30×3/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Ses attaques appliquent l’altération Enflammé.\n<color=black>•</color> Peut se fusionner automatiquement avec un Tire-pois gratuit 15 secondes après sa plantation (appuyer pour activer).</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Triple-pois + Jalapeno</color></size>"
+        },
+        {
+            "seedType": 1322,
+            "name": "Sulfateuse Brûlante",
+            "introduce": "<align=justified><size=36><color=black>Fatigué de soigner des victimes de brûlures à la chaîne, ce docteur de pois a décidé d’appliquer sa fière invention, la pyrothérapie… pour traiter le problème directement à la source.</color></size>",
+            "info": "<size=36>Tire 4 Pois Brûlants en même temps.\n\n<color=black>Dégâts : </color><color=#8B0000>30×4/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>Ses attaques appliquent l’altération Enflammé.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Sulfateuse à Pois + Jalapeno</color></size>"
         }
     ]
 }
