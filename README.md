@@ -13,10 +13,6 @@ The download links for the Multi-language Mod and the translation files of the M
 > 
 > For PC: You can safely uninstall your previous installations, your progress will carry over.
 
-> Use an Ad Blocker when accessing GoFile and other mirrors that are **not** MEGA or Google Drive.
-
-> The English Lite version is the same as the Multi-language version, just with the custom music and textures, and all localization files for other languages removed for optimization reasons.
-
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
 **\_Redist (Install these if you have problem launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
@@ -30,6 +26,7 @@ The download links for the Multi-language Mod and the translation files of the M
 > Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
 
 > The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, **Ukrainian** and **Korean**. Other contained languages are empty for the moment.
+
 	Up-to-date (3.1.1) - English, Vietnamese, Korean, Ukrainian
     Partially Up-to-date (3.1.1) - Spanish, Japanese
 	Last Updated 2.6.1 - Indonesian, Russian 
