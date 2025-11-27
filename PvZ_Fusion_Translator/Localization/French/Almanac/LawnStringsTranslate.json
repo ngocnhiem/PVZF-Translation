@@ -2372,6 +2372,62 @@
             "introduce": "<align=justified><size=36><color=black>Fatigué de soigner des victimes de brûlures à la chaîne, ce docteur de pois a décidé d’appliquer sa fière invention, la pyrothérapie… pour traiter le problème directement à la source.</color></size>",
             "info": "<size=36>Tire 4 Pois Brûlants en même temps.\n\n<color=black>Dégâts : </color><color=#8B0000>30×4/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>Ses attaques appliquent l’altération Enflammé.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Sulfateuse à Pois + Jalapeno</color></size>"
+        },
+        {
+            "seedType": 1335,
+            "name": "Mordeur Hypnotique",
+            "introduce": "<align=justified><size=36><color=black>Le Mordeur Hypnotique toise les autres Mordeurs. Il les trouve grossiers, difficiles, paresseux, et bons à rien pour le jardin — contrairement à lui, avec sa peau éclatante et rayonnante.</color></size>",
+            "info": "<size=36>Dévore les zombies hypnotisés et les convertit en Champi-hypnos.\n\n<color=black>Dégâts : </color><color=#8B0000>Mort instantanée (Dévoration)</color>\n<color=black>Temps de digestion : </color><color=#8B0000>40 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Cible également les zombies hypnotisés et, en cas de dévoration réussie, laisse tomber un sachet de graine de Champi-hypno, puis digère pendant 10 s.\n<color=black>•</color> Lorsqu’il est mordu, hypnotise l’attaquant, puis redevient un simple Mordeur.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Mordeur + Champi-hypno</color></size>"
+        },
+        {
+            "seedType": 1327,
+            "name": "Citrouille Carnivor",
+            "introduce": "<align=justified><size=36><color=black>La Citrouille Carnivor a ouvert une salle de sport pour les Mordeurs, censée les aider à mieux digérer, brûler les graisses et rester en forme. Le succès a été immédiat, mais lui n’est pas ravi. \" Ils ne s’entraînent pas, ils mangent ! Ma salle est devenue un buffet ! \" se plaint-il.</color></size>",
+            "info": "<size=36>Fournit une aide digestive aux plantes de type Mordeur placées à l’intérieur pour accélérer leur digestion.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Utilise périodiquement une Poche Digestive en réserve pour permettre au Mordeur de la même case de terminer instantanément sa dévoration.\n<color=black>•</color> Génère 1 Poche Digestive toutes les 40 s, jusqu’à un maximum de 3 simultanément. La première Poche Digestive met 7,5 s à être produite.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Mordeur > Citrouille</color></size>"
+        },
+        {
+            "seedType": 1336,
+            "name": "Piment Hypnotique",
+            "introduce": "<align=justified><size=36><color=black>\" En réalité, je suis totalement inoffensif \", déclare le Piment Hypnotique en ajustant son chapeau. \" J’aide les zombies à découvrir leur fragilité intérieure, à laisser tomber les masques et à devenir des amis ouverts et sincères. \" Quant aux flammes déchaînées ? \" C’est juste l’hypnotium qui fait son œuvre. Ça ne blesse pas vraiment les zombies. \"</color></size>",
+            "info": "<size=36>Explose avec un charme brûlant, poussant les zombies à changer de camp.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Hypnotise tous les zombies ayant moins de 900 PV dans sa ligne.\n<color=black>•</color> Inflige 1800 dégâts Crémateur à tous les autres zombies de la même ligne.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-hypno + Jalapeno</color></size>"
+        },
+        {
+            "seedType": 1228,
+            "name": "Écraseur Gelé",
+            "introduce": "<align=justified><size=36><color=black>Pour dompter son tempérament brûlant, l’Écraseur Gelé s’est enfermé trois jours et trois nuits dans le congélateur. Depuis, il garde une humeur glaciale — si glaciale que les autres plantes n’osent plus lui dire un mot de peur de \" déclencher \" quelque chose. Quant aux zombies… disons qu’aucun n’a jamais réussi à \" briser la glace \" avec lui.</color></size>",
+            "info": "<size=36>Un Écraseur imprégné d’un pouvoir glacial.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Spécial : </color><color=#8B0000>À l’impact, inflige 600 dégâts dans une zone de 3×3 et gèle les zombies pendant 4 s.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Champi-glace</color></size>"
+        },
+        {
+            "seedType": 1182,
+            "name": "Torche de Glace",
+            "introduce": "<align=justified><size=36><color=black>\" Une entrée, une sortie. C’est la règle. \" La Torche de Glace était fière de sa logique parfaitement structurée. \" C’est pour ça que je neutralise les flammes de la Torche avec un givre pur et inflexible. \" Mais lorsqu’on les met ensemble… tout se complique. Le feu et la glace, le chaud et le froid — parfois ils s’équilibrent, parfois ils s’affrontent, et parfois… la physique abandonne.</color></size>",
+            "info": "<size=36>Transforme les pois normaux en pois de glace ou pois polaires, et les orbes d’eau en blocs de glace.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Transforme les pois normaux qui la traversent en pois de glace, et les pois de glace en pois polaires infligeant ×2 dégâts et ×2 points Cryo.\n<color=black>•</color> Transforme les orbes d’eau en blocs de glace.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Torche + Champi-glace</color></size>"
+        },
+        {
+            "seedType": 1297,
+            "name": "Champi-gonflé",
+            "introduce": "<align=justified><size=36><color=black>\" Hé, toi ! Ne t’approche pas ! Laisse-moi tranquille, ou je te transperce avec mes pics de glace ! \" Le Champi-gonflé se dilate pour effrayer les ennemis qui approchent. En voyant ses pics de glace pointer vers les zombies, les autres plantes ne peuvent s’empêcher de se demander : au final, qui s’approche vraiment de qui ?</color></size>",
+            "info": "<size=36>Se gonfle après avoir consommé des Champi-mer, libérant une haleine glacée autour de lui.\n\n<color=black>Spécial : </color><color=#8B0000>Plante basse (esquive les projectiles tirés en ligne droite). Perd sa capacité d’attaque. Utiliser un sachet de graine de Champi-mer sur lui le fait gonfler brusquement et geler tous les zombies dans une zone de 3×3, appliquant le froid et infligeant 20 dégâts.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-glace > Champi-mer</color></size>"
+        },
+        {
+            "seedType": 1276,
+            "name": "Trouffle Gelé",
+            "introduce": "<align=justified><size=36><color=black>Le Trouffle Gelé est une climatisation réglée sur –4 °C. Quand sa brise glacée souffle, on a l’impression de marcher droit dans l’hiver. Même le Pois de gelé en reste figé : le vent froid a carrément gelé ses propres projectiles. Qu’est-ce qui pourrait être encore plus glacial ? Réponse : l’ambiance après une blague totalement à côté de la plaque du Haricot Frisson.</color></size>",
+            "info": "<size=36>Un Souffle-vent glacial qui applique constamment le froid.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Reste actif pendant 10 s avant de disparaître.\n<color=black>•</color> Chaque seconde, inflige 1 dégât et applique 20 points Cryo à tous les zombies du terrain.\n<color=black>•</color> Convertit tous les pois de glace à l’écran en pois polaires.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Trouffle + Champi-glace</color></size>"
+        },
+        {
+            "seedType": 1287,
+            "name": "Pot Glacé",
+            "introduce": "<align=justified><size=36><color=black>L’été est la saison où le Pot Glacé est le plus actif. \" Héhé, tu as chaud ? Tu veux venir te rafraîchir ? \" dit-il. \" Fais juste attention à ne pas glisser sur la glace. Et si tu es une pastèque qui cherche un peu d’ombre, méfie-toi ! Une fois devenu une pastèque givrée, quelqu’un pourrait bien te manger ! \"</color></size>",
+            "info": "<size=36>Peut matérialiser des plantes forgées par le feu.\n\n<color=black>Spécial : </color><color=#8B0000>Toutes les 10 s, transforme une plante Rôtie spécifique sur sa case en sa forme de base utilisable pour une fusion.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-glace > Pot de fleur</color></size>"
         }
     ]
 }
