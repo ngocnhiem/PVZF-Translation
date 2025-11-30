@@ -2603,6 +2603,13 @@
             "introduce": "<align=justified><size=36><color=black>L’Épicéa Tireur d’élite vient tout juste d’arriver dans les plaines enneigées. Ses lèvres pincées lui donnent un air sévère, presque intimidant. Mais le Four Polaire n’est pas dupe — il sait que cette expression vient simplement de son ami qui remonte son col pour survivre au froid mordant.</color>",
             "info": "<size=36>Archer résistant au froid qui tire des aiguilles d’épicéa perforantes.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Immunisé au gel des Boules de Neige et des Blizzards.\n<color=black>•</color> Les projectiles percent une fois (y compris les blocs de glace) et ignorent les armures tenues à la main (Type 2).</color>",
             "cost": "<size=36>Coût : <color=#8B0000>175</color>\nRecharge : <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 1217,
+            "name": "Épicéa Tireur de Scie",
+            "introduce": "<align=justified><size=36><color=black>Dans les plaines enneigées, on dit que plus le sapin est haut, plus l’année suivante sera heureuse. Mais qui donc peut placer l’étoile tout en haut ? C’est une mission pour l’Épicéa Tireur de Scie et son incroyable précision.</color>",
+            "info": "<size=36>Projette des scies perforantes qui laissent des aiguilles d’épicéa tournoyantes sur les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s ; 1×75/1.5s (Aiguille d’épicéa tournoyante)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Immunisé au gel des Boules de Neige et des Blizzards.\n<color=black>•</color> Les projectiles percent une fois (y compris les blocs de glace) et déposent une aiguille tournoyante sur le premier zombie touché.\n<color=black>•</color> Les aiguilles tournoyantes infligent 1 dégât toutes les 0,02 secondes pendant 1,5 seconde.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Épicéa Tireur d'élite + Chrysanfer</color>"
         }
     ]
 }
