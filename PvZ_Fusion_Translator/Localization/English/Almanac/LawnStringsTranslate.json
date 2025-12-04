@@ -355,7 +355,7 @@
             "name": "Icetip Lily",
             "introduce": "<align=justified><size=36><color=black>Though he often shouts \"Off with their heads!\", Icetip Lily isn't a warmonger. As the master of Snowy Mountain martial arts, his ice-morphs-to-blade technique can deter any impure intruder.</color>",
             "info": "<size=36>Each attack releases 5 ice blades in a fan shape.\n\n<color=blue>SHUTTLE Collab Plant</color>\n<color=black>Damage: </color><color=#8B0000>20×5/1.5s</color>\n<color=#0077b6>Cryo System: </color>Blades pierce twice, apply Chill, add 5 Cryo points, and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Attacks only when there are zombies in its own row.",
-            "cost": "<size=36>Cost: <color=#8B0000>325</color>\nRecharge: <color=#8B0000>30s</color>"
+            "cost": "<size=36>Cost: <color=#8B0000>325</color>\nRecharge: <color=#8B0000>7.5s</color>"
         },
         {
             "seedType": 238,
@@ -1453,14 +1453,14 @@
             "seedType": 1071,
             "name": "Flame Gloom-shroom",
             "introduce": "<align=justified><size=36><color=black>Flame Gloom-shroom's ability to release hot steam has established him as a celebrated pastry baker. His signature spicy pastries are a favorite among many, cherished for their distinct flavors.</color></size>",
-            "info": "<size=36>Releases high-damaging fire fumes around it.\n\n<color=black>Damage: </color><color=#8B0000>40×4/1.9s (Piercing)</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000>Inflicts the Enflamed debuff when attacking zombies.</color></size>",
+            "info": "<size=36>Releases high-damaging fire fumes around it.\n\n<color=black>Damage: </color><color=#8B0000>40×4/1.9s (Piercing)</color>\n<color=black>Special: </color><color=#8B0000>Inflicts the Enflamed debuff when attacking zombies.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno > Gloom-shroom</color>"
         },
         {
             "seedType": 1072,
             "name": "Frost Gloom-shroom",
             "introduce": "<align=justified><size=36><color=black>Dreaming of a career as a physicist, the Frost Gloom-shroom dedicates his days to unraveling the complexities of the world, avoiding contact with other plants. \"Why do I have multiple strings of icicles sprouting from my head?\" he muses, the latest question occupying his thoughts. He's oddly adamant about calling them \"strings.\"</color></size>",
-            "info": "<size=36>Releases cold fumes around that can freeze zombies.\n\n<color=black>Damage: </color><color=#8B0000>40×4/1.9s (Piercing)</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 5 Cryo points.</color></size>",
+            "info": "<size=36>Releases cold fumes around that can freeze zombies.\n\n<color=black>Damage: </color><color=#8B0000>40×4/1.9s (Piercing)</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack applies Chill and adds 5 Cryo points.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom > Gloom-shroom</color>"
         },
         {
@@ -1481,7 +1481,7 @@
             "seedType": 1075,
             "name": "Hearthrock",
             "introduce": "<align=justified><size=36><color=black>Not long ago, Hearthrock traveled to Mexico and was swept away by the vibrant enthusiasm of the locals, quickly falling in love with tacos. Now, he's pouring all his energy into a taco museum alongside Icerock, though Icerock doesn't seem to share his enthusiasm.</color></size>",
-            "info": "<size=36>Enflame zombies that step on it and also puncture vehicles.\n\n<color=black>Toughness: </color><color=#8B0000>450</color>\n<color=black>Damage: </color><color=#8B0000>40×2/1s</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000>Applies the Enflamed Debuff when attacking zombies.</color>\n<color=black>Special: </color><color=#8B0000>Inherits traits from Spikerock.</color></size>",
+            "info": "<size=36>Enflame zombies that step on it and also puncture vehicles.\n\n<color=black>Toughness: </color><color=#8B0000>450</color>\n<color=black>Damage: </color><color=#8B0000>40×2/1s</color>\n<color=black>Special: </color><color=#8B0000>Inherits traits from Spikerock. Applies the Enflamed Debuff when attacking zombies.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno > Spikerock</color>"
         },
         {
