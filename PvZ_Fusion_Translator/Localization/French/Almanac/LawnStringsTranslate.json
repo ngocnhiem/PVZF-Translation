@@ -2778,6 +2778,41 @@
             "introduce": "<align=justified><size=36><color=black>Recouvrir son corps de fer a sauvé la Pastèque Métallique d’une fin prématurée sur un étal de fruits. Mais tout n’est pas réglé pour autant : entre les dépenses en antirouille et les questions sans fin des autres plantes — \" Tes feuilles aussi sont en fer ? On peut s’en servir comme couteaux ? \" — sa vie reste compliquée.</color>",
             "info": "<size=36>Lance de lourdes pastèques de fer massif, infligeant des dégâts dévastateurs.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>200/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Inflige 2× les dégâts aux zombies portant une Armure de Type 1.</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Pastèque Magnétique</color>"
+        },
+        {
+            "seedType": 1208,
+            "name": "Pois Temporel",
+            "introduce": "<align=justified><size=36><color=black>\" Rien n’est né avant l’univers, et rien ne périra plus lentement que lui. Mais pour la vie, le corps n’a pas l’endurance d’une étoile mourante ; l’esprit, lui, dépasse parfois l’éternité cosmique. Chéris le présent, saisis l’avenir — même si ce n’est qu’un jour ou deux, c’est déjà toute la vie d’une éphémère. \" — *Chroniques*</color></size>",
+            "info": "<size=36>Un Pisto-pois capable de déformer l’espace et le temps, tirant des pois-neutrons qui infligent l’effet Chronofaille, effaçant toute trace de la cible de la trame temporelle.\n\n<color=black>Spécial : </color><color=#8B0000>Ses attaques n’infligent pas de dégâts, mais appliquent Chronofaille pendant 1,5 s, ou prolongent sa durée d’1 seconde si la cible est déjà affectée. N’inflige que 100 dégâts aux mini-boss.</color>\n<color=#00008B>Chronofaille : </color><color=#8B0000>Les zombies affectés reçoivent un compte à rebours de (PV / 30) secondes, après quoi ils sont instantanément effacés. Si l’effet expire prématurément, ils subissent 30 × (secondes écoulées) points de dégâts.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noyau Temporel > Pisto-pois</color>"
+        },
+        {
+            "seedType": 1215,
+            "name": "Noix Temporelle",
+            "introduce": "<align=justified><size=36><color=black>Les autres plantes entendent souvent la Noix Temporelle raconter les mystères croisés lors de ses voyages — comme un Sphinx à tête de zombie, un minivan qui ne fait que klaxonner, ou les mille et une machines conçues par la GFishtus Corp.</color></size>",
+            "info": "<size=36>Une Noix capable de manipuler l’espace-temps. Elle peut téléporter les assaillants et remonter sa propre santé lorsqu’elle frôle la destruction.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> A 25% de chances de téléporter les zombies qui la mordent tout au bout de la ligne (10 s de recharge).\n<color=black>•</color> Lorsqu’elle subit un coup fatal, rembobine ses PV à leur valeur d’il y a 3 secondes et devient invulnérable pendant 3 s (une seule utilisation).</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noyau Temporel > Noix</color>"
+        },
+        {
+            "seedType": 1214,
+            "name": "Champi-distorsion",
+            "introduce": "<align=justified><size=36><color=black>\"Personnel de déplacement temporel : transfert terminé. Tunnel temporel : extraction du monde cible, terminé. Impact observé : conforme aux prévisions. Étape suivante : procéder à la destruction du tunnel afin d'empêcher toute utilisation par des individus ou organisations tierces.\" — \" Bureau de Planification Temporelle \"</color>",
+            "info": "<size=36>Le Champi-distorsion maîtrise la courbure hyperspatiale. Son explosion applique une distorsion temporelle qui chronodissout tout ennemi pris dans son rayon.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>Hérite des propriétés du Champi-mort. Son explosion applique l’effet Chronodissolution pendant 30 s, ou réinitialise la durée à 30 s si la cible en est déjà affectée.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noyau Temporel > Mort Dormante</color>"
+        },
+        {
+            "seedType": 1210,
+            "name": "Lance Portail",
+            "introduce": "<align=justified><size=36><color=black>\" Tu as vu Interstellar, hein ? \" demande Lance Portail en abordant, comme toujours, son film de science-fiction préféré. \" Le héros traverse un champ de maïs au début, puis un trou noir à la fin… Il y a *forcément* un lien entre les deux ! \" insiste-t-il.</color>",
+            "info": "<size=36>Le Lance Portail peut projeter une noix neutronique capable de créer une mini singularité.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. A 25 % de chances de lancer une noix neutronique infligeant 100 dégâts et générant une mini singularité à l’impact. Celle-ci ralentit fortement les zombies puis explose après 2 secondes, infligeant 100 dégâts et réduisant de 30 secondes le compte à rebours des zombies affectés par la Chronodissolution.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noyau Temporel > Maïs Magnétique</color>"
+        },
+        {
+            "seedType": 1316,
+            "name": "Pastèque Temporelle",
+            "introduce": "<align=justified><size=36><color=black>\" Je ne fais que me tenir sur les épaules de géants ! \" affirme humblement la Pastèque Temporelle. \" Je n’ai jamais eu le pouvoir d’inverser le temps — je me contente d’y semer un joli chaos. \"</color>",
+            "info": "<size=36>Propage l’effet de Chronodissolution grâce à son attaque de zone.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les dégâts de zone sont égaux aux dégâts directs, sans réduction.\n<color=black>•</color> Si un zombie touché directement ou dans la zone d'impact est affecté par la Chronodissolution, jusqu’à 3 ennemis dans la zone (6 avec l’amélioration du Pot de Pastèque) reçoivent eux aussi l’effet.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noyau Temporel > Pastèque Magnétique</color>"
         }
     ]
 }
