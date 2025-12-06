@@ -1,32 +1,32 @@
 {
     "Welcome": {
         "achievement": 0,
-        "Name": "Essayez les mécaniques principales du jeu.",
+        "Name": "Essayez les mécaniques principaux du jeu.",
         "Text": "Plants vs Zombies: Fusion"
     },
     "PeaSunflower": {
         "achievement": 1,
-        "Name": "Découvrez les Pisto-Tournesol",
-        "Text": "L'Age des Fuzions"
+        "Name": "Découvrez le Pisto-tournesol.",
+        "Text": "L'Âge des Fusions"
     },
     "GatlingPea": {
         "achievement": 2,
-        "Name": "Découvrez les Sulfateuse à Pois",
-        "Text": "Getting an Upgrade"
+        "Name": "Découvrez les Sulfateuse à Pois.",
+        "Text": "Obtenez une amélioration"
     },
     "TwinFlower": {
         "achievement": 3,
-        "Name": "Découvrez Twin Tournesol",
-        "Text": "Isn't this Twin Tournesol?"
+        "Name": "Découvrez le Double Tournesol.",
+        "Text": "N'est-ce pas doublement génial ?"
     },
     "SuperGatling": {
         "achievement": 4,
-        "Name": "Découvrez Commando Pois",
-        "Text": "Big brother est très contrarié."
+        "Name": "Découvrez le Pois Commando.",
+        "Text": "Grand frère est très contrarié."
     },
     "CherryPaper": {
         "achievement": 5,
-        "Name": "Avez 4 plantes ou plus détruites par une cerise explosive.",
+        "Name": "Faite vous détruire 4 plantes ou plus par une cerise explosive.",
         "Text": "Expert en démolition"
     },
     "BigWallNut": {

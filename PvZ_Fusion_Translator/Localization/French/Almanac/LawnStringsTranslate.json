@@ -478,7 +478,7 @@
         },
         {
             "seedType": 1000,
-            "name": "Pisto-Tournesol",
+            "name": "Pisto-tournesol",
             "introduce": "<size=36><color=black>\"En fait, Le Tournesol derrière moi est ma sœur Expliqua Pisto-Pois à tout le monde. \"Nous sommes inséparables depuis la naissance. Elle adore produire des soleils, et j'adore détruire du zombie à ses côtés.\" Ce Pisto-Pois tient énormément à sa sœur et vaporisera en rayons de soleil n'importe quel zombie qui osera s'en approcher.</color>< /taille>",
             "info": "<size=36>Le Pois-tournesol peut tirer des Balles de Soleil qui produiront du Soleil.\n\n<color=black>Dégâts : </color><color=#8B0000>100/5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les balles lâchent 5 soleils lorsqu'elles touchent des zombies.</size>",
             "cost": "\n<size=36></color>Formule de Fusion : </color><color=#8B0000>Pisto-pois + Tournesol</color>"
@@ -618,10 +618,10 @@
         },
         {
             "seedType": 1020,
-            "name": "Fusil-pois",
-            "introduce": "<size=36><color=black>\"J'incarne l'esprit de mes ancêtres ; je ne tomberai pas ici !\" \" affirmait Buckshooter avec confiance à tous ceux qui croisaient son chemin. Lorsqu'on lui a fait remarquer que son casque ressemblait à celui volé au Zombie Buckethead, il a répliqué : \"Alors invoquons leur volonté et chevauchons à nouveau les vents et les vagues !\"</color></size>",
-            "info": "<size=36>Fusil-pois à la capacité de percer l'armure.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>80/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Repousse au contact. Inflige d'immenses dégâts aux Iron Zombies et brise les portes en fer.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pisto-pois + Bucket</color></size>",
-            "cost": ""
+            "name": "Pois Renforcé",
+            "introduce": "<align=justified><size=36><color=black>\" Je porte l'esprit de mes ancêtres — je ne tomberai pas ici ! \" déclara le Pois Renforcé. Quand on lui fit remarquer que son casque ressemblait à celui d’un Zombie Seau, il répondit : \" Alors honorons leur volonté… et chargeons à nouveau ! \"</color></size>",
+            "info": "<size=36>Le Pois Renforcé possède la capacité de briser les armures.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>80/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante métallique. Récupère 500 de robustesse lorsqu’elle est nourrie d’un objet métallique.\n<color=black>•</color> Subit moitié moins de dégâts des Cerises explosives.\n<color=black>•</color> Ses projectiles repoussent les zombies et brisent instantanément les armures de Type 2 (avant réduction des dégâts).</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Pisto-pois</color>"
         },
         {
             "seedType": 1021,
@@ -675,16 +675,16 @@
         {
             "seedType": 1028,
             "name": "Noix Quarterback",
-            "introduce": "<size=36><color=black>Rugby-nut avait l'air féroce, faisant peur à certaines petites plantes qui ne connaissaient pas la vérité par son apparence. Cependant, les plantes qui comprenaient Rugby-nut savaient que sous son extérieur sérieux se cachait une forte détermination à protéger ses compagnons. Le casque volé a sans aucun doute renforcé sa confiance.</color></size>",
-            "info": "<size=36>Le Noix-rugby est capable d'encaisser une énorme quantité de dégâts.\n\n<color=black>Robustesse : </color><color=#8B0000>16000</color>\n<color=black>Spécial : </color><color=#8B0000>Peut être nourri avec des objets métalliques pour restaurer 500 HP.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Tall-nut + Casque Rugby</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>La Noix Quarterback a l’air redoutable, au point d’effrayer les jeunes pousses qui ne connaissent pas la vérité. Pourtant, ceux qui la côtoient savent qu’au-delà de ce sérieux intimidant se cache une détermination inébranlable à protéger ses camarades. Le casque qu’elle a \" emprunté \" n’a fait que renforcer sa confiance.</color></size>",
+            "info": "<size=36>La Noix Quarterback peut encaisser une quantité massive de dégâts.\n\n<color=black>Robustesse : </color><color=#8B0000>16000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante métallique. Peut être nourrie d'objets métalliques pour restaurer 500 points de robustesse.\n<color=black>•</color> Plante haute.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Casque de Football > Grande Noix</color>"
         },
         {
             "seedType": 1029,
-            "name": "Noix Seau",
-            "introduce": "<size=36><color=black>Les plantes ont des sentiments contradictoires à propos du Buck-nut. Soldat exemplaire, il exécute les ordres avec une précision sans faille, mais son attitude froide laisse beaucoup à désirer. La rouille aux coins de sa bouche fait allusion à un passé riche. Cependant, dans les moments calmes, Buck-nut est aux prises avec une inquiétude tacite : \"Comment puis-je prévenir la rouille dans un jardin humide ?\"</color></size>",
-            "info": "<size=36>Bloquer l'avancée des zombies avec un mur de fer.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>Peut être alimenté avec des objets métalliques pour restaurer 500 HP. Cela s'applique également aux autres usines métalliques.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Noix + Bucket</color></size>",
-            "cost": ""
+            "name": "Noix Renforcée",
+            "introduce": "<align=justified><size=36><color=black>Les plantes entretiennent des sentiments contradictoires envers la Noix Renforcée. Soldat exemplaire, il exécute chaque ordre avec une précision inébranlable, mais son attitude glaciale laisse parfois à désirer. La rouille au coin de sa bouche laisse entrevoir un passé chargé. Et dans les rares moments de calme, une inquiétude le ronge : \" Comment empêcher la rouille dans un jardin humide ? \"</color></size>",
+            "info": "<size=36>Bâtit un véritable mur de fer pour stopper l’avancée des zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Peut être nourrie d’un objet métallique correspondant pour restaurer 500 de robustesse. Cet effet s’applique également aux autres plantes métalliques. Toutes les plantes de type Seau subissent moitié moins de dégâts des Cerises explosives.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Noix</color>"
         },
         {
             "seedType": 1030,
@@ -1013,7 +1013,7 @@
             "name": "Champi-Soleil Marin",
             "introduce": "<align=justified><size=36><color=black>\" Malheureusement, je suis un champignon, pas une fleur, donc je ne peux pas être appelé une fleur de mer ou quelque chose du genre \", admit Champi-Soleil Marin. \" Parfois, cela me déprime, mais ne t’en fais pas. Je ne suis peut-être pas un Tournesol, mais je peux tout de même utiliser différentes réactions physiques et chimiques dans l’eau pour t’apporter du soleil ! \"</color></size>",
             "info": "<size=36>Produit de plus en plus de Soleil à mesure qu’il grandit.\n\n<color=black>Production de Soleil : </color><color=#8B0000>15 → 25 → 50/15s</color>\n<color=black>Temps de croissance : </color><color=#8B0000>20s → 40s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante basse (évite les projectiles tirés en ligne droite).</color></size>",
-            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Champi-Mer</color></size>"
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Champi-mer</color></size>"
         },
         {
             "seedType": 1078,
@@ -1143,17 +1143,17 @@
         },
         {
             "seedType": 1096,
-            "name": "Carambole de Fer",
-            "introduce": "<size=36><color=black>Les gens utilisent souvent les portraits de Starsteel et Starlure pour mettre en avant leur relation, ce qui les trouble tous les deux grandement. En fait, Starsteel veut juste être lui-même : une étoile avec un cœur de pierre difficile à rouiller.</color></size>",
-            "info": "<size=36>Tire des étoiles allignés d'une couche de métal.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>40*5/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige d'immenses dégâts aux Iron Zombies et brise les portes en fer.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>(Carambole + Champi-aimant) + Seau (Dans Commande)</color></size>",
-            "cost": ""
+            "name": "Carambole Renforcée",
+            "introduce": "<align=justified><size=36><color=black>Les fans adorent publier des montages de la Carambole Renforcée et de Carambole Magnétique pour nourrir des rumeurs sur leur relation, ce qui met les deux plantes très mal à l’aise. La Carambole Renforcée, elle, n’aspire qu’à une chose : être simplement elle-même — une étoile au cœur d’acier, difficile à dérouiller.</color></size>",
+            "info": "<size=36>Lance des étoiles renforcées d’un revêtement métallique.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>80×5/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Brise instantanément les armures de Type 2 (avant réduction des dégâts).</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Carambole Magnétique</color>"
         },
         {
             "seedType": 1097,
-            "name": "Citrouille de Fer",
-            "introduce": "<size=36><color=black>\"J'aurais aimé être plus fort\", songe Steel Citrouille. \"Peut-être que si j'étais fait de diamant...\" Starsteel sourit et répond : \"Même cela ne suffirait pas ! Il faudrait que tu sois en Netherite !\" Dans leurs plaisanteries pleines d'entrain, ils oublient une vérité vitale : ils peuvent enchanter leurs propres forces.</color></size>",
-            "info": "<size=36>Protège vos plantes avec du métal robuste.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>(Citrouille + Champi-aimant) + Seau</color></size>",
-            "cost": ""
+            "name": "Citrouille Renforcée",
+            "introduce": "<align=justified><size=36><color=black>\" J’aimerais être plus résistante \", soupire la Citrouille Renforcée. \" Peut-être si j’étais en diamant… \" La Carambole Renforcée ricane : \" Même, ça ne suffirait pas ! Il te faudrait de la netherite ! \" Dans leurs chamailleries pleines d’entrain, ils en oublient une vérité essentielle : ils peuvent renforcer leur propre pouvoir.</color></size>",
+            "info": "<size=36>Protège vos plantes avec une robuste coque de fer.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Peut être nourrie avec un objet métallique correspondant pour restaurer 500 points de Robustesse. Subit moitié moins de dégâts des cerises explosives.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Citrouille Magnétique</color>"
         },
         {
             "seedType": 1098,
@@ -1234,10 +1234,10 @@
         },
         {
             "seedType": 1109,
-            "name": "Sniper-pois",
-            "introduce": "<size=36><color=black>Admiré pour sa vision perçante et sa force robuste, Sniper-pois est chéri par ses camarades pois. Cependant, lors de leurs marches en formation, le canon de son arme se retrouve souvent à l'arrière de leur tête, créant des moments de tension en cours de route.</color></size>",
-            "info": "<size=36>Snipe les zombies partout sur la carte infligeant d'énormes dégats.\n\n<color=black>Dégâts : </color><color=#8B0000>500/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Tir dans la tête une fois toutes les 6 attaques, tuant instantanément des zombies.</color></size>",
-            "cost": "<size=36><color=#6A0C9D>Usage Condition: Large Map Tower Defense Modes</color></size>"
+            "name": "Pois-sniper",
+            "introduce": "<align=justified><size=36><color=black>Admirée pour sa vision perçante et sa puissance de tir, le Pois-sniper est chérie par ses camarades Pois. Mais lors des marches en formation, son canon a la fâcheuse tendance à se retrouver dans la nuque de ses coéquipiers — ce qui rend l’ambiance un peu... tendue.</color></size>",
+            "info": "<size=36>Élimine les zombies n'importe où sur la carte en infligeant d'énormes dégâts.\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>500/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Tire une balle fatale toutes les 6 attaques, tuant instantanément la cible.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>600</color>\nRecharge : <color=#8B0000>7.5s</color>"
         },
         {
             "seedType": 1110,
@@ -1584,24 +1584,24 @@
         },
         {
             "seedType": 1159,
-            "name": "Champi-rouille",
-            "introduce": "<size=36><color=black>'J'ai encore été mis en conserve !' S'écrie Champi-rouille qui s'appelait Champi-magnétique il y a quelques instants, \"J'ai fait par hasard une cafetière plutôt qu'un four !\"</color>",
-            "info": "<size=36>Il pourrait y avoir une autre tournure si vous lui offrez un casque de rugby ?\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>40/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige trois fois plus de dégâts aux armures.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-aimant + Seau</color>",
-            "cost": ""
+            "name": "Champi-renforcé",
+            "introduce": "<align=justified><size=36><color=black>\" On m’a encore mis en boîte ! \" se lamente Champi-Renforcé, qui était pourtant un Champi-magnétique une seconde plus tôt. \" Tout ça parce que j’ai fabriqué une cafetière au lieu d’un four ! \"</color></size>",
+            "info": "<size=36>Il pourrait bien réserver une autre surprise… si on lui offrait un casque de football.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>50/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige ×3 dégâts aux armures de Type 1.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Champi-magnétique</color>"
         },
         {
             "seedType": 1160,
             "name": "Champi-quarterback",
-            "introduce": "<size=36><color=black>'J'ai toujours rêvé d'être un joueur de rugby, et maintenant j'ai enfin ce chapeau de gloire', a déclaré fièrement le quart-arrière de Champi. \"Mais aujourd'hui, j'ai décidé de faire une pause en marge.\" En réalité, il n'est qu'un agent de sécurité du stade, empêchant les supporters trop enthousiastes d'entrer avec ses spores.</color>",
-            "info": "<size=36>Projete des fumées qui pénètrent dans toutes sortes d'armures !\n\n<color=black>Robustesse : </color><color=#8B0000>3000</color>\n<color=black>Dégâts : </color><color=#8B0000>80/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige des dégâts à l'armure et au zombie dans l'armure en même temps.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-aimant + Seau + Casque Rugby</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\" J’ai toujours rêvé de devenir joueur de football, et aujourd’hui j’ai enfin décroché le casque de la gloire \", déclare fièrement le Champi-quarterback. \" Mais pour l’instant, je prends une petite pause sur la ligne de touche. \" En réalité, il est juste agent de sécurité du stade, utilisant ses spores pour repousser les fans un peu trop enthousiastes.</color>",
+            "info": "<size=36>Projette des fumées qui traversent tous les types d’armure !\n\n<color=black>Robustesse : </color><color=#8B0000>3000</color>\n<color=black>Dégâts : </color><color=#8B0000>100/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Considéré comme une Fusion Avancée. Inflige des dégâts simultanément à l’armure et au zombie qu’elle protège.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Casque de Football > Champi-renforcé</color>"
         },
         {
             "seedType": 33,
             "name": "Chrysanfer",
-            "introduce": "<size=36><color=#3D1400>Pour les plantes, faire tourner les pétales sans endommager leurs tiges est un art habile. Certains botanistes pensent que Chrysanfer pourrait être éloigné de Blover en raison de cette capacité. \"C'est en effet une compétence délicate\", a déclaré Chrysanfer d'un air faussement profond. \"Le vrai défi réside dans l'obtention de scies circulaires légères et dans leur peinture avec des motifs de pétales.\"</color>",
-            "info": "<size=36>Endommage les zombies à courte portée avec ses lames de scie qui tournent !\n\n<color=#3D1400>Spécial : </color><color=red>Fait tourner ses lames à l'approche des zombies, infligeant 5 dégâts de zone toutes les 0,02 secondes aux zombies à proximité.</color>",
-            "cost": "<size=36>Coût :<color=red>100</color>\nRecharge : <color=red>7.5 Secondes</color>"
+            "introduce": "<align=justified><size=36><color=black>Pour les plantes, faire tournoyer des pétales sans abîmer leurs tiges est un art délicat. Certains botanistes pensent même que Chrysanfer pourrait être un lointain cousin du Troufle grâce à cette capacité. \" C’est effectivement une technique subtile \", déclare-t-il avec un air faussement profond. \" Le vrai défi, c’est de trouver des scies circulaires légères… puis de les peindre avec des motifs de pétales. \"</color>",
+            "info": "<size=36>Inflige des dégâts de mêlée avec ses lames tournoyantes !\n\n<color=black>Dégâts : </color><color=#8B0000>8/0.02s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Gagne 5 points de Bouclier toutes les 0.5s, jusqu’à un maximum égal à 1× ses PV max.\n<color=black>•</color> Fait tourner ses lames lorsque des zombies s’approchent, infligeant des dégâts perforants dont la puissance diminue avec le nombre de cibles, jusqu’à un minimum de 1.</color>\n<color=black>Mécanique de Bouclier : </color><color=#8B0000>Les Boucliers confèrent 20% de réduction de dégâts aux plantes protégées.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>100</color>\nRecharge : <color=#8B0000>7.5s</color>"
         },
         {
             "seedType": 242,
@@ -1698,7 +1698,7 @@
             "seedType": 1165,
             "name": "Commando Geleur",
             "introduce": "<size=36><color=#3D1400>En tant que commandant général de la famille Pea, le Commando Geleur possède une aura qui fait frémir les plantes et les zombies même à des kilomètres de distance. Mais en ce qui concerne sa fière capacité à geler, Super Ice Machine Gunner reste toujours silencieux, jusqu'au jour où un petit pois ouvre accidentellement son journal : \" Si j'avais su, je n'aurais pas parié contre le tireur d'élite. Je suis mort de froid dans les champs de glace, mais je me suis aussi transformé en cette façon. Ce soir, je vais faire manger à ce type trois gros bols de chili—\"</color>",
-            "info": "<size=36>Tire des pois mange-tout sur des zombies, avec une petite chance de tirer un barrage massif !\n\n<color=#3D1400>Dégâts : </color><color=red>20×6/1,5 secondes</color>\n<color=#3D1400></color><color=red>Ultime : 3×20/0,02 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>3 % de chances de tirer un barrage de pois mange-tout à chaque attaque.</color>\n<color=#3D1400>Formule de Fusion : </color><color=red>Commando Pois + Champi-glace</color>",
+            "info": "<size=36>Tire des pois mange-tout sur des zombies, avec une petite chance de tirer un barrage massif !\n\n<color=#3D1400>Dégâts : </color><color=red>20×6/1,5 secondes</color>\n<color=#3D1400></color><color=red>Ultime : 3×20/0,02 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>3 % de chances de tirer un barrage de pois mange-tout à chaque attaque.</color>\n<color=#3D1400>Formule de Fusion : </color><color=red>Pois Commando + Champi-glace</color>",
             "cost": ""
         },
         {
@@ -1717,10 +1717,10 @@
         },
         {
             "seedType": 1168,
-            "name": "Commando Pois",
-            "introduce": "<size=36><color=#3D1400>Face aux zombies fous et aux puissants coéquipiers, Commando Pois, venu dans le chantier pour plus de défis, ressent une immense pression, et son humeur empire... Cependant, les plantes sont toujours choquées par l'extrême tendances violentes du Commando Pois, qui tire follement des petits pois à distance. Champi Sulfat-furieux a déjà décidé de demander ses coordonnées.</color>",
-            "info": "<size=36>Tire des pois sur les zombies, avec une petite chance de tirer un barrage massif !\n\n<color=#3D1400>Dégâts : </color><color=red>20×6/1,5 secondes\n</color><color=red>Ultime : 3×20/0,02 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>3 % de chances de tirer un barrage de pois mange-tout à chaque attaque.</color>\n<color=#3D1400>Formule de Fusion : </color><color=red>Sniper Pea + Pisto-Pois</color>",
-            "cost": ""
+            "name": "Pois Commando",
+            "introduce": "<align=justified><size=36><color=black>Face aux zombies déchaînés et à ses alliés surpuissants, le Pois Commando venu chercher plus de défis ressent une énorme pression — au point que son caractère se détériore lourdement... Pourtant, les plantes restent choquées par ses accès de violence extrême : il arrose les zombies de projectiles depuis l’autre bout du jardin. La Sulfateuse Mortelle cherche déjà à obtenir son numéro.</color>",
+            "info": "<size=36>Tire des pois sur les zombies, avec une petite chance de déclencher un tir de barrage massif !\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>20×6/1.5 secondes</color>\n<color=black>Ultime : </color><color=#8B0000>?×3/0.02s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> 2% de chances à chaque attaque de déclencher un barrage de pois aléatoires (pois normaux, enflammés, givrés, hypnotiques — uniformisés à 20 dégâts), durant 5 secondes.\n<color=black>•</color> Peut alterner entre le Pois Commando et Snipea via le Pois.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pois-sniper + Pisto-pois</color>"
         },
         {
             "seedType": 1169,
@@ -2165,7 +2165,7 @@
         },
         {
             "seedType": 1293,
-            "name": "Noix de mer",
+            "name": "Noix de Mer",
             "introduce": "<align=justified><size=36><color=black>La Noix de mer adore passer du temps avec les Perles d’eau, les regarder absorber l’eau et grandir, son corps rond miroitant de reflets arc-en-ciel dans leurs yeux innocents. \" Le temps est comme un papillon bleu voletant au-dessus du ruisseau~ Une fois envolé, on ne le revoit jamais~ \"</color>",
             "info": "<size=36>Grossit en absorbant l’eau, puis roule en avant pour écraser les zombies.\n\n<color=black>Résistance : </color><color=#8B0000>2000 (initiale), 6000 (max)</color>\n<color=black>Spécial : </color><color=#8B0000>Grandit après 10 et 20 secondes, augmentant ses PV et sa durabilité de 2000 à chaque fois. Après 30 secondes, se transforme en noix roulante infligeant 600 dégâts toutes les 0,02 s au contact.</color>",
             "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Noix + Champi-mer</color>"
@@ -2193,14 +2193,14 @@
         },
         {
             "seedType": 1281,
-            "name": "Bout de choux",
+            "name": "Bout de Choux",
             "introduce": "<align=justified><size=36><color=black>On raconte que les Bout de choux possèdent le pouvoir magique de rétrécir les zombies. Et le secret, prétendent-ils, se trouve dans le rebond. Mais seul Bout de maïs connaît la vraie raison : il y a une minuscule noix de beurre cachée à l’intérieur. Les feuilles de chou sont simplement trop épaisses pour qu’elle s’échappe… d’où la nécessité de rebondir pour rétrécir un zombie.</color></size>",
             "info": "<size=36>Lance de petits choux capables de transmettre l’effet de rétrécissement.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Les tirs rebondissent deux fois. Si un tir touche un zombie déjà rétréci, il gagne la capacité de rétrécir les prochains zombies touchés.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-Chou > Champi-gnon</color></size>"
         },
         {
             "seedType": 1203,
-            "name": "Bout de maïs",
+            "name": "Bout de Maïs",
             "introduce": "<align=justified><size=36><color=black>\" Résultat de l’expérience : une plantation trop dense nuit à la croissance, et les épis ont clairement rétréci. \" Dave se pencha, sortit une loupe et observa Bout de maïs. \" Plus du tout adapté pour faire des rouleaux de maïs. \" Bout de maïs s’indigna : \" Les résultats de cette expérience prouvent surtout que tout ce qui est concentré… meilleur c'est ! \"</color></size>",
             "info": "<size=36>Un Bout de maïs, capable de lancer parfois une petite noix de beurre qui rétrécit les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>20/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante basse. A 25% de chances de lancer une petite noix de beurre infligeant 40 dégâts, qui réduit la taille et les PV des zombies non rétrécis à 70% de leur valeur. Sinon, la cible est étourdie pendant 1,5 seconde, tandis que les diablotins sont instantanément éliminés. Priorise les zombies non rétrécis.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-maïs > Champi-gnon</color></size>"
@@ -2214,7 +2214,7 @@
         },
         {
             "seedType": 1280,
-            "name": "Bout de pastèque",
+            "name": "Bout de Pastèque",
             "introduce": "<align=justified><size=36><color=black>Les Bout de pastèque adorent partager, même avec les zombies. Elles découpent leurs pastèques en petites tranches et les envoient joyeusement. Étrangement, les zombies sont absolument nuls pour les rattraper…</color></size>",
             "info": "<size=36>Les tranches de pastèque n'éclate plus, mais sont désormais deux fois plus efficaces contre les zombies rétrécis.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Les tranches ne font plus de dégâts de zone, mais infligent le double des dégâts aux zombies rétrécis.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque > Champi-gnon</color></size>"
@@ -2466,8 +2466,8 @@
         },
         {
             "seedType": 1277,
-            "name": "Étoile de la mort",
-            "introduce": "<align=justified><size=36><color=black>\" Je pourrais détruire presque toute la planète si j’en avais envie \", fanfaronne l’Étoile de la mort, \" et tout le monde accuserait la plus grosse étoile du ciel… \"</color></size>",
+            "name": "Étoile de la Mort",
+            "introduce": "<align=justified><size=36><color=black>\" Je pourrais détruire presque toute la planète si j’en avais envie \", fanfaronne l’Étoile de la Mort, \" et tout le monde accuserait la plus grosse étoile du ciel… \"</color></size>",
             "info": "<size=36>Se transforme en Météore maudit et s’écrase au sol.\n\n<color=black>Spécial : </color><color=#8B0000>Disparaît après 3 s et invoque un Météore Doom infligeant 1800 dégâts de zone à l’impact, puis se scinde en 180 étoiles-spores infligeant chacune 20 dégâts.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Carambole + Champi-mort</color></size>"
         },
@@ -2536,7 +2536,7 @@
         },
         {
             "seedType": 1334,
-            "name": "Coquille de mer",
+            "name": "Coquille de Mer",
             "introduce": "<align=justified><size=36><color=black>Autrefois vedette du Festival Mondial de la Vie Marine et fierté de la colonie des Champi-mer, la Coquille de mer ne parvient plus à flotter. Tout a changé après cette terrible fête d’Halloween. Il avait enfilé une tête de citrouille pour un numéro parfait… et découvrit ensuite qu’il ne pouvait plus l’enlever.</color></size>",
             "info": "<size=36>Se régénère grâce aux sachets de graines de Champi-mer.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Plante terrestre. Peut être nourrie avec un sachet de graine de Champi-mer pour récupérer 1/3 de ses PV max.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-mer > Citrouille</color></size>"
@@ -2589,6 +2589,230 @@
             "introduce": "<align=justified><size=36><color=black>La Pastèque Magnétique travaillait autrefois à l’Institut de Recherche en Électromagnétisme. Elle y avait même proposé un modèle théorique affirmant que les pôles magnétiques seraient répartis comme des pépins incrustés dans une pastèque. Malheureusement, personne ne prit sa théorie au sérieux… car elle n’était que le fournisseur officiel de pastèques.</color>",
             "info": "<size=36>Pierre angulaire des autres fusions de Pastèques Métalliques, elle inflige aussi de lourds dégâts aux zombies casqués.\n\n<color=black>Dégâts : </color><color=#8B0000>120/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige 2× les dégâts aux zombies portant une Armure de Type 1.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque + Champi-aimant</color>"
+        },
+        {
+            "seedType": 35,
+            "name": "Four Polaire",
+            "introduce": "<align=justified><size=36><color=black>Le Four Polaire a remporté la sixième édition du prix \" Assistant-Plante \" des Plaines Enneigées. Les autres plantes s’accordent à dire que c’est amplement mérité — à force de réchauffer tout le monde, il n’a même plus le temps de déneiger sa propre tête.</color>",
+            "info": "<size=36>Un chauffage flottant en bois de sapin qui aide les plantes voisines à résister au froid.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante flottante. Protège les plantes de sa case des Boules de Neige et des Blizzards.\n<color=black>•</color> Inflige 200 dégâts toutes les 3s aux blocs de glace dans sa zone de protection.\n<color=black>•</color> Absorbe la plante de base enneigée sous lui pour évoluer temporairement en Four Polaire Surchauffé, augmentant sa zone de protection à 3×3 pendant (1.2 × Coût de la plante) secondes avant de revenir à la normale. Sinon, il dure 180s par défaut.\n\n<color=#cceaed>Mécanique du Terrain Neigeux</color>:\n<color=black>•</color> Les blocs de glace ont 2000 PV et bloquent les projectiles en ligne droite ainsi que les zombies.\n<color=black>•</color> S’ils sont détruits par une plante, ils libèrent la plante correspondante.\n<color=black>•</color> S’ils sont détruits par un zombie, ils libèrent une version zombifié; s’il n’en existe pas, une Fourrure de neige apparaît.\n<color=black>•</color> Un blizzard commence au début de chaque vague, gelant toutes les plantes non protégées en blocs de glace.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 36,
+            "name": "Épicéa Tireur d'élite",
+            "introduce": "<align=justified><size=36><color=black>L’Épicéa Tireur d’élite vient tout juste d’arriver dans les plaines enneigées. Ses lèvres pincées lui donnent un air sévère, presque intimidant. Mais le Four Polaire n’est pas dupe — il sait que cette expression vient simplement de son ami qui remonte son col pour survivre au froid mordant.</color>",
+            "info": "<size=36>Archer résistant au froid qui tire des aiguilles d’épicéa perforantes.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Immunisé au gel des Boules de Neige et des Blizzards.\n<color=black>•</color> Les projectiles percent une fois (y compris les blocs de glace) et ignorent les armures tenues à la main (Type 2).</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>175</color>\nRecharge : <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 1217,
+            "name": "Épicéa Tireur de Scie",
+            "introduce": "<align=justified><size=36><color=black>Dans les plaines enneigées, on dit que plus le sapin est haut, plus l’année suivante sera heureuse. Mais qui donc peut placer l’étoile tout en haut ? C’est une mission pour l’Épicéa Tireur de Scie et son incroyable précision.</color>",
+            "info": "<size=36>Projette des scies perforantes qui laissent des aiguilles d’épicéa tournoyantes sur les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s ; 1×75/1.5s (Aiguille d’épicéa tournoyante)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Immunisé au gel des Boules de Neige et des Blizzards.\n<color=black>•</color> Les projectiles percent une fois (y compris les blocs de glace) et déposent une aiguille tournoyante sur le premier zombie touché.\n<color=black>•</color> Les aiguilles tournoyantes infligent 1 dégât toutes les 0,02 secondes pendant 1,5 seconde.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Épicéa Tireur d'élite + Chrysanfer</color>"
+        },
+        {
+            "seedType": 37,
+            "name": "Lotus de Neige",
+            "introduce": "<align=justified><size=36><color=black>La Lotus de Neige n’a jamais eu l’intention de devenir guérisseuse — mais quand votre simple présence fait se sentir mieux les plantes alentour, la rumeur circule vite. Il passe désormais ses journées à tenir une clinique malgré lui, répétant : \" Je suis juste froid, pas diplômé. \" Les patients, eux, ne semblent pas s’en soucier.</color>",
+            "info": "<size=36>Guérisseur ami du froid qui accumule de l’énergie glacée pour soigner les plantes proches.\n\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Gagne 1 Charge de glace toutes les 10s, ou lorsqu’il est touché par une boule de neige ou un trident de glace.\n<color=black>•</color> Consomme 5 Charges pour s’éveiller et soigner toutes les plantes dans une zone de 3×3 de 50 PV toutes les 3 secondes.</color>\n<color=black>Spécial : </color><color=#8B0000>Immunisée au gel des Boules de Neige et des Blizzards.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>30s</color>"
+        },
+        {
+            "seedType": 38,
+            "name": "Aloès d'Eau",
+            "introduce": "<align=justified><size=36><color=black>L’Aloès d’Eau pensait qu’ouvrir un spa dans les plaines enneigées serait relaxant — jusqu’à ce qu’elle réalise que personne ne veut d’un bain glacé par temps polaire. Au moins, la neige garde les serviettes bien fraîches.</color>",
+            "info": "<size=36>Lanceuse amie du froid qui projette des gouttes de rosée ou, lorsqu’elle est suffisamment refroidie, des blocs de glace.\n\n<color=black>Dégâts : </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Gagne 1 / 1 / 15 Charges de glace lorsqu’elle est touchée par une boule de neige / un trident de glace / un Champi-glace.\n<color=black>•</color> Consomme 1 Charge pour lancer un bloc de glace (×2 dégâts, applique Frost Profond, 40 points Cryo).\n<color=black>•</color> Frost Profond : identique au Gel normal, mais affecte aussi les Légionnaires Givrants. Les Zombonis restent immunisés.\n<color=black>•</color> Inflige ×4 dégâts aux zombies gelés.</color>\n<color=black>Spécial : </color><color=#8B0000>Immunisée au gel des Boules de Neige.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 39,
+            "name": "Bam'bou",
+            "introduce": "<align=justified><size=36><color=black>\" Là où il y a une volonté, il y a un mur. \" Voilà la devise du Bam'bou. \" Quand j’ai germé, on disait que je n’étais qu’un caillou gênant sous le pied. Mais j’ai continué à pousser, et maintenant je suis devenu un véritable cône de signalisation. \" Et si on lui demande depuis quand ? \" Trois jours \", répond-il.</color>",
+            "info": "<size=36>Blesse les zombies qui le percutent au prix de ses propres PV.\n\n<color=black>Robustesse : </color><color=#8B0000>1500</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les autres plantes ne peuvent pas absorber de dégâts à la place de Bam'bou.\n<color=black>•</color> Immunisé à l’écrasement.\n<color=black>•</color> Au contact d’un zombie :\n  – Si le zombie a autant ou moins de PV que lui, il l’élimine instantanément mais subit des dégâts égaux aux PV du zombie.\n  – Si le zombie a plus de PV que lui, il inflige au zombie des dégâts égaux à sa propre Robustesse, puis se détruit.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>15s</color>"
+        },
+        {
+            "seedType": 233,
+            "name": "Cadeau Gelé",
+            "introduce": "<align=justified><size=36><color=black>Parmi toutes les boîtes cadeaux de la boutique, la gelée est la moins appréciée. Pourquoi ? Eh bien… disons qu’elle est souvent victime de traitements un peu trop <i>glaciaux</i>.</color>",
+            "info": "<size=36>Boîte cadeau proposée à prix réduit.\n\n<color=black>Spécial : </color><color=#8B0000>Fait apparaître une plante de base gelée aléatoire.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>15s</color>"
+        },
+        {
+            "seedType": 1221,
+            "name": "Épicéa en Fleur",
+            "introduce": "<align=justified><size=36><color=black>\" On raconte que les arbres de fer fleurissent, ou que les vieux arbres peuvent refleurir \", murmure l’Épicéa Florissant. \" Mais je ne suis ni en fer, ni vieux. Je… peu importe. \" Il s’interrompt pour admirer ses fleurs.</color>",
+            "info": "<size=36>Un épicéa orné de fleurs de lotus enneigées, capable de soigner les plantes proches à moindre coût.\n\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Gagne 1 charge de glace passivement toutes les 10 secondes.\n<color=black>•</color> Gagne 1/1/60 charges lorsqu’il est touché par une boule de neige / un trident de neige / un blizzard.\n<color=black>•</color> S’éveille à 5 charges, tirant un orbe de glace infligeant 100 dégâts avec un rayon de 3×3 (sans réduction) et appliquant Gel Profond.\n<color=black>•</color> Une fois éveillé, consomme 1 charge par seconde pour soigner une zone de 3×3 de 50 PV. Se rendort lorsque les charges sont épuisées.</color>\n\n<color=black>Spécial : </color><color=#8B0000>Immunisé au gel causé par les boules de neige et les blizzards.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Épicéa Tireur d’élite + Lotus de Neige</color>"
+        },
+        {
+            "seedType": 1219,
+            "name": "Épicéa Pulvérisateur",
+            "introduce": "<align=justified><size=36><color=black>Un archer peut-il concourir sans arc ? L'Épicéa Pulvérisateur hausse les épaules : \" C’est juste de l'eau. \"</color>",
+            "info": "<size=36>Manipule l’eau pour lancer des orbes hydriques, ou des blocs de glace en consommant des charges de froid.\n\n<color=black>Dégâts : </color><color=#8B0000>50/1.5s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Gagne 1/1/15 charge(s) de glace lorsqu’il est touché par une boule de neige / un trident de glace / un Champi-glace.\n<color=black>•</color> Utilise 1 charge pour lancer un bloc de glace infligeant le double de dégâts, appliquant Gel profond et 40 points Cryo.\n<color=black>•</color> Inflige ×4 dégâts aux zombies Gelés.</color>\n<color=black>Spécial : </color><color=#8B0000>Immunisé au gel des Boules de neige et des Blizzards.</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Épicéa Tireur d’élite + Aloès d’Eau</color>"
+        },
+        {
+            "seedType": 1260,
+            "name": "Tireur de Bambou",
+            "introduce": "<align=justified><size=36><color=black>Les zombies pensaient éviter les accidents en contournant les Bam'bous. Puis le Tireur de Bambou est arrivé, lançant des pousses affûtées droit dans la cible. Affolés, ils se sont enfuis en hurlant : \" Bambou ! Des bambous ! \"</color>",
+            "info": "<size=36>Tire des pousses de bambou perforantes !\n\n<color=black>Robustesse : </color><color=#8B0000>1800</color>\n<color=black>Dégâts : </color><color=#8B0000>60/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Immunisé au gel des Boules de neige et des Blizzards.\n<color=black>•</color> Ses projectiles percent comme ceux de l’Épicéa Tireur d’élite.\n<color=black>•</color> Lorsqu’un tir touche un zombie :\n – Si sa propre vie est supérieure à celle du zombie : il s’inflige une perte égale à la différence et tue instantanément le zombie.\n – Si sa vie est inférieure : sa vie tombe au minimum à 300, et le zombie subit des dégâts égaux à la différence.\n Cette capacité ne s’active pas si sa vie est déjà à 300 ou moins.</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Épicéa Tireur d’élite + Bam'bou</color>"
+        },
+        {
+            "seedType": 1222,
+            "name": "Lotus Bouclier",
+            "introduce": "<align=justified><size=36><color=black>\" Ses oreilles de lapin sont trop mignonnes ! \" \" Il est adorable même quand il dort ! \" \" Une vraie rose ! \" Le Lotus Bouclier repousse mollement les fans un peu trop envahissants — oui, il pique comme une rose, mais ça n’empêche personne de l’admirer.</color>",
+            "info": "<size=36>Un lotus aux feuilles d’acier qui soigne les plantes proches et leur accorde des boucliers.\n\n<color=black>Spécial : </color><color=#8B0000>Hérite des propriétés du Lotus de Neige. Chaque soin confère aussi 50 points de Bouclier aux plantes affectées. Voir Chrysanfer pour le fonctionnement du Bouclier.</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Lotus de Neige + Chrysanfer</color>"
+        },
+        {
+            "seedType": 1218,
+            "name": "Ne m'arrose pas",
+            "introduce": "<align=justified><size=36><color=black>Après s’être équipée d’un jet d’eau haute pression, \" Ne m’arrose pas \" a considérablement amélioré son efficacité de coupe. Seul problème : dans les plaines enneigées, l’eau courante se fait rare.</color>",
+            "info": "<size=36>Capable de résister au froid, inflige plus de dégâts lorsqu'il fait suffisamment froid et applique le gel lorsqu'il a des charges de glace.\n\n<color=black>Dégâts : </color><color=#8B0000>8/0,02 s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Gagne 1/1/15 charge de glace lorsqu’il est touchée respectivement par une boule de neige / un trident de neige / un Champi-glace.\n<color=black>•</color> Avec des charges, ses attaques infligent le double de dégâts, appliquent Gel Profond et ajoutent 1 point de Cryo. 1 chance sur 9 de consommer une charge.</color>\n<color=black>Spécial : </color><color=#8B0000>Immunisée au gel provoqué par les boules de neige.</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Chrysanfer + Aloe Aqua</color>"
+        },
+        {
+            "seedType": 1264,
+            "name": "Lame Bambou",
+            "introduce": "<align=justified><size=36><color=black>\" On est censés être des barrières, mais les zombies nous grignotent toujours comme si on était des amuse-bouches \", se plaint Lame Bambou. Déterminée, elle s’est entraînée à parer et contre-attaquer plus fermement. A-t-elle réussi ? Difficile à dire… mais elle n’a jamais paru aussi appétissante.</color>",
+            "info": "<size=36>Bam'bou capable de générer un bouclier protecteur de façon continue.\n\n<color=black>Robustesse : </color><color=#8B0000>1500</color>\n<color=black>Spécial : </color><color=#8B0000>Génère 60 points de Bouclier toutes les 1,5 s, jusqu’à un maximum de (PV max × 1 + 60).</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Bam'bou + Chrysanfer</color>"  
+        },
+        {
+            "seedType": 1227,
+            "name": "Aloès Aube",
+            "introduce": "<align=justified><size=36><color=black>Le docteur Aloès Aube est le jeune médecin et le plus apprécié de l’hôpital. Ce n’est pas seulement grâce à son sérieux et à son talent — sa moustache de feuilles inspire aussi une confiance étonnante. Après tout, les patients ont tendance à préférer les médecins au look plus… mature.</color>",
+            "info": "<size=36>Lance un extrait d’aloès vers le ciel ; en retombant, il soigne les plantes autour de lui et augmente temporairement leur vitesse d’attaque.\n\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Gagne 1 charge de glace passivement toutes les 5 secondes.\n<color=black>•</color> Gagne 1/1/15/60 charges lorsqu’il est touché par une boule de neige, un trident de neige, un Champi-glace ou une tempête de neige.\n<color=black>•</color> Toutes les 5 secondes, consomme 5 charges pour soigner toutes les plantes dans une zone de 3×3 de 50 PV et augmenter leur vitesse d’attaque de 30 % pendant 5 secondes.</color>\n<color=black>Spécial : </color><color=#8B0000>Insensible au gel causé par les boules de neige et les blizzards.</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Aloe Aqua + Lotus de Neige</color>"
+        },
+        {
+            "seedType": 1258,
+            "name": "Lotus Bambou",
+            "introduce": "<align=justified><size=36><color=black>Chaque hiver, le Lotus Bambou tente d’impressionner ses prétendantes avec un déploiement de pétales spectaculaire. Mais sa prestation est souvent… trop rapide. Et trop froide. Les demoiselles sont déjà reparties avant même qu’il ait fini d’éclore.</color>",
+            "info": "<size=36>Une barricade auto-régénérante qui devient plus robuste grâce aux alliés voisins.\n\n<color=black>Toughness : </color><color=#8B0000>1500</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Insensible au gel causé par les boules de neige et les blizzards.\n<color=black>•</color> Se soigne de 50 PV lorsqu’il est chargé.\n<color=black>•</color> Régénère 40 PV toutes les 1,5 s. Cette régénération est augmentée de 100 % pour chaque plante de type Bam'bou adjacente.\n<color=black>•</color> Résilience (valeur de base : 1) : les dégâts reçus sont divisés par la résilience. Les PV max sont traités comme multipliés par la résilience. La résilience augmente de 0,3 pour chaque plante de type Bamblock adjacente.</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Bam'bou + Lotus de Neige</color>"
+        },
+        {
+            "seedType": 1259,
+            "name": "Aloès'bou",
+            "introduce": "<align=justified><size=36><color=black>Aloès'bou adore voyager pour vanter les mérites de sa terre natale glacée. Mais personne ne semble intéressé. \" Ils pensent tous que la bosse dans mon dos vient d’un coup reçu \", râle-t-il. \" Après ça, pas étonnant qu’ils imaginent la toundra comme un endroit hostile. \"</color>",
+            "info": "<size=36>Une barricade durcie par la glace, particulièrement efficace contre les zombies liés au froid.\n\n<color=black>Robustesse : </color><color=#8B0000>1500</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Insensible au gel des boules de neige et des blizzards.\n<color=black>•</color> Gagne des charges de glace comme Aloès Aqua.\n<color=black>•</color> Résilience (valeur de base : 1) : les dégâts subis sont divisés par la résilience. Les PV max sont traités comme multipliés par la résilience.\n<color=black>•</color> Dépense 1 charge pour augmenter la résilience de 2.\n<color=black>•</color> Gagne +1 résilience lorsqu'il affronte des zombies refroidis/gelés (ne se cumule pas avec la capacité précédente).</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Bam'bou + Aloès Aqua</color>"  
+        },
+        {
+            "seedType": 1247,
+            "name": "Baliste Épicéa",
+            "introduce": "<align=justified><size=36><color=black>Tirer une énorme baliste, ça use. Même la Baliste Épicéa a parfois besoin de vacances. Grâce à Astro-noix, elle a trouvé un petit boulot dans un autre monde : propulser des volatiles furieux sur des cochons très verts et beaucoup trop sûrs d’eux.</color>",
+            "info": "<size=36>Tire d’énormes carreaux d’épicéa qui transpercent les zombies puis explosent après un court délai.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Doit être plantée sur deux Tireurs d’Épicéa côte à côte.\n<color=black>•</color> Insensible au gel des boules de neige et des blizzards.\n<color=black>•</color> Les carreaux transpercent jusqu’à 2 fois (peuvent transpercer la glace) puis explosent 0,3 s après avoir touché un zombie, infligeant des dégâts de zone.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>300</color>\nRecharge : <color=#8B0000>50s</color>"
+        },
+        {
+            "seedType": 1254,
+            "name": "Baliste Atlantéenne",
+            "introduce": "<align=justified><size=36><color=black>Autrefois fière sentinelle juchée sur les remparts d’Atlantis, la Baliste Atlantéenne se croyait aussi puissante qu’un tsunami. En réalité, tout le monde parlait simplement du grincement atroce que faisaient ses cordes en se rechargeant. Honteuse mais déterminée, elle trouva son salut dans le jus d’aloès : depuis, ses carreaux sont plus fluides, plus meurtriers… et surtout beaucoup plus silencieux.</color>",
+            "info": "<size=36>Tire des carreaux marins d’une puissance tsunamique ; les ennemis touchés deviennent plus vulnérables au froid.\n\n<color=black>Dégâts : </color><color=#8B0000>80/1s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Insensible au gel des boules de neige et des blizzards.\n<color=black>•</color> Tire 4 carreaux en rafale, puis se repose 3s.\n<color=black>•</color> 90% de chances de tirer un Carreau Marin, appliquant Trempé pendant 5s. Un zombie Trempé sera gelé au lieu d’être simplement refroidi lorsqu’il subit une attaque du Système Cryo. L’effet est ensuite dissipé et ne peut pas être réappliqué pendant 10s.\n<color=black>•</color> 10% de chances de tirer un Carreau de Glace, infligeant Froid Intense.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Aloès d'Eau > Baliste Épicéa</color>"
+        },
+        {
+            "seedType": 1188,
+            "name": "Tournesol Doré",
+            "introduce": "<align=justified><size=36><color=black>Garder un trophée ? C’était bon pour la saison dernière. Maintenant, elle est prête à briller — et pas seulement sous le soleil. \" J’adore bronzer, oui… mais soyons honnêtes : je suis faite pour le combat ! \"</color>",
+            "info": "<size=36>Produit du Soleil encore... et encore plus vite !\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Génère 50 Soleil toutes les 10 secondes, jusqu’à un maximum de 10 000.\n<color=black>•</color> Le plafond de Soleil du niveau est porté à 50 000.\n<color=black>•</color> Tout excédent est stocké dans les Tournesols Dorés disponibles.\n<color=black>Ultimate : </color><color=#8B0000>Coûte 1 000 pièces ; libère tout le Soleil stocké par l’ensemble des Tournesols Dorés.</color>",
+            "cost": "<size=36>Coût d’amélioration : <color=#8B0000>3000 pièces ; chaque Tournesol Doré déjà présent double le coût.</color>"
+        },
+        {
+            "seedType": 1285,
+            "name": "Noix Dorée",
+            "introduce": "<align=justified><size=36><color=black>Les zombies ne peuvent pas résister à l’envie de croquer dans la Noix Dorée pour voir ce qu’elle cache. Rien de magique : une rumeur circule simplement qu’il s’agirait d’une truffe au chocolat emballée dans du papier doré.</color>",
+            "info": "<size=36>Noix en or massif, d’une robustesse accrue ; peut utiliser son Ultime pour augmenter sa résistance maximale et récupérer toute sa santé.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 1000 pièces, Recharge : 5 s ; augmente la Robustesse max de 1000 et restaure la santé jusqu’à son total maximal.</color>",
+            "cost": "<size=36>Coût d’amélioration : <color=#8B0000>1000 pièces, inclut 1 utilisation d’Ultime</color>"
+        },
+        {
+            "seedType": 1252,
+            "name": "Champi-mort Doré",
+            "introduce": "<align=justified><size=36><color=black>\" Ahem, regardez par ici. \" C’est ainsi que le Champi-mort Doré ouvre chaque sommet de la Rue du Mur-de-Noix. Les autres magnats le redoutent — non seulement pour sa richesse, mais aussi pour sa capacité à réduire la leur en poussière d’un seul éclat.</color>",
+            "info": "<size=36>Transforme l’argent en ruine.\n\n<color=black>Spécial : </color><color=#8B0000>N’explose pas automatiquement.</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 3000 pièces, Recharge : 30 s ; déclenche un effet de Champi-mort qui ne laisse aucun cratère.</color>",
+            "cost": "<size=36>Coût d’amélioration : <color=#8B0000>6000 pièces</color>"
+        },
+        {
+            "seedType": 1306,
+            "name": "Sulfateuse Quarterback",
+            "introduce": "<align=justified><size=36><color=black>\" Faute ! Dehors ! \" La Sulfateuse Quarterback est l’arbitre le plus strict — et le plus colérique — du terrain, toujours prête à rappeler les règles du football. Du début à la fin, sa bouche ne s’arrête jamais, expulsant tous ceux qui \" n’ont rien compris au jeu \".</color>",
+            "info": "<size=36>Tire parfois des projectiles rouges qui détournent les Zombies Quarterback.\n\n<color=black>Robustesse : </color><color=#8B0000>3000</color>\n<color=black>Dégâts : </color><color=#8B0000>80×4/2s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante métallique. Compte comme une Fusion Avancée.\n<color=black>•</color> Ses projectiles repoussent les zombies et brisent instantanément l’armure de Type 2 (avant réduction des dégâts).\n<color=black>•</color> Chaque 12e tir devient un Pois Quarterback : les zombies Quarterback touchés et teintés de rouge s’enfuient en s’éloignant de votre maison.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Casque de Football > Sulfateuse à Pois</color>"
+        },
+        {
+            "seedType": 1242,
+            "name": "Champi-mort Diable",
+            "introduce": "<align=justified><size=36><color=black>\" Hé, le clown ! \" raillent les zombies. Le Champi-mort Diable se contente de les regarder en silence. Aucun besoin de répondre : son œuvre parlera d’elle-même. Dommage que personne ne soit encore debout pour voir le final.</color>",
+            "info": "<size=36>Champi-mort aux pouvoirs explosifs amplifiés, capable de déclencher des explosions en chaîne.\n\n<color=black>Dégâts : </color><color=#8B0000>3240 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>Pour chaque zombie éliminé, crée une explosion de Boîte Surprise infligeant 1800 dégâts à sa position.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Diable à ressort > Mort Dormante</color>"
+        },
+        {
+            "seedType": 1239,
+            "name": "Champi-mort Renforcé",
+            "introduce": "<align=justified><size=36><color=black>Boum ! Une déflagration défiant les lois de la réalité, une fission nucléaire à grande vitesse, pulvérise les zombies, décomposant leurs atomes pour les réarranger sous la forme la plus stable connue des plantes : le fer. \" Pourquoi des seaux en fer ? \" Le Champi-mort Renforcé marque une pause, puis répond : \" C’est ainsi que je suis né. \"</color>",
+            "info": "<size=36>Champi-mort surpuissant transformant les cendres de son explosion en Seaux.\n\n<color=black>Dégâts : </color><color=#8B0000>3240 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque zombie qu’il élimine laisse tomber un Seau.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Mort Dormante</color>"
+        },
+        {
+            "seedType": 1253,
+            "name": "Écraseur Renforcé",
+            "introduce": "<align=justified><size=36><color=black>L’Écraseur de Renforcé s’est blindé d’acier froid : plus dur, plus lourd, et nettement plus percutant. Mais surtout, ne parlez jamais des \" rivets \" sur son visage. Selon lui, ce sont des renforts structurels… pas de l’acné.</color>",
+            "info": "<size=36>Un Écraseur plaqué de métal au poids terrifiant.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>3240 (Écraseur)</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Peut être nourri avec des objets métalliques correspondants pour restaurer 500 de Robustesse. Subit moitié moins de dégâts des explosions de type Cerise.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Écraseur</color>"
+        },
+        {
+            "seedType": 1211,
+            "name": "Maïs Renforcé",
+            "introduce": "<align=justified><size=36><color=black>Dernièrement, le Maïs Renforcé songe sérieusement à acheter de la peinture antirouille : son beurre a toujours un léger goût métallique, ce qui ruine complètement ses recettes pour ses frères. \" Du beurre au goût de rouille… ça ne doit être bon que pour combattre des zombies. \" </color>",
+            "info": "<size=36>Le Maïs Renforcé propulse des grains de maïs ou du beurre de fer, étonnamment efficaces contre les armures de Type 1.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. A 25 % de chances de lancer un beurre de fer infligeant 100 dégâts, étourdissant la cible pendant 4 secondes et retirant instantanément son armure de Type 1.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Maïs Magnétique</color>"
+        },
+        {
+            "seedType": 1315,
+            "name": "Pastèque Renforcée",
+            "introduce": "<align=justified><size=36><color=black>Recouvrir son corps de fer a sauvé la Pastèque Métallique d’une fin prématurée sur un étal de fruits. Mais tout n’est pas réglé pour autant : entre les dépenses en antirouille et les questions sans fin des autres plantes — \" Tes feuilles aussi sont en fer ? On peut s’en servir comme couteaux ? \" — sa vie reste compliquée.</color>",
+            "info": "<size=36>Lance de lourdes pastèques de fer massif, infligeant des dégâts dévastateurs.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>200/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Inflige 2× les dégâts aux zombies portant une Armure de Type 1.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Pastèque Magnétique</color>"
+        },
+        {
+            "seedType": 1208,
+            "name": "Pois Temporel",
+            "introduce": "<align=justified><size=36><color=black>\" Rien n’est né avant l’univers, et rien ne périra plus lentement que lui. Mais pour la vie, le corps n’a pas l’endurance d’une étoile mourante ; l’esprit, lui, dépasse parfois l’éternité cosmique. Chéris le présent, saisis l’avenir — même si ce n’est qu’un jour ou deux, c’est déjà toute la vie d’une éphémère. \" — *Chroniques*</color></size>",
+            "info": "<size=36>Un Pisto-pois capable de déformer l’espace et le temps, tirant des pois-neutrons qui infligent l’effet Chronofaille, effaçant toute trace de la cible de la trame temporelle.\n\n<color=black>Spécial : </color><color=#8B0000>Ses attaques n’infligent pas de dégâts, mais appliquent Chronofaille pendant 1,5 s, ou prolongent sa durée d’1 seconde si la cible est déjà affectée. N’inflige que 100 dégâts aux mini-boss.</color>\n<color=#00008B>Chronofaille : </color><color=#8B0000>Les zombies affectés reçoivent un compte à rebours de (PV / 30) secondes, après quoi ils sont instantanément effacés. Si l’effet expire prématurément, ils subissent 30 × (secondes écoulées) points de dégâts.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noyau Temporel > Pisto-pois</color>"
+        },
+        {
+            "seedType": 1215,
+            "name": "Noix Temporelle",
+            "introduce": "<align=justified><size=36><color=black>Les autres plantes entendent souvent la Noix Temporelle raconter les mystères croisés lors de ses voyages — comme un Sphinx à tête de zombie, un minivan qui ne fait que klaxonner, ou les mille et une machines conçues par la GFishtus Corp.</color></size>",
+            "info": "<size=36>Une Noix capable de manipuler l’espace-temps. Elle peut téléporter les assaillants et remonter sa propre santé lorsqu’elle frôle la destruction.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> A 25% de chances de téléporter les zombies qui la mordent tout au bout de la ligne (10 s de recharge).\n<color=black>•</color> Lorsqu’elle subit un coup fatal, rembobine ses PV à leur valeur d’il y a 3 secondes et devient invulnérable pendant 3 s (une seule utilisation).</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noyau Temporel > Noix</color>"
+        },
+        {
+            "seedType": 1214,
+            "name": "Champi-distorsion",
+            "introduce": "<align=justified><size=36><color=black>\"Personnel de déplacement temporel : transfert terminé. Tunnel temporel : extraction du monde cible, terminé. Impact observé : conforme aux prévisions. Étape suivante : procéder à la destruction du tunnel afin d'empêcher toute utilisation par des individus ou organisations tierces.\" — \" Bureau de Planification Temporelle \"</color>",
+            "info": "<size=36>Le Champi-distorsion maîtrise la courbure hyperspatiale. Son explosion applique une distorsion temporelle qui chronodissout tout ennemi pris dans son rayon.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>Hérite des propriétés du Champi-mort. Son explosion applique l’effet Chronodissolution pendant 30 s, ou réinitialise la durée à 30 s si la cible en est déjà affectée.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noyau Temporel > Mort Dormante</color>"
+        },
+        {
+            "seedType": 1210,
+            "name": "Lance Portail",
+            "introduce": "<align=justified><size=36><color=black>\" Tu as vu Interstellar, hein ? \" demande Lance Portail en abordant, comme toujours, son film de science-fiction préféré. \" Le héros traverse un champ de maïs au début, puis un trou noir à la fin… Il y a *forcément* un lien entre les deux ! \" insiste-t-il.</color>",
+            "info": "<size=36>Le Lance Portail peut projeter une noix neutronique capable de créer une mini singularité.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. A 25 % de chances de lancer une noix neutronique infligeant 100 dégâts et générant une mini singularité à l’impact. Celle-ci ralentit fortement les zombies puis explose après 2 secondes, infligeant 100 dégâts et réduisant de 30 secondes le compte à rebours des zombies affectés par la Chronodissolution.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noyau Temporel > Maïs Magnétique</color>"
+        },
+        {
+            "seedType": 1316,
+            "name": "Pastèque Temporelle",
+            "introduce": "<align=justified><size=36><color=black>\" Je ne fais que me tenir sur les épaules de géants ! \" affirme humblement la Pastèque Temporelle. \" Je n’ai jamais eu le pouvoir d’inverser le temps — je me contente d’y semer un joli chaos. \"</color>",
+            "info": "<size=36>Propage l’effet de Chronodissolution grâce à son attaque de zone.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les dégâts de zone sont égaux aux dégâts directs, sans réduction.\n<color=black>•</color> Si un zombie touché directement ou dans la zone d'impact est affecté par la Chronodissolution, jusqu’à 3 ennemis dans la zone (6 avec l’amélioration du Pot de Pastèque) reçoivent eux aussi l’effet.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noyau Temporel > Pastèque Magnétique</color>"
         }
     ]
 }
