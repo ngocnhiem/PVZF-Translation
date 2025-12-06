@@ -355,7 +355,7 @@
             "name": "Icetip Lily",
             "introduce": "<align=justified><size=36><color=black>Though he often shouts \"Off with their heads!\", Icetip Lily isn't a warmonger. As the master of Snowy Mountain martial arts, his ice-morphs-to-blade technique can deter any impure intruder.</color>",
             "info": "<size=36>Each attack releases 5 ice blades in a fan shape.\n\n<color=blue>SHUTTLE Collab Plant</color>\n<color=black>Damage: </color><color=#8B0000>20×5/1.5s</color>\n<color=#0077b6>Cryo System: </color>Blades pierce twice, apply Chill, add 5 Cryo points, and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Attacks only when there are zombies in its own row.",
-            "cost": "<size=36>Cost: <color=#8B0000>325</color>\nRecharge: <color=#8B0000>30s</color>"
+            "cost": "<size=36>Cost: <color=#8B0000>325</color>\nRecharge: <color=#8B0000>7.5s</color>"
         },
         {
             "seedType": 238,
@@ -479,7 +479,7 @@
         {
             "seedType": 300,
             "name": "Swordsage Starfruit",
-            "introduce": "<align=justified><size=36><color=black>\"The flowers in the hall intoxicate three thousand guests, and the sword frosts fourteen states.\" \"I won't board the ship when the emperor calls me, and I say I am a fairy in wine.\" Swordsage Starfruit likes to recite poems and practice his drunken sword skills when he is drunk. The plants marveled at his power to defeat the zombies, but he said that he was aiming his flying sword at the bright moon in the sky, but when he put the sword away, it would fall back to the earth. </color>",
+            "introduce": "<align=justified><size=36><color=black>\"The flowers in the hall intoxicate three thousand guests, and the sword frosts fourteen states.\" \"I won't board the ship when the emperor calls me, and I say I am a fairy in wine.\" Swordsage Starfruit likes to recite poems and practice his signature sword skills when he is drunk. The plants marveled at his power to defeat the zombies, but he said that he was aiming his flying sword at the bright moon in the sky, but when he put the sword away, it would fall back to the earth. </color>",
             "info": "<size=36>Swordsage Starfruit sweeps through enemies and summons ten giant swords descending from the sky.\n\n<color=blue>Unsealed form of Swordmaster Starfruit</color>\n<color=#3D1400>Usage Conditions:\n<color=black>•</color> Abyss Challenge (Level 11-30), upgraded from Swordmaster Starfruit after beating Level 10. You can only have 1 Swordsage Starfruit on the lawn.\n<color=black>•</color> Unlockable in Purgatory Cursed Mode</color>\n<color=black>Damage: </color><color=#8B0000>(1800×2+1800×10)/6s</color>\n<color=black>Special: </color><color=#8B0000>When attacking, deals 1800 damage to zombies within a 3×3 area twice, then summons 10 giant swords that seek out enemies across the entire field, each dealing 1800 area damage upon landing.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>750</color>\nRecharge: <color=#8B0000>30s</color>"
         },
@@ -753,7 +753,7 @@
             "seedType": 934,
             "name": "Helios Cabbage",
             "introduce": "<align=justified><size=36><color=black>The Sun God—lord of light and warmth, the eternal ruler of the heavens. Wherever he treads, darkness fades, and life flourishes under his radiant embrace. Suspended high above the firmament, his indomitable glow pierces the void, casting away despair and igniting hope in all who bask in his presence.</color>",
-            "info": "<size=36>Summons a Mini Sun to attack zombies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>300×5/2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits the traits of Solar-pult.\n<color=black>•</color> Summons a Mini Sun every 30s. The Mini Sun lasts for 15s and deals 60+(40×Amount of Helios Cabbages) damage to all zombies every 0.5s.\n<color=black>•</color> When Sun exceeds 15k, consumes 200 Sun to inflict triple the damage each time the Mini Sun damages zombies.\n<color=black>•</color> When the Mini Sun is present, the drop rate of Sun in the level is greatly increased (once every 0.75s).</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 1000 Coins; if there is no Mini Sun on the field, summon it immediately. Otherwise, extend the duration of the Mini Sun by 15 seconds. Only one Mini Sun can exist at a time.</color>\n<color=black>Main Odyssey Modifiers:</color>\n<color=#8B0000>1. When Sun exceeds 15k, each attack consumes 0.5% of the excess to boost projectile damage by 20 per 1 Sun spent.\n2. Summoned Mini Sun will deal ×3 damage</color>\n\n<color=black>Magnetar Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Magnetar and Helios Cabbage's modifiers before this synergy becomes available in the shop.\n<color=black>•</color> With at least 10 Magnetars and 10 Helios Cabbages on the field, Magnetars summon a Helios Meteor instead, and the Mini Sun from Helios Cabbage no longer disappears and deals 5× damage.\n<color=black>•</color> Helios Meteor: (1800 + 1800 × Magnetars) × (1 + 0.2 × Helios Cabbages) Damage, and drops 1250 Sun.</color>",
+            "info": "<size=36>Summons a Mini Sun to attack zombies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>300×5/2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits the traits of Solar-pult.\n<color=black>•</color> Summons a Mini Sun every 30s. The Mini Sun lasts for 15s and deals 60+(40×Amount of Helios Cabbages) damage to all zombies every 0.5s.\n<color=black>•</color> When Sun exceeds 15k, consumes 200 Sun to inflict triple the damage each time the Mini Sun damages zombies.\n<color=black>•</color> When the Mini Sun is present, the drop rate of Sun in the level is greatly increased (once every 0.75s).</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 1000 Coins; if there is no Mini Sun on the field, summon it immediately. Otherwise, extend the duration of the Mini Sun by 15 seconds. Only one Mini Sun can exist at a time.</color>\n<color=black>Main Odyssey Modifiers:</color>\n<color=#8B0000>1. When Sun exceeds 15k, each attack consumes 0.5% of the excess to boost projectile damage by 20 per 1 Sun spent, Selene Cabbage's damage increased by 3× per Lumos Level\n2. Helios' Mini Sun will deal ×3 damage, Selene's Mini Moon will do ×3 healing</color>\n\n<color=black>Magnetar Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Magnetar and Helios Cabbage's modifiers before this synergy becomes available in the shop.\n<color=black>•</color> With at least 10 Magnetars and 10 Helios Cabbages on the field, Magnetars summon a Helios Meteor instead, and the Mini Sun from Helios Cabbage no longer disappears and deals 5× damage.\n<color=black>•</color> Helios Meteor: (1800 + 1800 × Magnetars) × (1 + 0.2 × Helios Cabbages) Damage, and drops 1250 Sun.</color>",
             "cost": "<size=36>\nFusion Formula: </color><color=#8B0000>Solar-pult + Golden Cabbage</color>"
         },
         {
@@ -900,7 +900,7 @@
             "seedType": 955,
             "name": "Selene Cabbage",
             "introduce": "<align=justified><size=36><color=black>She is the Moon Goddess, embodiment of calm and healing. Wherever her light falls, wounds quietly mend and all things are bathed in gentle restoration. Hanging high above the night sky, she balances yin and yang with tidal power, granting endless vitality.</color>",
-            "info": "<size=36>Periodically summons mini-Moons to heal the battlefield. By the light of the Moon.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Helios Cabbage</color>\n<color=black>Damage: </color><color=#8B0000>300×5/1.5s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Projectiles +100 Damage per Lumos Level (bonus damage up to +500).</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Helios Cabbage.\n<color=black>•</color> Summons a Mini Moon every 30s. The Mini Moon lasts for 15s and heals all plants for 50×(number of Selene Cabbages on the lawn) HP per second. This effect is tripled on the plant with the lowest HP percentage.\n<color=black>•</color> If a Mini Sun is also present, healing effects are doubled.\n<color=black>•</color> The first Helios Cabbage Modifier increases Selene Cabbage damage bonus to +300 damage per Lumos Level, max damage cap → 1500; the second triples healing power.\n\n<color=black>Magnetar Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Magnetar and Helios Cabbage's modifiers before this synergy becomes available in the shop.\n<color=black>•</color> With at least 10 Magnetars and 10 Selene Cabbages on the field, the Mini Moon from Selene Cabbage no longer disappears. Each Magnetar and Selene Cabbage channels a beam into the Mini Moon, which merges them into a single concentrated beam.\n<color=black>•</color> Beam Damage: 100 × (channeling plants) every 0.02s, always locking onto the zombie with the highest max HP. Damage scales linearly over time when focusing a single target up to 5×.</color>",
+            "info": "<size=36>Periodically summons mini-Moons to heal the battlefield. By the light of the Moon.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Helios Cabbage</color>\n<color=black>Damage: </color><color=#8B0000>300×5/1.5s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Projectiles +100 Damage per Lumos Level (bonus damage up to +500).</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Helios Cabbage.\n<color=black>•</color> Summons a Mini Moon every 30s. The Mini Moon lasts for 15s and heals all plants for 50×(number of Selene Cabbages on the lawn) HP per second. This effect is tripled on the plant with the lowest HP percentage.\n<color=black>•</color> If a Mini Sun is also present, healing effects are doubled.\n<color=black>Magnetar Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Magnetar and Helios Cabbage's modifiers before this synergy becomes available in the shop.\n<color=black>•</color> With at least 10 Magnetars and 10 Selene Cabbages on the field, the Mini Moon from Selene Cabbage no longer disappears. Each Magnetar and Selene Cabbage channels a beam into the Mini Moon, which merges them into a single concentrated beam.\n<color=black>•</color> Beam Damage: 100 × (channeling plants) every 0.02s, always locking onto the zombie with the highest max HP. Damage scales linearly over time when focusing a single target up to 5×.</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Sunflower <-> Plantern</color>"
         },
         {
@@ -1376,7 +1376,7 @@
             "seedType": 1060,
             "name": "Spikerock",
             "introduce": "<align=justified><size=36><color=black>Spikerock just got back from a trip to Europe. He had a great time, met some wonderful people, really broadened his horizons. He never knew they made museums so big, or put so many paintings in them. That was a big surprise for him.</color></size>",
-            "info": "<size=36>Spikerocks pop multiple tires and hurt any zombies that step on them.\n\n<color=black>Damage: </color><color=#8B0000>20×2/1 Second</color>\n<color=black>Toughness: </color><color=#8B0000>450</color>\n<color=black>Special: </color><color=#8B0000>Can puncture tires, but deducts 50 Toughness. Loses 50 Toughness when slammed on by Gargantuars and loses 150 when stomped on by Mech Gargs.</color></size>",
+            "info": "<size=36>Spikerocks pop multiple tires and hurt any zombies that step on them.\n\n<color=black>Damage: </color><color=#8B0000>20×2/1 Second</color>\n<color=black>Toughness: </color><color=#8B0000>450</color>\n<color=black>Special: </color><color=#8B0000>Can puncture tires, but deducts 50 Toughness. Loses 50 Toughness when slammed on by Gargantuars and loses 150 when stomped on by Mecha Gargs.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>50s</color></size>"
         },
         {
@@ -1453,14 +1453,14 @@
             "seedType": 1071,
             "name": "Flame Gloom-shroom",
             "introduce": "<align=justified><size=36><color=black>Flame Gloom-shroom's ability to release hot steam has established him as a celebrated pastry baker. His signature spicy pastries are a favorite among many, cherished for their distinct flavors.</color></size>",
-            "info": "<size=36>Releases high-damaging fire fumes around it.\n\n<color=black>Damage: </color><color=#8B0000>40×4/1.9s (Piercing)</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000>Inflicts the Enflamed debuff when attacking zombies.</color></size>",
+            "info": "<size=36>Releases high-damaging fire fumes around it.\n\n<color=black>Damage: </color><color=#8B0000>40×4/1.9s (Piercing)</color>\n<color=black>Special: </color><color=#8B0000>Inflicts the Enflamed debuff when attacking zombies.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno > Gloom-shroom</color>"
         },
         {
             "seedType": 1072,
             "name": "Frost Gloom-shroom",
             "introduce": "<align=justified><size=36><color=black>Dreaming of a career as a physicist, the Frost Gloom-shroom dedicates his days to unraveling the complexities of the world, avoiding contact with other plants. \"Why do I have multiple strings of icicles sprouting from my head?\" he muses, the latest question occupying his thoughts. He's oddly adamant about calling them \"strings.\"</color></size>",
-            "info": "<size=36>Releases cold fumes around that can freeze zombies.\n\n<color=black>Damage: </color><color=#8B0000>40×4/1.9s (Piercing)</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 5 Cryo points.</color></size>",
+            "info": "<size=36>Releases cold fumes around that can freeze zombies.\n\n<color=black>Damage: </color><color=#8B0000>40×4/1.9s (Piercing)</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack applies Chill and adds 5 Cryo points.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom > Gloom-shroom</color>"
         },
         {
@@ -1481,7 +1481,7 @@
             "seedType": 1075,
             "name": "Hearthrock",
             "introduce": "<align=justified><size=36><color=black>Not long ago, Hearthrock traveled to Mexico and was swept away by the vibrant enthusiasm of the locals, quickly falling in love with tacos. Now, he's pouring all his energy into a taco museum alongside Icerock, though Icerock doesn't seem to share his enthusiasm.</color></size>",
-            "info": "<size=36>Enflame zombies that step on it and also puncture vehicles.\n\n<color=black>Toughness: </color><color=#8B0000>450</color>\n<color=black>Damage: </color><color=#8B0000>40×2/1s</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000>Applies the Enflamed Debuff when attacking zombies.</color>\n<color=black>Special: </color><color=#8B0000>Inherits traits from Spikerock.</color></size>",
+            "info": "<size=36>Enflame zombies that step on it and also puncture vehicles.\n\n<color=black>Toughness: </color><color=#8B0000>450</color>\n<color=black>Damage: </color><color=#8B0000>40×2/1s</color>\n<color=black>Special: </color><color=#8B0000>Inherits traits from Spikerock. Applies the Enflamed Debuff when attacking zombies.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno > Spikerock</color>"
         },
         {
@@ -1558,7 +1558,7 @@
             "seedType": 1086,
             "name": "Tide-shroom",
             "introduce": "<align=justified><size=36><color=black>Tide-shroom has aspirations as grand as a dragon's. Mastering the ancient art of \"Feng Shui\" from the East, he is well aware of both lucky and unlucky positions. Understanding that wind and water complement each other, he hopes to keep misfortune at bay, whether soaring in the sky or gliding through the water.</color></size>",
-            "info": "<size=36>Dispels fog and blows back zombies in the water.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Dispels fog and push the zombies in his lane to the rightmost column.\n<color=black>•</color> Short plant (evades straight-firing projectiles).</color></size>",
+            "info": "<size=36>Dispels fog and blows back zombies in the water.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Dispels fog and pushes the zombies in his lane to the rightmost column.\n<color=black>•</color> Short plant (evades straight-firing projectiles).</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Blover > Sea-shroom</color>"
         },
         {
@@ -1929,7 +1929,7 @@
             "seedType": 1139,
             "name": "Golden Kernel",
             "introduce": "<align=justified><size=36><color=black>Golden Kernel ponders words like \"golden phrases\" and \"precious gems.\" But maybe true treasure lies in imported butter and gold missiles... or \"Just Gold.\"</color>",
-            "info": "<size=36>Throws golden kernels and butter at zombies, with a chance to generate Coins. Its ultimate fires golden poppin' popcorns at zombies.\n\n<color=black>Damage: </color><color=#8B0000>60/3s</color>\n<color=black>Special: </color><color=#8B0000>25% chance to throw a money bag, dealing 80 damage, stunning zombies for 4 Seconds, and dropping 100 Coins.</color>\n<color=black><color=black>Ultimate: </color><color=#8B0000>Costs 3500 Coins, Cooldown: 2s; launches four golden corn bombs, each dealing 450 damage in a 3×3 area without damage falloff.</color>",
+            "info": "<size=36>Throws golden kernels and butter at zombies, with a chance to generate Coins. Its ultimate fires golden poppin' popcorns at zombies.\n\n<color=black>Damage: </color><color=#8B0000>60/3s</color>\n<color=black>Special: </color><color=#8B0000>25% chance to throw a money bag, dealing 80 damage, stunning zombies for 4 Seconds, and dropping 100 Coins.</color>\n<color=black><color=black>Ultimate: </color><color=#8B0000>Costs 3000 Coins, Cooldown: 2s; launches four golden corn bombs, each dealing 450 damage in a 3×3 area without damage falloff.</color>",
             "cost": "\n<size=36>Upgrade Cost: </color><color=#8B0000>2000 Coins</color>"
         },
         {
@@ -2125,7 +2125,7 @@
             "seedType": 1167,
             "name": "Blazer Snipea",
             "introduce": "<align=justified><size=36><color=black>Other snipers envy Blazer Snipea for being a reliable assistant to the commander, even though she is still a little one. \"Talent is one thing, but... I have to thank the commander for cultivating me!~\"Blazer Snipea says, but in reality, it's because Blizzard Commando is naturally cold and always keeps Blazer Snipea as a warm-up buddy.</color>",
-            "info": "<size=36>Can lock onto zombies anywhere on the map!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>300/3s</color>\n<color=black>Special: </color><color=#8B0000>Attacks inflict the Enflamed debuff and deal 100 damage to nearby zombies.</color>",
+            "info": "<size=36>Marks and blows up zombies anywhere on the map!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>300/3s</color>\n<color=black>Special: </color><color=#8B0000>Attacks inflict the Enflamed debuff and deal 100 damage to nearby zombies.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Snipea + Jalapeno</color>"
         },
         {
@@ -2586,7 +2586,7 @@
         {
             "seedType": 1233,
             "name": "Kelp Mine",
-            "introduce": "<align=justified><size=36><color=black>\"Beware, ships — reefs ahead!\" Tangle Mine serves as the river's safety officer, signaling danger with a red light. He does a solid job, since wherever he appears, danger is never far behind.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"Beware, ships — reefs ahead!\" Kelp Mine serves as the river's safety officer, signaling danger with a red light. He does a solid job, since wherever he appears, danger is never far behind.</color>",
             "info": "<size=36>Tangle Kelp that's as explosive as Potato Mine.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Drown)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Insta-kills the first approaching zombie and deals 600 damage to zombies in a 3×3 area.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine > Tangle Kelp</color>"
         },
@@ -3049,7 +3049,7 @@
             "seedType": 1299,
             "name": "Nut Shell",
             "introduce": "<align=justified><size=36><color=black>For the Nut Shell, all that matters is creating a good internal environment for the smaller Nuts to grow. He ignores the outside noise and even zombie bites. The only thing he cares about is other plants crowding his internal space, a space he reserves specifically for the Mini-nuts.</color>",
-            "info": "Continuously grows helpful Mini-nuts inside.<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Spawns a Mini-nut every 50s. When the Mini-nut is fully grown, it is consumed to heal a nearby damaged Pumpkin-type plant for up to 1000 HP or to produce a Wall-nut seed packet if no such plant exists. A single Nut Shell can produce at most 3 Wall-nut seed packets.</color>",
+            "info": "<size=36>Continuously grows helpful Mini-nuts inside.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Spawns a Mini-nut every 50s. When the Mini-nut is fully grown, it is consumed to heal a nearby damaged Pumpkin-type plant for up to 1000 HP or to produce a Wall-nut seed packet if no such plant exists. A single Nut Shell can produce at most 3 Wall-nut seed packets.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Pumpkin</color>"
         },
         {
@@ -3181,7 +3181,7 @@
         {
             "seedType": 1318,
             "name": "Pumpkin Pod",
-            "introduce": "<align=justified><size=36><color=black>Heard that some zombies brought a \"tank\"? Then show them the living machine-gun fortress — Pumpkin Pod! As for ammo… well, the designer forgot to install them! But no problem! Let the coordinating peas \"share\" some ammos!</color>",
+            "introduce": "<align=justified><size=36><color=black>Heard that some zombies brought a \"tank\"? Then show them the living machine-gun fortress — Pumpkin Pod! As for ammo… well, the designer forgot to include any! But no problem! Let the peashooters inside \"share\" some ammo!</color>",
             "info": "<size=36>Copies the behavior of the Pea-shooting plant inside it.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>?</color>\n<color=black>Special: </color><color=#8B0000>If a Pea-family plant is inside, it copies the attack of that plant, matching that plant's projectile count, damage, and type and shoots at 50% the attack rate, with a min. attack CD of 3s and a max. of 6s. These shots are considered to be fired by the internal plant.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter > Pumpkin</color>"
         },
@@ -3238,7 +3238,7 @@
             "seedType": 1326,
             "name": "Comet-shroom",
             "introduce": "<align=justified><size=36><color=black>Every year, she joins the garden darting contest - hitting zombies flying, snorkling, hypnotized, or even hypnotized with her sun-shaped darts. Despite her flawless precision, she never wins… the judges can never find her.</color>",
-            "info": "<size=36>Produces Sun; upon bitten, releases a Solar Comet that ricochets among zombies.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When bitten, hypnotizes the attacker and summons a Solar Comet.\n<color=black>•</color> The Solar Comet seeks out zombies (prioritizing hypnotized ones) and bounces between them, up to 10 times. When it hits a hypnotized zombie, it deals 200 damage and drops 25 Sun. When it hits a non-hypnotized zombie, it deals 100 damage and drops 15 Sun.\n<color=black>•</color> After the Comet completes its bounces or disappears, it drops an additional 25 Sun.</color>",
+            "info": "<size=36>Produces Sun; upon being bitten, releases a Solar Comet that ricochets among zombies.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When bitten, hypnotizes the attacker and summons a Solar Comet.\n<color=black>•</color> The Solar Comet seeks out zombies (prioritizing hypnotized ones) and bounces between them, up to 10 times. When it hits a hypnotized zombie, it deals 200 damage and drops 25 Sun. When it hits a non-hypnotized zombie, it deals 100 damage and drops 15 Sun.\n<color=black>•</color> After the Comet completes its bounces or disappears, it drops an additional 25 Sun.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Hypno-shroom</color>"
         },
         {
@@ -3317,6 +3317,20 @@
             "introduce": "<align=justified><size=36><color=black>Unlike other Spikeweeds, Butterweed is exceptionally gentle. It has no sharp spikes, dislikes violent sports, and just wants zombies to try a slice of its homemade butter cake. Unfortunately, with his poor eyesight, he always offers the butter to the wrong spot.</color>",
             "info": "<size=36>Sticky, buttery slow trap that doesn't deal damage.\n\n<color=black>Damage: </color><color=#8B0000>0</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Slows down all non-flying zombies that walk over it and Butters them for 1s every 3s.\n<color=black>•</color> No longer pops tires and is ignored by vehicles.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Spikeweed + Kernel-pult</color>"
+        },
+        {
+            "seedType": 1338,
+            "name": "Aurora Plantern",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>0</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Applies Chill to nearby zombies and prolongs their Freeze duration.\n<color=black>•</color> Buffs Lasers from Lumos Cacti that pass through to inflict Chill too.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Plantern</color>"
+        },
+        {
+            "seedType": 1340,
+            "name": "Blacklight Plantern",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>0</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Supplies Doomwoods in a 3×3 area with Ember value.\n<color=black>•</color> Buffs Lasers from Lumos Cacti that pass through to cause small explosions on hit.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom-shroom + Plantern</color>"
         },
         {
             "seedType": 350,
