@@ -9,38 +9,38 @@
         {
             "theZombieType": 2,
             "name": "Zombie Cône",
-            "introduce": "<size=36><color=black>Le zombie Cône n'a aucune idée de ce qu'est un cône de signalisation. Pour lui, cela ressemble à un cornet de glace, et quand il découvre qu'il ne peut pas le manger, il le met simplement sur sa tête.</color>",
-            "info": "<size=36>Son cône de signalisation sur la tête le rend deux fois plus fort qu'un zombie normal.\n\n<color=black>Robustesse : </color><color=#4B0082>270+370</color>"
+            "introduce": "<align=justified><size=36><color=black>Le Zombie Cône n’a absolument aucune idée de ce qu’est un cône de signalisation. Pour lui, ça ressemble juste à une glace géante. Et quand il découvre qu’il ne peut pas la manger, il se contente de le mettre sur sa tête.</color>",
+            "info": "<size=36>Son cône lui donne une endurance doublée par rapport aux zombies normaux.\n\n<color=black>Robustesse: </color><color=#4B0082>270 + 370 (Type 1)</color>"
         },
         {
             "theZombieType": 3,
-            "name": "Zombie Perchiste",
-            "introduce": "<size=36><color=black>Autrefois meilleur sauteur en hauteur de sa ville, la carrière du Zombie Perchiste a pris un tournant le jour où il a oublié d'installer les coussins derrière le support de saut en hauteur.</color>",
-            "info": "<size=36>Le zombie perchiste fait du saut à la perche.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Saute la première plante qu'il rencontre.</color>"
+            "name": "Zombie Perche",
+            "introduce": "<align=justified><size=36><color=black>Ancien champion de saut en hauteur de sa ville, le Zombie Perche a vu sa carrière basculer le jour où il a oublié de placer les matelas derrière la barre.</color>",
+            "info": "<size=36>Le Zombie Perche saute grâce à sa perche.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Saut par-dessus la première plante qu’il rencontre. Peut être bloqué par les plantes hautes.</color>"
         },
         {
             "theZombieType": 4,
             "name": "Zombie Seau",
-            "introduce": "<size=34><color=black>Il était une fois un Zombie, qui n'était qu'un peintre, qui était salué comme un génie parmi les zombies pour son utilisation créative d'un seau. Les années ont passé, et maintenant les zombies se demandent s'il a encore quelques tour secrets dans son sac. Est-il à court d’idées ou cache-t-il quelque chose ? Qui sait ?</color>",
-            "info": "<size=34>Son seau sur la tête le rend extrêmement résistant.\n\n<color=black>Robustesse : </color><color=#4B0082>270+1100</color>"
+            "introduce": "<align=justified><size=36><color=black>Autrefois simple peintre, le Zombie Seau avait été acclamé parmi les zombies comme un génie pour son usage créatif d’un seau. Les années ont passé, et beaucoup se demandent s’il lui reste un tour mortel dans sa manche. Est-il à court d’idées… ou cache-t-il encore quelque chose ? Qui sait ?</color>",
+            "info": "<size=36>Son seau lui confère une résistance exceptionnelle.\n\n<color=black>Robustesse: </color><color=#4B0082>270 + 1100 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>Le seau peut être retiré par les Champi-aimants.</color>"
         },
         {
             "theZombieType": 5,
             "name": "Zombie Journal",
-            "introduce": "<size=36><color=black>\"Vous ne pouvez pas lui reprocher d'être frustré ; il était sur le point de terminer les mots croisés (le mot vertical numéro 23 est \"Cerveau\"), ce qui explique pourquoi il tenait le papier à l'envers. vers le bas.\"</color>",
-            "info": "<size=36>Son journal lui fournit une défense limitée.\n\n<color=black>Robustesse : </color><color=#4B0082>270+200</color>\n<color=black>Spécial : </color><color=#4B0082>Au début, il marche normalement, mais accélère après avoir perdu son journal.</color>"
+            "introduce": "<align=justified><size=36><color=black>\" On ne peut pas vraiment lui en vouloir d’être frustré : il était sur le point de finir son mots croisés (le mot vertical numéro 23 est “Cerveaux”), ce qui explique pourquoi il tenait son journal à l’envers. \"</color>",
+            "info": "<size=36>Son journal lui offre une défense limitée.\n\n<color=black>Robustesse : </color><color=#4B0082>270 + 200 (Type 2)</color>\n<color=black>Spécial : </color><color=#4B0082>Se déplace normalement au début, mais accélère après avoir perdu son journal (vitesse de déplacement ×2,5 ; vitesse d’attaque ×1,5).</color>"
         },
         {
             "theZombieType": 6,
-            "name": "Zombie Danceur",
-            "introduce": "<size=36><color=black>Les compétences athlétiques de Dancing Zombie sont moyennes selon les standards des zombies. Sur les conseils des Backup Dancers, il décide de poursuivre la voie des idoles. Aujourd'hui, sa chanson pop \"Just Brains\", une collaboration avec Michael Jackson, est en train de devenir un succès.</color>",
-            "info": "<size=36>Après avoir sauté, il rassemble ses danseurs de fond.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Rassemblez 4 Danseurs de Fond.</color>"
+            "name": "Danseur à la perche",
+            "introduce": "<align=justified><size=36><color=black>Les talents athlétiques du Danseur à la perche sont plutôt moyens pour un zombie. Sur les conseils des Danseur Remplaçant, il a décidé de se lancer dans la carrière d’idole. Aujourd’hui, son titre pop \" Just Brains \", en collaboration avec Michael Jackson, devient un tube.</color>",
+            "info": "<size=36>Après avoir sauté, invoque ses Danseurs Remplaçants.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Invoque 4 Danseur Remplaçant après son saut. N’invoque rien si le saut est bloqué.</color>"
         },
         {
             "theZombieType": 7,
-            "name": "Danceur de Fond",
-            "introduce": "<size=36><color=black>Les quatre frères, autrefois orphelins en difficulté, ont développé des personnalités tordues et ont intimidé les autres à la Zombie Academy. Un jour, ils ont vu Dancing Zombie jouer joyeusement sur scène, et cela les a changés. À partir de ce moment, ils le rejoignirent pour se produire ensemble sur scène.</color>",
-            "info": "<size=36>Sauter une plante.\n\n<color=black>Robustesse : </color><color=#4B0082>270</color>"
+            "name": "Danseur Remplaçant",
+            "introduce": "<align=justified><size=36><color=black>Autrefois quatre frères orphelins et perturbés, ils avaient développé des personnalités tordues et tyrannisaient leurs camarades à l’Académie des Zombies. Jusqu’au jour où ils virent le Danseur à la perche se produire sur scène, rayonnant de joie. Ce moment changea leur vie : depuis, ils le suivent et dansent avec lui.</color>",
+            "info": "<size=36>Escalade les plantes.\n\n<color=black>Robustesse : </color><color=#4B0082>270</color>\n<color=black>Spécial : </color><color=#4B0082>Sautent par-dessus la première plante rencontrée. Peuvent être bloqués par les plantes hautes.</color>"
         },
         {
             "theZombieType": 8,
