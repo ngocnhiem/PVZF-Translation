@@ -1,12 +1,14 @@
 # PVZRH-Multi-language-Mod-Translation files
-The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion. Current supported base game version: 3.0.1. **Source code** for the **Translator mod** can be found [here](https://github.com/Teyliu/PVZFusionTranslation) and source code for the built-in **Better Fusions mods** can be found [here](https://github.com/Nanami-Houko/PVZRH-Better-Fusion-Suite).
+> Note to developers: This repo's codes contain the **translation files and the associated mod artifacts**. **Source code** for the **Translator mod** can be found [here](https://github.com/Teyliu/PVZFusionTranslation). You do **NOT** need to build from the source code if you are not a developer.
 
 # Plants vs Zombies: Fusion | Downloads, Resources, etc. 
 ***
+The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion, as well as mirrors to the Chinese versions. Current supported base game version: **3.1.1**.
+
 > **Discord Server**:
-> 
+>
 > Visit us on our [Discord Server](https://discord.gg/DPAC5ZVJ8T). This server is mainly a community for the English translation of the game, but also functions as a hub for all users of all versions. **If you're having trouble installing or you're getting errors, visit the server as well and go to the FAQ.**
- 
+
 > **Important**:
 > 
 > For Android: **DO NOT** delete your previous installation or you'll lose your progress forever! Download the APK and update the game normally.
@@ -27,20 +29,15 @@ The download links for the Multi-language Mod and the translation files of the M
 
 > The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, **Ukrainian** and **Korean**. Other contained languages are empty for the moment.
 
-	Up-to-date (3.1.1) - English, Vietnamese, Korean, Ukrainian
-    Partially Up-to-date (3.1.1) - Spanish, Japanese
+	Up-to-date (3.1.1) - English, Vietnamese, Korean
+	Partially Up-to-date (3.1.1) - Spanish, Japanese, Ukrainian
 	Last Updated 2.6.1 - Indonesian, Russian 
 	Last Updated 2.5.1 - Portuguese, Javanese
 	Last Updated 2.3.1 - French
 	Last Updated 2.1.6 / Partially Updated - German, Italian
 	Want to add your language here? Go to our Discord for more info!
 
-## Official DLCs
-Item | Author |  Platform  |  Download Links 
------- | ------ | ------ | ------
-SniperPlus DLC **Mod Files** for ver 2.8.2 | 高数带我飞、机鱼 | PC | [MEGA](https://mega.nz/file/8ilQQSwC#a-q8myDGSB77dwHtPAr2h5eYOogEcQkW2KshOS-vYc8)
-
-##### Instructions for the Multi-Language Version
+## Installation Instructions (Multi-Language Version)
 1. Download from the link that says `Multi-Language` and `PC`.
 2. Extract the archive to `C:\Games` or `D:\Games` or **anywhere** as long as it's not on the following folders:
 ```
@@ -50,17 +47,14 @@ SniperPlus DLC **Mod Files** for ver 2.8.2 | 高数带我飞、机鱼 | PC | [ME
 ```
 
 3. Make sure your game path doesn't contain special characters. Check `#"FAQ | Errors"` in our server for more info.
-4. Install **everything** in the _Redist folder.
-5. Run the game through `Launch Game.bat`.
-6. If something doesn't work, **read everything** in our server's `#"FAQ | Errors".`
-7. Regarding Updates: Just delete your old installation. Your saves will carry over.
+4. Run the game through `Launch Game.bat`.
+5. If something doesn't work, **read everything** in our server's `#"FAQ | Errors".`
+6. Regarding Updates: Just delete your old installation. Your saves will carry over.
+7. Install **everything** in the **_Redist zip file** which you can download from above , or [here](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg), **if** you encounter issues when launching the game.
 
-### The English Almanac & The Fusion Chart
+### The Online English Almanac
 ***
-> The English Almanac
-	The English Almanac can be found [here](https://trello.com/b/DcdT1kUp). Please be informed that it is continuously being updated and what you see in here may not be *as accurate* as what's in-game.
-> The Fusion Chart
-	The Fusion Chart(s) can be found [here](https://www.canva.com/design/DAGVq77eYus/1VwaTiS3klTXJtxNy3ECrQ/view). Same with the English Almanac, this is continuously being updated.
+> The Online English Almanac made by CarrotD1scrd can be found [here](https://projects.penguinmod.com/5958366153). Please be informed that it is updated slowly and what you see in here may not be *as accurate* or *up-to-date* as what's in-game.
 
 ### Fusion Addons
 ***
