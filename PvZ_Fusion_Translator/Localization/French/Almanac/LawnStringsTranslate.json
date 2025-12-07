@@ -1620,9 +1620,9 @@
         {
             "seedType": 244,
             "name": "Tuberfuse",
-            "introduce": "<size=36><color=#3D1400>\"Je suis un grand magicien capable de rivaliser avec le grand Imitateur\", proclama Tuberfuse. Cependant, seul son bon ami, Imitator, connaît la vérité : Tuberfuse et le Dr Edgar étudiaient les sciences de la vie dans la même classe.</color>",
-            "info": "<size=36>Catalyseur pour les fusions Titan.\n\n<color=#3D1400>Spécial : </color><color=red>Un catalyseur de fusion pour les usines Titan. Placez-le sur la plante du milieu pour démarrer la fusion.<color=red></color>",
-            "cost": "<size=36>Coût :<color=red>50</color>\nRecharge : <color=red>30 Secondes</color>"
+            "introduce": "<align=justified><size=36><color=black>\" Je suis un grand magicien digne de rivaliser avec l’Imitateur ! \" proclame Tuberfuse. Pourtant, seul son bon ami, l’Imitateur, connaît la vérité : Tuberfuse et le Dr Edgar ont en réalité étudié les sciences de la vie dans la même classe.</color>",
+            "info": "<size=36>Catalyseur pour les fusions Titan.\n\n<color=black>Spécial : </color><color=#8B0000>Un catalyseur de fusion pour les plantes Titan. Placez-le sur la plante centrale pour initier la fusion. Les fusions Titan sont indiquées par le symbole \" ∞ \".</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>30 s</color>"
         },
         {
             "seedType": 925,
@@ -2813,6 +2813,27 @@
             "introduce": "<align=justified><size=36><color=black>\" Je ne fais que me tenir sur les épaules de géants ! \" affirme humblement la Pastèque Temporelle. \" Je n’ai jamais eu le pouvoir d’inverser le temps — je me contente d’y semer un joli chaos. \"</color>",
             "info": "<size=36>Propage l’effet de Chronodissolution grâce à son attaque de zone.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les dégâts de zone sont égaux aux dégâts directs, sans réduction.\n<color=black>•</color> Si un zombie touché directement ou dans la zone d'impact est affecté par la Chronodissolution, jusqu’à 3 ennemis dans la zone (6 avec l’amélioration du Pot de Pastèque) reçoivent eux aussi l’effet.</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noyau Temporel > Pastèque Magnétique</color>"
+        },
+        {
+            "seedType": 1266,
+            "name": "Jugger-noix",
+            "introduce": "<align=justified><size=36><color=black>Les plantes se plaignent sans cesse que la Jugger-noix leur bouche la vue, et qu’en dépit de sa taille colossale, elle ne fait rien pour éliminer les zombies devant elle. \" Elle est paresseuse, elle n’est certainement pas arrivé ici d'elle-même \", disent certains. \" Elle a dû dévaler une montagne et atterrir là \", se moquent d’autres. Mais la Jugger-noix n’a pas l’intention de répondre. Comme sa coquille, sa volonté est devenue indestructible : protéger les plantes qui ont besoin d’elle, voilà tout ce qui compte. \n— Rédigé par Ultra Badlander</color>",
+            "info": "<size=36>Plus il y a de types de plantes défensives sur le terrain, plus sa Robustesse augmente.\n\n<color=black>Robustesse : </color><color=#8B0000>32000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante haute.\n<color=black>•</color> Anti-écrasement ; les dégâts reçus sont plafonnés à 1/3 de sa Robustesse.\n<color=black>•</color> Après ce plafonnement, les dégâts restants sont réduits en les divisant par (1 + 0.1 × nombre de types de plantes défensives sur le terrain).</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Grande Noix ∞ [Grande Noix] ∞ Noix < Tuberfuse (placer sur la case du milieu)</color>"
+        },
+        {
+            "seedType": 1175,
+            "name": "Champi-kraken",
+            "introduce": "<align=justified><size=36><color=black>Les marins murmurent à propos du Kraken géant de la mer du Nord, un nom capable de glacer même les cœurs des plus braves. Mais Champi-kraken ? Il n’a pas de temps pour les légendes. Il n’est pas là pour terrifier — il est là pour jouer. Et son jeu préféré ? Bousculer les zombies comme des morceaux de bois flottant.</color>",
+            "info": "<size=36>Peut repousser les zombies devant lui.\n\n<color=black>Dégâts : </color><color=#8B0000>20×2/1.5s</color>\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=#006400>Affaiblissement Enlacé : </color><color=#8B0000>Ajoute 1 valeur d’Enlacement par attaque et inflige des dégâts supplémentaires basés sur cette valeur.</color>\n<color=black>Spécial : </color><color=#8B0000>Repousse les zombies qui s’approchent (une cible à la fois) et inflige 100 dégâts.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Algue ∞ [Champi-mer] ∞ Algue < Tuberfuse (placer au centre)</color>"
+        },
+        {
+            "seedType": 1300,
+            "name": "Champi-colonies",
+            "introduce": "<align=justified><size=36><color=black>Les champignons peuvent-ils pousser sur d’autres champignons ? Selon le professeur Cherryz, les Champi-colonies sont de rares colonies composites géantes… mais elles refusent d’admettre qu’elles sont constituées de multiples individus. Pour le prouver, elles s’efforcent d’expulser autant de spores supplémentaires que possible.</color>",
+            "info": "<size=36>Impose son territoire avec des fumées et des spores.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>20×4/1.9s</color>\n<color=black>Spécial : </color><color=#8B0000>Émet, à chaque attaque, une spore supplémentaire à longue portée dans les 8 directions.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-fumé ∞ [Champi-sombre] ∞ Champi-fumé < Tuberfuse (placer au centre)</color>"
         }
     ]
 }
