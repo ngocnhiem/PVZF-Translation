@@ -72,7 +72,7 @@
     "Plants in the fifth column get 50% increased maximum Toughness and 50% damage reduction. Each column to the left reduces damage cap by 10% and increases damage reduction by 10%",
     "When there are at least 10 Magnetars and 10 Selene Cabbages on the field, Selene's summoned Mini Moon will not disappear, while each Magnetar and Selene will charge a beam into the Mini Moon, which redirects it to target the zombie with the most amount of HP",
     "Grim Arbiter: Seed packet drop is now guaranteed",
-    "Grim Arbiter: When destroying Odyssey plants with on-death effects, the effect is amplified 4 times",
+    "Grim Arbiter: When destroying Odyssey plants with on-death effects, the effect is triggered an additional 4 times",
     "Big Bang Cherry: Radiation Zone duration increased to 10s",
     "Big Bang Cherry: Explosive cherries and bullets of Doom have a 1% chance of transforming into Nuclear Debris when they hit zombies"
   ],
