@@ -311,9 +311,9 @@
         {
             "seedType": 901,
             "name": "Sulfateuse à Grenades",
-            "introduce": "<size=36><color=black>\"Je ne sais pas pourquoi le Gatling Pea a autant de fans. Mon frère et moi pouvons aussi tirer quatre balles,\" remarqua avec envie la Sulfateuse à Cerisesbomber. Cependant, la vérité est que tout le monde apprécie Gatling Pea pour sa gentillesse et ses talents culinaires exceptionnels.</color></size>",
-            "info": "<size=36>Sulfateuse à Grenades est l'infligeur de dégâts sur terre le plus puisssant.\n\n<color=black>Dégâts : </color><color=#8B0000>300*4/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Sulfateuse à Cerises + Pisto-grenade</color>\n<color=black>Buffs d'Odyssée :\n</color><color=#8B0000>1. Les balles Cerise Explosive infligent désormais 3 fois plus de DMG\n2. Intervalle d'attaque → 1 seconde</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\" Je ne comprends pas pourquoi la Sulfateuse à Pois a autant de fans. Mon frère et moi, on tire quatre projectiles aussi \", grommelle la Sulfateuse Cerise, jalouse. En réalité, tout le monde apprécie la Sulfateuse à Pois pour sa gentillesse… et ses talents hors pair en cuisine.</color></size>",
+            "info": "<size=36>Sulfateuse à Grenades : le plus puissant sur terre.\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée | Déblocable</color>\n<color=black>Dégâts : </color><color=#8B0000>300×4/1.5s</color>\n\n<color=black>Modificateurs principaux du Mode Odyssée :</color><color=#8B0000>\n1. Dégâts des cerises explosives ×3\n2. Intervalle d’attaque divisé par 2</color>\n\n<color=black>Modificateur de Synergie : Écraseur Calcifer</color><color=#8B0000>\n<color=black>•</color> Vous devez avoir déverrouillé tous les modificateurs de la Sulfateuse à Grenades et de l'Écraseur Calcifer avant que cette synergie n’apparaisse en boutique.\n<color=black>•</color> La Sulfateuse à Grenades tire désormais des projectiles répartis équitablement sur trois lignes : ceux du haut et du bas suivent des trajectoires en sinus/cosinus. Si aucun espace n’est disponible pour invoquer un Écraseur Épicée, l'Écraseur Calcifer déclenche un effet Jalapeno sur tout le terrain.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Sulfateuse Cerise + Pisto-grenade</color>"
         },
         {
             "seedType": 902,
@@ -325,9 +325,9 @@
         {
             "seedType": 903,
             "name": "Cerizilla",
-            "introduce": "<size=36><color=black>Cherrizilla déclare fièrement : \"Beaucoup envient ma coiffure de dinosaure.\" En tant que personnalité publique, il est soucieux de son image : \"Cracher des cerises et manger des zombies, c'est dégoûtant, mais c'est mon devoir.\"</color></size>",
-            "info": "<size=36>Cerizilla est la plante défensive ultime sur terre.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>Les zombies mordillants restaurent 1 000 points d'endurance, infligent 1 000 points de dégâts et crachent des cerises explosives. Les zombies avec des HP < 2000 seront tués instantanément et redonneront toute leur endurance à Cherrizilla. Repousse les véhicules, recevant au maximum 1/3 de sa Résistance maximale. Perd 10 % des HP max si les HP actuels dépassent le maximum.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Chewzilla + Cherry Mordeur</color>\n<color=black>Buffs d'Odyssée :\n</color><color=#8B0000>1. Peut désormais tuer des zombies avec moins de santé que lui\n2. Le bonus de guérison de 200 % et les dégâts des zombies sont plafonnés à 500</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Cerizilla déclare fièrement : \" Beaucoup m’envient ma coupe façon dinosaure. \" En tant que figure publique, il soigne son image : \" Cracher des cerises et manger des zombies, c’est dégoûtant, mais c’est mon devoir. \"</color></size>",
+            "info": "<size=36>Cerizilla est la plante défensive ultime sur terre.\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée | Déblocable</color>\n\n<color=black>Dégâts : </color><color=#8B0000>1000/1.75s</color>\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante haute. Repousse les véhicules et subit au maximum 1/3 de sa Robustesse maximale par coup.\n<color=black>•</color> Se régénère lorsqu’il est touché par des cerises explosives (même effet que la Noix Cerise). L’excédent de PV se dissipe à 800/s, plafonné à 4× sa Robustesse.\n<color=black>•</color> Toutes les 40s, peut dévorer un zombie non-miniboss, restaurant ses PV à 4× Robustesse et gagnant 1 charge de Dévoration.\n<color=black>•</color> Ses morsures infligent des dégâts de zone et des dégâts bonus équivalents à (PV max du zombie × (3% + 0.2% × charges de Dévoration)), en le soignant du même montant. Après avoir mordu, il recrache une cerise explosive.\n<color=black>•</color> Invincibilité : Lorsqu’il devrait mourir, reste à 1 PV pendant 5s (une fois toutes les 10s).</color>\n\n<color=black>Modificateurs principaux Odyssée :</color><color=#8B0000>\n1. Soin ×3\n2. Délai de Dévoration réduit à 15s</color>\n\n<color=black>Modificateur de Synergie — Noix d’Obsidienne :</color><color=#8B0000>\n<color=black>•</color> Tous les modificateurs de Cerizilla et de la Noix d’Obsidienne doivent être débloqués avant que cette synergie apparaisse en boutique.\n<color=black>•</color> Lorsque Cerizilla et la Noix d’Obsidienne (ou leurs sous-espèces) sont présentes ensemble, Cerizilla / Ailzilla n’a plus de limite maximale de Robustesse, et la Noix d’Obsidienne / Noix Mine-d’Obsidienne bénéficie d’une réduction de dégâts de 90%.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Mordzilla + Mordeur Explosif</color>"
         },
         {
             "seedType": 904,
@@ -451,9 +451,9 @@
         {
             "seedType": 921,
             "name": "Ailzilla",
-            "introduce": "<size=36><color=black>Vêtu de vêtements civils avec une dent dorée voyante, un mot de sa part fait fuir les autres. \" Malheur à moi, j'en ai assez des projecteurs. Se démarquer ne me convient plus, je veux juste une vie simple et tranquille.'</color>",
-            "info": "<size=36>Cousin de la plante défensive ultime.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>Une variante de Cherrizilla qui ne guérit plus des explosions de cerises, hérite des propriétés d'Ail et tire des projectiles qui empoisonnent les zombies. Peut être commuté en Cherrizilla avec une Cerise Explosive et vice versa avec un Ail. Débloqué aux côtés de Cherrizilla.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cherrizilla + Ail</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Vêtu simplement, arborant une canine dorée clinquante, il lui suffit d’un mot pour faire fuir tout le monde. \" Ail-ement, j’en ai marre de la lumière des projecteurs. Me faire remarquer, ce n’est plus pour moi — je veux juste une vie tranquille, sans histoire.\"</color>",
+            "info": "<size=36>Cousin de la plante défensive ultime sur terre.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déblocable avec Cerizilla</color>\n\n<color=black>Dégâts : </color><color=#8B0000>1000/1.75s</color>\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n\n<color=#5E1675>Système de Poison : </color><color=#8B0000>Hérite des propriétés de l’Ail et projette des attaques qui empoisonnent les zombies.</color>\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de Cerizilla. Hérite de tous ses traits mais tire des Bombes d’Ail Toxique infligeant 300 dégâts de zone, appliquant 1 point de Poison et l’effet Beurre d’Ail.\n<color=black>•</color> Ne se soigne plus avec les explosions de cerises, mais y reste totalement immunisé.</color>",
+            "cost": "<size=36>Formule de Conversion : <color=#8B0000>Cerizilla <-> Ail</color>"
         },
         {
             "seedType": 922,
@@ -2848,6 +2848,13 @@
             "introduce": "<align=justified><size=36><color=black>Le Four Infirmier apporte chaleur et réconfort aux terres gelées. Malgré son apparence étrange, les enfants du coin l’adorent. \" Un sucre ? \" propose-t-il joyeusement. \" Ça aide à garder la chaleur ! \"</color>",
             "info": "<size=36>Fournaise stable et haute température qui fournit périodiquement des charges ou des soins aux plantes proches.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Hérite des traits du Four Polaire, avec une zone de protection de 3×3.\n<color=black>•</color> Ne peut pas être placé à proximité d’autres Four Polaire.\n<color=black>•</color> Donne 1 charge de glace aux plantes de type Neige protégées toutes les 3 s.\n<color=black>•</color> Soigne les plantes protégées de 50 PV toutes les 15 s.</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Four Polaire + Aloès Aube</color>"
+        },
+        {
+            "seedType": 939,
+            "name": "Drone à Grenades",
+            "introduce": "<align=justified><size=36><color=black>Initialement conçu comme prototype de tir rapide pour la Sulfateuse à Grenades, le Drone à Grenade a récemment été amélioré pour tirer de vraies charges de cerises afin de contenir la vague de zombies — une mise à niveau accueillie avec fracas.</color>",
+            "info": "<size=36>Fournit une puissance de feu accrue lorsqu’il est coordonné avec les tireurs directement en dessous.\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée | Déblocable avec la Sulfateuse à Grenades</color>\n<color=black>Dégâts : </color><color=#8B0000>300/1.5s</color>\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante volante, sous-espèce de la Sulfateuse à Grenades.\n<color=black>•</color> Si la plante située directement en dessous attaque plus vite que toutes les 1.5s, le drone synchronise son tir avec elle.\n<color=black>•</color> Nombre maximal de Drones Cherrybomber sur le terrain : (nombre de lignes × 2).</color>",
+            "cost": "<size=36>Formule de Conversion : <color=#8B0000>Sulfateuse à Grenades <-> Blover</color>"
         }
     ]
 }
