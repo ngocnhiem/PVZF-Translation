@@ -647,9 +647,9 @@
         {
             "seedType": 1024,
             "name": "Champi-capricieux",
-            "introduce": "<size=36><color=black>Champi-peureux a toujours eu peur des zombies. Afin de réduire sa peur, Champi-hypno lui raconte chaque jour une histoire au coucher : \"En fait, il y a de bonnes personnes parmi les zombies.\" Au fil du temps, Champi-peureux a finalement subi un lavage de cerveau. Elle peut désormais utiliser des spores pour laver le cerveau des zombies. Bien sûr, elle a toujours très peur.</color></size>",
-            "info": "<size=36>Champi-capricieux peut tirer des spores de 7 couleurs.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Lance aléatoirement 1 des 7 types de spores. Lorsqu'un zombie est touché par les 7 types de spores, il sera charmé. Chaque fois qu'il sera touché par un type de spore, la probabilité de charme du PerChampi-fumée augmentera.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-hypno + Champi-peureux</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Champi-peureux a toujours eu peur des zombies. Afin de réduire sa peur, Champi-hypno lui raconte chaque jour une histoire au coucher : \"En fait, il y a de bonnes personnes parmi les zombies.\" Au fil du temps, Champi-peureux a finalement subi un lavage de cerveau. Il peut désormais utiliser des spores pour laver le cerveau des zombies. Bien sûr, il a toujours très peur.</color></size>",
+            "info": "<size=36>Champi-capricieux peut tirer des spores de 7 couleurs.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color>Tire aléatoirement 1 des 7 types de spores. Lorsqu'un zombie est touché par les 7 types de spores, il sera charmé. Chaque fois qu'il sera touché par un type de spore, la probabilité de charme du Champi-capricieux augmentera.</color>\n<color=black>•</color>Mordu, il hypnotise l'attaquant, mais redevient champi-peureux.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-hypno + Champi-peureux</color>"
         },
         {
             "seedType": 1025,
@@ -766,9 +766,9 @@
         {
             "seedType": 1041,
             "name": "Champi-cryogène",
-            "introduce": "<size=36><color=black>Une beauté glaciale ? Une fleur intouchable ? Le champi-voile-de-givre s'en fiche. Elle s'occupa tranquillement de l'ornement givré sur sa tête, toujours prête à remettre son couvre-chef Frost-nut aux zombies à tout moment. \"Ils apprécieront l'ambiance décontractée\", remarque-t-elle froidement.</color></size>",
-            "info": "<size=36>Quand un zombie mange un Champi-cryogène, il se transformera en Zombie Noix Gelée qui se battra pour votre camp.\n\n<color=black>Spécial : </color><color=#8B0000>Au contact, transforme un zombie en zombie Frost-nut qui se battra pour vous. Gèle également tout le champ.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-hypno + Champi-glace</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Une beauté glaciale ? Une fleur intouchable ? Le champi-cryogène s'en fiche. Elle s'occupa tranquillement de l'ornement givré sur sa tête, toujours prête à lancer son couvre-chef Grande-noix-Glacé sur les zombies \"Ils apprécieront l'ambiance décontractée\", remarque-t-elle froidement.</color></size>",
+            "info": "<size=36>Quand un zombie mange un Champi-cryogène, il se transformera en Zombie Noix Gelée qui se battra pour vous.\n\n<color=black>Spécial : </color><color=#8B0000>Au contact, transforme un zombie en zombie Grande-noix-glacé qui se battra pour vous. Gèle également tout le terrain et disparait.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-hypno + Champi-glace</color>"
         },
         {
             "seedType": 1042,
@@ -794,9 +794,9 @@
         {
             "seedType": 1045,
             "name": "Champi-maudit",
-            "introduce": "<size=36><color=black>Les plantes se sont toujours demandé pourquoi les zombies ne pouvaient pas être tués pour de bon. Récemment, Curse-shroom a dévoilé le mystère : \"Je n'ai pas vraiment fait grand-chose\", dit-il modestement. \"J'ai gentiment aidé les zombies à activer leur source d'énergie cachée de secours. Ce zombie rouge n'a-t-il pas l'air particulièrement inoffensif ? Je les ai cependant prévenus.\"</color></size>",
-            "info": "<size=36>Les zombies qui mangent le Champi-maudit seront hypnotisés, et exploseront à leur mort.\n\n<color=black>Spécial : </color><color=#8B0000>Les zombies qui mangent le champi-malédiction seront charmés pour se battre pour vous. Le zombie maudit explosera à sa mort, infligeant d'énormes dégâts.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-hypno + Champi-mort</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Les plantes se sont toujours demandé pourquoi les zombies ne pouvaient pas être tués pour de bon. Récemment, Champi-maudit a dévoilé le mystère : \"Je n'ai pas vraiment fait grand-chose\", dit-il modestement. \"J'ai gentiment aidé les zombies à activer leur source d'énergie cachée de secours. Ce zombie rouge n'a-t-il pas l'air particulièrement inoffensif ? Je les ai pourtant prévenus.\"</color></size>",
+            "info": "<size=36>Les zombies qui mangent le Champi-maudit seront hypnotisés, et exploseront à leur mort.\n\n<color=black>Spécial : </color><color=#8B0000>Les zombies qui mangent le Champi-maudit seront charmés et maudit. Le zombie maudit explosera à sa mort, provoquant une explosion similaire au Champi-mort. Mais il détruit également toutes les plantes sur lesquelles il se trouve (si il y en a).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-hypno + Champi-mort</color></size>"
         },
         {
             "seedType": 1046,
@@ -1578,9 +1578,9 @@
         {
             "seedType": 1158,
             "name": "Champi-magnétique",
-            "introduce": "<size=36><color=black>'Avant, je faisais fermenter le pain', explique Champi-magnétique, 'mais maintenant je récupère du métal pour construire les fours à pain.'</color>",
-            "info": "<size=36>Mettre un seau en fer sur lui pourrait avoir des résultats intéressants.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige deux fois plus de dégâts aux zombies métalliques.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-aimant</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>'Avant, je faisais fermenter le pain', explique Champi-magnétique, 'mais maintenant je récupère du métal pour construire les fours à pain.'</color>",
+            "info": "<size=36>Mettre un seau en fer sur lui pourrait avoir des résultats intéressants.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige ×2 plus de dégâts aux zombies métalliques.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-fumée + Champi-aimant</color>"
         },
         {
             "seedType": 1159,
@@ -1746,9 +1746,9 @@
         {
             "seedType": 1172,
             "name": "Champi-puant",
-            "introduce": "<size=36><color=#3D1400>Avec une peau pâle, une coiffure qui pourrait rivaliser avec celle d'un dôme de cathédrale et un sourire plein de dents tordues, Champi-puant a l'air d'auditionner pour le méchant d'un conte de fées. Ironiquement, il joue généralement le rôle d'un vampire. \"</color>",
-            "info": "<size=36>Projette du gaz toxique sur les zombies !\n\n<color=#3D1400>Dégâts :</color> <color=red>20/1,5 secondes</color>\n<color=#3D1400>Spécial :</color> <color=red>L'attaque ajoute un Poison Point aux zombies. Elle possède également la propriété héritée d'Ail.</color>\n<color=#3D1400>Formule de Fusion :</color> <color=red>Champi-fumée + Ail</color>\"",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=#3D1400>Avec une peau pâle, une coiffure qui pourrait rivaliser avec celle d'un dôme de cathédrale et un sourire plein de dents tordues, Champi-puant a l'air d'auditionner pour le méchant d'un conte de fées. Ironiquement, il joue généralement le rôle d'un vampire.</color>",
+            "info": "<size=36>Projette du gaz toxique sur les zombies !\n\n<color=black>Dégâts: </color><color=#8B0000>30/1.5s (Perçant)</color>\n<color=#5E1675>Système Poison: </color><color=#8B0000>L'attaque ajoute 1 point de Poison aux zombies.</color>\n<color=black>Spécial: Les zombies qui le morde sont forcé de changé de lignes.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-fumée + Ail</color>"
         },
         {
             "seedType": 1173,
