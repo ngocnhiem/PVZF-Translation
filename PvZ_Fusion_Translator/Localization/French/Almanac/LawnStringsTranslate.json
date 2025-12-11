@@ -67,15 +67,15 @@
             "seedType": 9,
             "name": "Champi-peureux",
             "introduce": "<size=36><color=black>\"Qui est là ?\" murmure Champi-peureux, d'une voix à peine audible. \"Va-t'en. Je ne veux voir personne. Sauf si c'est l'homme du cirque.\"</color></size>",
-            "info": "<size=36>Les Champi-peureux sont des tireurs à distance qui se cachent en présence de l'ennemi.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color></size>",
+            "info": "<size=36>Les Champi-peureux sont des tireurs à distance qui se cachent quand l'ennemi se rapproche d'eux.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
         },
         {
             "seedType": 10,
             "name": "Champi-glace",
-            "introduce": "<size=36><color=black>Champi-glace fronce les sourcils, non pas parce qu'il est mécontent ou parce qu'il désapprouve, mais à cause d'une blessure d'enfance qui a paralysé ses nerfs faciaux.</color></size>",
-            "info": "<size=36>Les Champi-glaces immobilisent temporairement les zombies à l'écran.\n\n<color=black>Dégâts : </color><color=#8B0000>20</color>\n<color=black>Spécial : </color><color=#8B0000>Immobilisez les zombies.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>Champi-glace fronce les sourcils, pas parce qu'il est mécontant ou qu'il désaprouve, mais à cause d'une blessure d'enfance qui a paralysé ses nerfs faciaux.</color></size>",
+            "info": "<size=36>Les Champi-glace immobilisent temporairement tous les zombies à l'écran.\n\n<color=black>Dégâts: </color><color=#8B0000>20</color>\n<color=black>Spécial: </color><color=#8B0000>Immobilise tous les zombies sur place pendant 4 secondes, inflige un effet de gel pendant 10 secondes et cause 20 points de dégâts à tous les zombies non volants.</color></size>",
+            "cost": "<size=36>Coût: <color=#8B0000>75</color>\nRecharge: <color=#8B0000>50s</color></size>"
         },
         {
             "seedType": 11,
@@ -737,17 +737,17 @@
         },
         {
             "seedType": 1037,
-            "name": "Champi-gel",
-            "introduce": "<size=36><color=black>Le champi-givre se démarque parmi les Champi-fumées. Ses études à l’étranger dans la nature glaciale de l’Alaska l’ont rendu encore plus cool, littéralement. Bien qu'il n'ait étudié la coiffure que pendant quelques années, il en est plutôt fier.</color></size>",
-            "info": "<size=36>Les vapeurs du Champi-gel peuvent traverser les obstacles et geler les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes (Piercing) </color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000> Ajoutera 5 points Cryo après chaque attaque.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-glace</color></size>",
-            "cost": ""
+            "name": "Champi-givré",
+            "introduce": "<align=justified><size=36><color=black>Le champi-givré se démarque parmi les Champi-fumées. Ses études à l’étranger dans la nature glaciale de l’Alaska l’a rendu encore plus cool… glacé jusqu’au chapeau ! Littéralement. Bien qu'il n'ait étudié la coiffure que pendant quelques années, il en est plutôt fier.</color></size>",
+            "info": "<size=36>Les vapeurs du Champi-givré peuvent transpercer et geler les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5 Secondes (Perçant) </color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000> Ajoute 5 points Cryo après chaque attaque. Champi-givré peut être amélioré en Champi-sombre Glacé grâce à un Fertilisant.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-fumée + Champi-glace</color>"
         },
         {
             "seedType": 1038,
             "name": "Champi-frileux",
-            "introduce": "<size=36><color=black>Shvery-shroom pense qu'il se démarque des autres Champi-peureux. Contrairement à eux, il ne recule jamais devant la peur et participe à toutes les activités sans hésitation. Cependant, c'est uniquement parce que lorsqu'il a peur, la température de l'air autour de lui chute, laissant tout le monde trop effrayé pour le surprendre.</color></size>",
-            "info": "<size=36>Champi-frileux lance des spores gélantes.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>10 points Cryo par attaque.</color>\n<color=black>Spécial : </color><color=#8B0000>Gelez les zombies à proximité lorsqu'ils s'approchent.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-peureux + Champi-glace</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>Champi-frileux pense qu'il est différent des autres Champi-peureux. Contrairement à eux, il ne recule jamais devant la peur et participe à toutes les activités sans hésitation. Cependant, c'est uniquement parce que lorsqu'il a peur, la température de l'air autour de lui chute, laissant tout le monde trop effrayé pour le surprendre.</color></size>",
+            "info": "<size=36>Champi-frileux lance des spores glacés.\n\n<color=black>Dégâts: </color><color=#8B0000>40/1.5s</color>\n<color=#0077b6>Système Cryo: </color><color=#8B0000>Les attaques infligent un effet de gel, ajoutent 10 points Cryo et infligent ×4 dégâts aux zombies gelés..</color>\n<color=black>Spécial: </color><color=#8B0000>Gèle les zombies à proximité dès qu'ils s'approchent.</color></size>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-peureux + Champi-glace</color>"
         },
         {
             "seedType": 1039,
@@ -759,9 +759,9 @@
         {
             "seedType": 1040,
             "name": "Champi-omnicide",
-            "introduce": "<size=36><color=black>\"Je vais geler le monde et le silence régnera. Le froid extrême perturbera le système de température de votre corps, donc ce ne sera pas très douloureux\", proclame CryoChampi-mort. Il apparaît rarement au combat, mais quand il le fait, une tempête de neige le suit dans son sillage. Avec un éclair de lumière blanche, même le temps semble se figer.</color></size>",
-            "info": "<size=36>Champi-omnicide peut détruire tout les zombies à l'écran et geler le temps.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Spécial : </color><color=#8B0000> Gèle le niveau – aucun nouveau zombie n'apparaîtra dans les 10 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-glace + Champi-mort</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Je vais geler le monde, et le silence règnera. Le froid extrême perturbera votre système nerveux, donc ce ne sera pas très douloureux\"proclame Champi-omnicide. Il apparaît rarement au combat, mais quand il le fait, une tempête de neige le suit dans son sillage. Avec un éclair de lumière blanche, même le temps semble se figer.</color></size>",
+            "info": "<size=36>Champi-omnicide peut détruire tout les zombies à l'écran et geler le temps.\n\n<color=black>Dégâts: </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Spécial: </color><color=#8B0000>Gèle les zombies survivants pendant 5 secondes. Gèle également le niveau temporairement - les zombies n'apparaîtront pas pendant 10  secondes.</color></size>",
+            "cost": "\n<size=36>Formule fusion: <color=#8B0000>Champi-glace + Champi-mort</color>"
         },
         {
             "seedType": 1041,
@@ -773,16 +773,16 @@
         {
             "seedType": 1042,
             "name": "Champi-furieux",
-            "introduce": "<size=36><color=black>Alors que certaines plantes enfouissent instinctivement leur tête lorsqu'elles sont nerveuses, le champi-frénésie se nourrit d'excitation. Son adrénaline monte en flèche, provoquant le déclenchement de ses spores à un rythme croissant. Il est sage d'éviter de le provoquer à nouveau, sinon il pourrait exploser à cause de toute cette énergie refoulée.</color></size>",
-            "info": "<size=36>La vitesse d'attaque du Champi-furieux augmente en attaquant.\n\n<color=black>Dégâts : </color><color=#8B0000>20 / 1.5 Secondes (0.5 Peak)</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque attaque raccourcira l'intervalle d'attaque de 0,1 seconde, maximum 0,5 seconde. Se réinitialise lorsque les zombies s'approchent. Explosera lorsque les zombies s'approchent alors que la vitesse d'attaque maximale est atteinte.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-peureux + Champi-mort</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black> Alors que certaines plantes ont l'instinct de cacher leur tête lorsqu'elles sont nerveuses, le Champi-furieux se nourrit d'excitation. Son adrénaline monte en flèche, provoquant une augmentation du rythme de la propagation de ses spores. Il est préférable de ne pas le provoquer à nouveau, ou il pourrait exploser sous l'effet de toute cette énergie refoulée.</color></size>",
+            "info": "<size=36>La vitesse d'attaque de Champi-furieux  augmente lorqu'il attaque.\n\n<color=black>Dégâts: </color><color=#8B0000>20/1.5 Seconds (0.25 Minimum)</color>\n<color=black>Spécial: </color><color=#8B0000>Chaque attaque réduit l'intervalle entre les attaques de 0,1 seconde, jusqu'à un minimum de 0,25 seconde. Se cache et se réinitialise lorsque les zombies s'approchent. Explose lorsque les zombies s'approchent alors que la vitesse d'attaque maximale est atteinte.</color></size>",
+            "cost": "\n<size=36>Formule fusion <color=#8B0000>Champi-peureux + Champi-mort</color>"
         },
         {
             "seedType": 1043,
-            "name": "Champi-suie",
-            "introduce": "<size=36><color=black>Soot-shroom, le bourreau de travail misanthrope, ne supporte pas la vue des zombies – c'est trop une distraction. Il a une petite réserve de balles, mais elles sont plus que mortelles. \"Ne me dérange pas sauf si c'est urgent. Si tu veux qu'ils soient morts, tue-les toi-même.\" Pourtant, sa grande efficacité incite tout le monde à l'admirer.</color></size>",
-            "info": "<size=36>Champi-suie peut détruire la plupart des zombies devant lui.\n\n<color=black>Dégâts : </color><color=#8B0000>1800/60 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Cliquez manuellement pour attaquer tous les zombies d'affilée.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-mort</color></size>",
-            "cost": ""
+            "name": "Champi-cendré",
+            "introduce": "<align=justified><size=36><color=black>Champi-cendré, le bourreau de travail misanthrope, ne supporte pas la vue des zombies – c’est trop distrayant. Il a une petite réserve de balles, mais elles sont plus que létales. \"Ne me dérange pas, sauf si c'est urgent. Si tu veux qu'ils soient morts, tire dessus toi-même.\" Pourtant, sa précision dans l’efficacité incite tout le monde à l'admirer.</color></size>",
+            "info": "<size=36>Champi-cendré peut détruire la plupart des zombies devant lui.\n\n<color=black>Dégâts : </color><color=#8B0000>1800/30s </color>\n<color=black>Spécial : </color><color=#8B0000>Cliquez manuellement pour attaquer tous les zombies d'affilée en face de lui.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-fumée + Champi-mort</color>"
         },
         {
             "seedType": 1044,
@@ -1753,9 +1753,9 @@
         {
             "seedType": 1173,
             "name": "Jalapeno Geleur",
-            "introduce": "<size=36><color=#3D1400>Froid à l'extérieur, fougueux à l'intérieur. C'est ainsi que d'autres plantes décrivent le Jalapeno Geleur. \"Ne vous laissez pas tromper par mon apparence calme, mon énergie explosive dépasse votre imagination\", murmure Jalapeno Geleur. Oh, au fait, il est aussi très doué pour faire des glaces.</color>",
-            "info": "<size=36>Possédez à la fois les propriétés de Champi-glace et de Jalapeno !\n\n<color=#3D1400>Dégâts :</color> <color=red>1800</color>\n<color=#3D1400>Résistance :</color> <color=red>32000</color>\n<color=#3D1400>Spécial :</color> <color=red>Perd 20 % de ses PV toutes les 3 secondes. Tant qu'il est présent, il absorbe les dégâts pour toutes les plantes. À sa mort, déclenché Jalapeno dans sa rangée et Champi-glace sur tout le terrain.</color>\n<color=#3D1400>Formule de Fusion :</color> <color=red>Jalapeno + Champi-glace</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Froid à l'extérieur, fougueux à l'intérieur. C'est ainsi que d'autres plantes décrivent le Jalapeno Geleur. \"Ne vous laissez pas tromper par mon apparence calme, mon énergie explosive dépasse votre imagination,\" murmure Jalapeno Geleur. Oh, au fait, il est aussi très doué pour faire des glaces.</color>",
+            "info": "<size=36>Posséde à la fois les propriétés de Champi-glace et de Jalapeño!\n\n<color=black>Dégâts: </color><color=#8B0000>1800</color>\n<color=black>Résistance: </color><color=#8B0000>32000</color>\n<color=black>Spécial: </color><color=#8B0000>Perd 20 % de ses PV toutes les 3 secondes. Tant qu'il est présent, il absorbe les dégâts pour toutes les plantes. À sa mort, déclenché Jalapeno dans sa rangée et Champi-glace sur tout le terrain.</color>",
+            "cost": "\n<size=36>Formule fusion: <color=#8B0000>Jalapeño+ Champi-glace</color>"
         },
         {
             "seedType": 1174,
