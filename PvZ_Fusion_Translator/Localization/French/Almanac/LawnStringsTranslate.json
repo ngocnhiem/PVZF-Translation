@@ -143,9 +143,9 @@
         {
             "seedType": 20,
             "name": "Planterne",
-            "introduce": "<size=36><color=black>Planterne défie la science. Il le fait tout simplement. D'autres plantes mangent de la lumière et excrètent de l'oxygène ; Planterne mange les ténèbres et excrète la lumière. Planterne est méfiant quant à la façon dont il le fait. \"Je ne vais pas dire 'sorcellerie', je n'utiliserais pas le terme 'forces obscures', je… je pense que j'en ai assez dit.\"</color></size>",
-            "info": "<size=36>Les Plantes éclairent la zone même à travers le brouillard et fournissent des niveaux de luminosité.\n\n<color=black>Spécial : </color><color=#8B0000>Dissipe le brouillard avec la lumière.</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Fournit 1 niveau Lumos dans une grille 3x3, qui peut être empilé pour fournir de la force à d'autres plantes Lumos. Référez-vous à ses fusions pour la liste des plantes affectées.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>15 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>Planterne défie la science. Il le fait tout simplement. D'autres plantes mangent de la lumière et excrètent de l'oxygène ; Planterne mange les ténèbres et excrète la lumière. Planterne est méfiant quant à la façon dont il le fait. \"Je ne vais pas dire 'sorcellerie', je n'utiliserais pas le terme 'forces obscures', je… je pense que j'en ai assez dit.\"</color></size>",
+            "info": "<size=36>Les Planternes éclairent la zone même à travers le brouillard et fournissent des niveaux de luminosité.\n\n<color=black>Spécial : </color><color=#8B0000>Dissipe le brouillard (5×7 excepté les coins). Les fusions de Planterne dissipe le brouillard dans un plus petit rayon de 1 tuile</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Fournit 1 niveau Lumos dans une grille 3x3, qui peut être empilé pour fournir de la force à d'autres plantes Lumos. Référez-vous à ses fusions pour la liste des plantes affectées.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>15s</color></size>"
         },
         {
             "seedType": 21,
@@ -1003,10 +1003,10 @@
         },
         {
             "seedType": 1076,
-            "name": "Champi-cactus Marin",
-            "introduce": "<size=36><color=black>\"Les gens me posent souvent des questions sur mon apparence, alors permettez-moi de clarifier : je viens du désert du Namib\", a déclaré le champi-épine de mer à toute personne qui s'enquérait. \"Si vous êtes familier avec la géographie, vous saurez qu'un désert se trouve juste à côté de l'océan !\"</color></size>",
-            "info": "<size=36>Attaquez les zombies volants et les machines volantes, grandit en taille après un moment.\n\n<color=black>Dégâts : </color><color=#8B0000>20 → 20*4 / 1.5 Secondes</color>\n<color=black>Temps de croissance : </color><color=#8B0000>120 secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-mer + Cactus</color></size>",
-            "cost": ""
+            "name": "Cactus Marin",
+            "introduce": "<align=justified><size=36><color=black>\"Les gens me posent souvent des questions sur mon apparence, alors permettez-moi de clarifier : je viens du désert du Namib\", a déclaré le Cactus Marin à quiconque s’enquérait. \"Si vous êtes familier avec la géographie, vous saurez qu'un désert se trouve juste à côté de l'océan !\"</color></size>",
+            "info": "<size=36>Attaque les zombies volants et les machines volantes, grandit en taille après un moment.\n\n<color=black>Dégâts : </color><color=#8B0000>20 → 20×4 / 1.5s</color>\n<color=black>Temps de croissance : </color><color=#8B0000>120s</color>\n<color=black>Spécial: </color><color=#8B0000>Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mer + Cactus</color>"
         },
         {
             "seedType": 1077,
@@ -1017,17 +1017,17 @@
         },
         {
             "seedType": 1078,
-            "name": "Champi-lanterne Marine",
-            "introduce": "<size=36><color=black>\"J'ai été un système d'éclairage lors d'une fête de pirates au bord de la piscine, j'ai travaillé pour une entreprise de récupération en eau profonde d'Amazon pendant trois mois et j'ai même servi d'appât pour la pêche de nuit pendant que je dormais !\" \" partage Sea Lamp-Shroom, un mélange de colère et de fierté évident dans sa voix. \"Maintenant, je cherche un emploi stable. Oncle Dave a mentionné que la piscine du jardin avait besoin d'éclairage, mais il a oublié de mentionner qu'elle était infestée de zombies !\"</color></size>",
-            "info": "<size=36>Disperse le brouillard et émet de la lumière, grandit en taille après un moment.\n\n<color=black>Temps de croissance : </color><color=#8B0000>60 secondes</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Donne 1 niveau Lumos dans une grille 3x3, 5x5 après croissance.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-mer + Planterne</color></size>",
-            "cost": ""
+            "name": "Planterne Marine",
+            "introduce": "<align=justified><size=36><color=black>\"J'ai été un système d'éclairage lors d'une fête de pirates au bord de la piscine, j'ai travaillé pour une entreprise de récupération en eau profonde d'Amazonie pendant trois mois et j'ai même servi d'appât pour la pêche de nuit pendant que je dormais !\" Planterne Marine partage, un mélange de colère et de fierté évident dans sa voix. \"Maintenant, je cherche un emploi stable. Oncle Dave a mentionné que la piscine du jardin avait besoin d'éclairage, mais il a oublié de mentionner qu'elle était infestée de zombies !\"</color></size>",
+            "info": "<size=36>Disperse le brouillard et émet de la lumière, grandit en taille après un moment.\n\n<color=black>Temps de croissance : </color><color=#8B0000>60s</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Donne 1 niveau Lumos dans une grille 3x3, 5x5 après croissance.</color>\n<color=black>Special: </color><color=#8B0000>Petite plante (évite les projectiles tirés en ligne droite). Hérite de caractéristiques de la Planterne.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mer + Planterne</color>"
         },
         {
             "seedType": 1079,
             "name": "Cactus Lumineux",
-            "introduce": "<size=36><color=black>\"Mes aventures dans le désert m'ont rendu remarquablement brillant\", se vantait Lumicactus, mais il n'a jamais oublié de faire le plein d'huile de lampe chaque jour pour s'assurer de continuer à briller.</color></ taille>",
-            "info": "<size=36>Tire des piquets percant et des lasers, dépendant du niveau de lumos.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes, 20*2/1.5 Secondes (Air)</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Obtient les buffs suivants en fonction du niveau Lumos :\nNiveau 1 = Percer 3 fois\nNiveau 2 = Perçage infini\nNiveau 3 = Dégâts aériens laser → 60</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Planterne + Cactus</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Mes aventures dans le désert m'ont rendu remarquablement brillant\", se vantait Cactus Lumineux, mais il n'oublie jamais de faire le plein d'huile de lampe chaque jour pour s'assurer de continuer à briller.</color></size>",
+            "info": "<size=36>Tire des piquets percant et des lasers, dépendant du niveau de lumos.\n\n<color=black>Dégâts : </color><color=#8B0000>30/1.5s</color>\n<color=#99582a>Système Lumos: </color><color=#8B0000>Obtiens les effets Bonus dépendament du niveau de Lumos:\n<color=black>•</color> Niveau 1 = Projectile 2× plus Perçant\n<color=black>•</color> Niveau 2 = Laser Perçant à l'Infini, Dégâts aux unités volantes ×3\n<color=black>•</color> Niveau 3 = Dégâts du Laser de base augmenté → +40</color>\n<color=black>Special: </color><color=#8B0000>Tire 2 fois en même temps lorsqu'il attaque les zombies volant/machines.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Planterne + Cactus</color>"
         },
         {
             "seedType": 1080,
@@ -1039,9 +1039,9 @@
         {
             "seedType": 1081,
             "name": "Carambole Lumineuse",
-            "introduce": "<size=36><color=black>Les étoiles dansent sur l'eau tandis que les lumières de pêche se préparent à s'élever dans le ciel. Les vagues emportent la lune tandis que la marée fait naître les étoiles. Enfant, Starglow rêvait de cueillir les étoiles, observant souvent leur miroitement sur l'eau. Sa rencontre avec Planterne lui a appris qu'il ne faut pas envier les étoiles brillantes d'en haut ; même la lumière la plus faible, comme les lucioles, a sa propre chaleur et sa propre beauté.</color></size>",
-            "info": "<size=36>Tire des étoiles qui peuvent traquer les zombies si il y'a de la lumière présente.\n\n<color=black>Dégâts : </color><color=#8B0000>40*5/3 Secondes</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Obtient les buffs suivants : \nNiveau 1 = Les étoiles peuvent désormais suivre les zombies dans la même rangée qu'elles.\nNiveau 2 = Les étoiles sont tirées en continu, qu'il y ait ou non des zombies.\nNiveau 3 = Les étoiles traquent les zombies partout.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Planterne + Carambole</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Les étoiles dansent sur l’eau tandis que les lamparos se préparent à s’élever dans le ciel. Les vagues dérobent la lune, tandis que la marée ouvre le chemin aux étoiles. Enfant, Carambole Lumineuse rêvait de cueillir les étoiles, observant souvent leurs reflet miroitant sur l'eau. Sa rencontre avec Planterne lui a appris qu'il ne faut pas envier les étoiles brillantes d'en haut ; même la lumière la plus faible, comme les lucioles, a sa propre chaleur et sa propre beauté.</color></size>",
+            "info": "<size=36>Tire des étoiles qui peuvent traquer les zombies si il y a de la lumière présente.\n\n<color=black>Dégâts : </color><color=#8B0000>60×5/3s</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Obtient les Altérations suivantes: \n<color=black>•</color>Niveau 1 = Les étoiles peuvent désormais suivre les zombies dans la même rangée qu'elles.\n<color=black>•</color> Niveau 2 = Les étoiles sont tirées en continu, qu'il y ait ou non des zombies.\n<color=black>•</color> Niveau 3 = Les étoiles traquent les zombies partout.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Planterne + Carambole</color>"
         },
         {
             "seedType": 1082,
@@ -1073,17 +1073,17 @@
         },
         {
             "seedType": 1086,
-            "name": "Champi-troufle Marin",
-            "introduce": "<size=36><color=black>Le champignon marin a des aspirations aussi grandes que celles d'un dragon. Maîtrisant l'art ancien du \" Feng Shui \" venu d'Orient, il connaît bien les positions chanceuses et malchanceuses. Comprenant que le vent et l'eau se complètent, il espère garder le malheur à distance, qu'il s'envole dans le ciel ou qu'il glisse sur l'eau.</color></size>",
-            "info": "<size=36>Disperse le brouillard et repousse les zombies dans l'eau.\n\n<color=black>Spécial : </color><color=#8B0000>Dissipe le brouillard et repousse les zombies aquatiques.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-mer + Troufle</color></size>",
-            "cost": ""
+            "name": "Troufle Marin",
+            "introduce": "<align=justified><size=36><color=black>Le Troule Marin a des aspirations aussi grandes que celles d'un dragon. Maîtrisant l'art ancien du \"Feng Shui\" venu d'Orient, il connaît bien les positions chanceuses et malchanceuses. Comprenant que le vent et l'eau se complètent, il espère tenir le malheur à distance, qu'il s'envole dans le ciel ou qu'il glisse sur l'eau.</color></size>",
+            "info": "<size=36>Disperse le brouillard et repousse les zombies dans l'eau.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Dissipe le brouillard et repousse les zombies le plus à droite possible de sa colonne.\n<color=black>•</color>Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mer + Troufle</color>"
         },
         {
             "seedType": 1087,
-            "name": "Citrouille-lanterne",
-            "introduce": "<size=36><color=black>Jack O'Lantern insiste sur le fait qu'il rencontre fréquemment des fantômes, mais existent-ils vraiment ? Qui peut le dire avec certitude ? Peut-être a-t-il simplement été entraîné dans une autre série de festivités d'Halloween par quelqu'un avide de bonne frayeur.</color></size>",
-            "info": "<size=36>Dans une petite zone, dispersez le brouillard et augmentez le niveau de Lumos des plantes à l'intérieur.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Donnez 1 niveau Lumos dans une grille 3x3. Restaure 150 points d'endurance par niveau de Lumos toutes les 15 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Planterne + Citrouille</color></size>",
-            "cost": ""
+            "name": "Planterne d'halloween",
+            "introduce": "<align=justified><size=36><color=black>Planterne d'halloween insiste sur le fait qu'il rencontre fréquemment des fantômes, mais existent-ils vraiment ? Qui peut le dire avec certitude ? Peut-être a-t-il simplement été entraîné dans une autre série de festivités d'Halloween par quelqu'un avide de bonne frayeur.</color></size>",
+            "info": "<size=36>Dans une petite zone, disperse le brouillard et augmente le niveau de Lumos des plantes à l'intérieur.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Donnez 1 niveau Lumos dans une grille 3x3. Restaure 150 points de Robustesse par niveau de Lumos toutes les 15s.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Planterne + Citrouille</color>"
         },
         {
             "seedType": 1088,
@@ -1178,10 +1178,10 @@
         },
         {
             "seedType": 1101,
-            "name": "Champi-aimant Marin",
-            "introduce": "<size=36><color=black>Les autres Champi-mers ne comprenaient pas pourquoi le Champi-aimant des Mers pouvait absorber le fer pour devenir de plus en plus grand. \"C'est simple : E=mc²\", a-t-il expliqué, même si la majeure partie de l'énergie était perdue dans l'air et restait totalement inutilisée.</color></size>",
-            "info": "<size=36>Étrange... Pourquoi est-ce que l'aimant grandit en même tant que lui ?\n\n<color=black>Intervalle d'aimant : </color><color=#8B0000>15 secondes → 10 secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Pousse après avoir attiré 3 fois.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-mer + Champi-aimant</color></size>",
-            "cost": ""
+            "name": "Aimant Marin",
+            "introduce": "<align=justified><size=36><color=black>Les autres Champi-mers ne comprenaient pas pourquoi l'Aimant Marin pouvait absorber le fer pour devenir de plus en plus grand. \"C'est simple : E=mc²\", a-t-il expliqué, même si la majeure partie de l'énergie était perdue dans l'air et restait totalement inutilisée.</color></size>",
+            "info": "<size=36>Étrange... Pourquoi est-ce que l'aimant grandit en même tant que lui ?\n\n<color=black>Intervalle d'aimant : </color><color=#8B0000>15 Seconds → 10s</color>\n<color=black>Spécial : </color><color=#8B0000>Pousse après avoir aimanté 3 fois.\n<color=black>•</color>Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mer + Champi-aimant</color>"
         },
         {
             "seedType": 1102,
@@ -1802,9 +1802,9 @@
         {
             "seedType": 1180,
             "name": "Ortie Hivernale",
-            "introduce": "",
-            "info": "<size=36>Givre peut ralentir les zombies qui marchent dessus.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1 seconde</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque coup ajoute 10 points Cryo.</color>",
-            "cost": "\n<size=36><color=black>Formule de Fusion : </color><color=#8B0000>Ortie +  Champi-glace</color>"
+            "introduce": "<align=justified><size=36><color=black>Dernières nouvelles du premier tournoi de hockey Plants vs. Zombies ! Ortie hivernale à remporté la victoire, laissant les Bobsleigh Zombies dans le désarroi. Mais maintenant, ils crient à la tricherie ! \"Je n'ai rien fait de mal,\" insista Ortie hivernale, en ajustant ses crampons glacés. \"Et ces ressorts? C'est juste un petit équipement de  sécurité avant le match.\"",
+            "info": "<size=36>Ortie Hivernale peut ralentir les zombies qui marchent dessus.\n\n<color=black>Dégâts: </color><color=#8B0000>40/1 Secondes</color>\n<color=black>Spécial: </color><color=#8B0000>Ortie Hivernale peut évoluer en Glace Épineuse grâce à du fertilisant.</color>\n<color=#0077b6>Système Cryo: </color><color=#8B0000>Chaque coup ajoute 10 points Cryo.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Ortie + Champi-glace</color>"
         },
         {
             "seedType": 1181,
