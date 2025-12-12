@@ -1032,9 +1032,9 @@
         {
             "seedType": 1080,
             "name": "Troufle Lumineux",
-            "introduce": "<size=36><color=black>\"La bougie argentée illumine la froide toile d'automne, tandis que l'éventail en soie légère danse gracieusement avec les lucioles.\" C'est le poème bien-aimé de Glowver. Sa fascination pour les lucioles a commencé dans son enfance, et il apprécie souvent la brise fraîche au bord de l'eau la nuit, admirant la façon dont leur fluorescence s'élève doucement du vent, scintille avant de retomber doucement dans l'herbe sombre. Seuls les zombies pourraient ignorer une beauté aussi exquise.</color></size>",
-            "info": "<size=36>Disperse le brouillard et augmente le niveau de Lumos des plantes Lumos présentes.\n\n<color=#99582a>Système Lumos : </color><color=#8B0000>Donne 1 niveau Lumos aux plantes Lumos dans tout le champ pendant 30 secondes.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Planterne + Troufle</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"La bougie argentée illumine la froide toile d'automne, tandis que l'éventail en soie légère danse gracieusement avec les lucioles.\" C'est le poème bien-aimé de Troufle Lumineux. Sa fascination pour les lucioles a commencé dans son enfance, et il apprécie souvent la brise fraîche au bord de l'eau la nuit, admirant la façon dont leur fluorescence s'élève doucement du vent, scintille avant de retomber doucement dans l'herbe sombre. Seuls les zombies pourraient ignorer une beauté aussi exquise.</color></size>",
+            "info": "<size=36>Disperse le brouillard et augmente le niveau de Lumos des plantes Lumos présentes.\n\n<color=#99582a>Système Lumos : </color><color=#8B0000>Donne 1 niveau Lumos aux plantes Lumos dans tout le champ pendant 30 secondes.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Planterne + Troufle</color></size>"
         },
         {
             "seedType": 1081,
@@ -1053,9 +1053,9 @@
         {
             "seedType": 1083,
             "name": "Étoile de Mer",
-            "introduce": "<size=36><color=black>\"Bien que mon nom ressemble à celui d'un animal, ce n'est qu'un nom de scène\", a expliqué Sea Star. \"Je suis un magicien capable d'expulser des spores de différentes formes.\" Il nourrit une profonde aversion pour les zombies plongeurs, craignant qu'ils découvrent la vérité : il s'agit simplement d'un Champi-mer avec un pistolet à eau en forme d'étoile perché sur sa tête.</color></size>",
-            "info": "<size=36>Attaque deux fois une fois qu'il a grandit.\n\n<color=black>Dégâts : </color><color=#8B0000>20*5 → 20*5*2 / 1.5 Secondes</color>\n<color=black>Temps de croissance : </color><color=#8B0000>60 secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-mer + Carambole</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Bien que mon nom ressemble à celui d'un animal, ce n'est qu'un nom de scène\", a expliqué Étoile de Mer. \"Je suis un magicien capable d'expulser des spores de différentes formes.\" Il nourrit une profonde aversion pour les zombies plongeurs, craignant qu'ils découvrent la vérité : il s'agit simplement d'un Champi-mer avec un pistolet à eau en forme d'étoile perché sur sa tête.</color></size>",
+            "info": "<size=36>Attaque deux fois une fois qu'il a grandit.\n\n<color=black>Dégâts : </color><color=#8B0000>20×5 → 20×5×2/1.5s</color>\n<color=black>Spécial:</color>Petite plante (évite les projectiles tirés en ligne droite).\n<color=black>Temps de croissance : </color><color=#8B0000>60s</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-mer + Carambole</color>"
         },
         {
             "seedType": 1084,
@@ -1514,10 +1514,10 @@
         },
         {
             "seedType": 1149,
-            "name": "Melon Enflammé",
-            "introduce": "<size=36><color=black>Les plantes ont toujours l'impression que les pastèques à peau rouge véhiculent l'ambiance festive du Nouvel An, crépitant et éclatant d'excitation. Mais la pastèque explique : \" Je n'ai pas mis de pétards dans le melon ! C'est juste que les aliments scellés explosent lorsqu'ils sont chauffés – et vous ne pouvez pas vous précipiter pour manger une pastèque chaude !'</color>",
-            "info": "<size=36>Lobs de melons incroyablement chauds !\n\n<color=black>Dégâts : </color><color=#8B0000>160/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige le débuff Enflammé.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Lance-pastèque + Jalapeño</color>",
-            "cost": ""
+            "name": "Lance-pastèque Enflammé",
+            "introduce": "<align=justified><size=36><color=black>Les plantes ont toujours l'impression que les Lance-pastèques à peau rouge véhiculent l'ambiance festive du Nouvel An, crépitant et éclatant d'excitation. Mais le Lance-pastèque explique : \" Je n'ai pas mis de pétards dans la pastèque ! C'est juste que les aliments scellés explosent lorsqu'ils sont chauffés – et vous ne pouvez pas vous précipiter pour manger une pastèque chaude !'</color>",
+            "info": "<size=36>Lance des melons incroyablement chauds !\n\n<color=black>Dégâts : </color><color=#8B0000>160/3s </color>\n<color=black>Spécial : </color><color=#8B0000>Inflige l'altération Enflammé.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque + Jalapeño</color>"
         },
         {
             "seedType": 1150,
