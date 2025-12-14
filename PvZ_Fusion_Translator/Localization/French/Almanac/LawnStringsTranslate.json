@@ -164,7 +164,7 @@
         {
             "seedType": 23,
             "name": "Carambole",
-            "introduce": "<size=36><color=black>\"Oh, mec\", dit Carambole. \"Je suis allé chez le dentiste l'autre jour et il m'a dit que j'avais quatre caries. J'ai, comptez-le, UNE dent ! Quatre caries dans une dent ? Comment cela se produit-il ?\"</color></size>",
+            "introduce": "<size=36><color=black>\"Oh, mec\", dit Carambole. \"Je suis allé chez le dentiste l'autre jour et il m'a dit que j'avais quatre caries. J'ai compté, il a qu'UNE dent ! Quatre caries dans une dent ? Comment cela se produit-il ?\"</color></size>",
             "info": "<size=36>La Carambole tire des étoiles dans 5 directions.\n\n<color=black>Dégâts : </color><color=#8B0000>20*5/1.5 Secondes</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
         },
@@ -1094,10 +1094,10 @@
         },
         {
             "seedType": 1089,
-            "name": "Citrouille Étoile",
-            "introduce": "<size=36><color=black>Les gens se demandent souvent combien de langues Stargourd doit connaître pour communiquer sans effort avec toutes les plantes. Stargourd sourit et dit : \"En fait, je ne parle que la langue de Carambole, puisque c'est le seul avec qui je travaille en étroite collaboration.\"</color></size>",
-            "info": "<size=36>Aide troufle d'étoiles à garder plus d'étoiles.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Augmente la limite de stockage de StarTroufle à 60.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Carambole + Citrouille</color></size>",
-            "cost": ""
+            "name": "Citrouille Étoilée",
+            "introduce": "<size=36><color=black>Beaucoup de plantes se demandent combien de langues Citrouille Étoilée doit connaître pour communiquer aussi facilement avec tout le monde. Elle sourit et répond : \"En réalité, je ne parle que la langue de Carambole, puisque c’est le seul avec qui je travaille vraiment.\"</color></size>",
+            "info": "<size=36>Aide Troufle d'Étoiles à stocker davantage d’étoiles.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Augmente la limite de stockage de Troufle d'Étoiles à 80 et celle de Gravitron à 240. Permet à Carambole Solaire d’utiliser le Soleil pour tirer automatiquement.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Carambole > Citrouille</color></size>"
         },
         {
             "seedType": 1090,
@@ -1116,16 +1116,16 @@
         {
             "seedType": 1092,
             "name": "Citrouille Magnétique",
-            "introduce": "<size=36><color=black>Diner au restaurant donne des frissons à Citrouille Lure. Il a toujours peur que les couverts en fer ne collent comme par magie à son visage, transformant un repas agréable en une expérience gênante.</color></size>",
-            "info": "<size=36>Peut fusioner avec les matériaux métalliques des zombies pour absorber leurs propriétés.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Système magnétique : </color><color=#8B0000>Cette usine traitera :\n(20 * Quantité de plantes magnétiques dans le système * Vitesse des zombies) à des zombies spécifiques toutes les 6 secondes. Seuls les zombies dotés de matériaux magnétisables OU de véhicules mécaniques peuvent être endommagés de cette façon. De plus, ils ne doivent pas être dans le ciel ou sous terre.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Citrouille + Champi-aimant</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>Manger au restaurant donne des frissons à Citrouille Magnétique. Elle a toujours peur que les couverts en métal ne se collent comme par magie à son visage, transformant un repas agréable en une expérience gênante.</color></size>",
+            "info": "<size=36>Peut fusionner avec les objets métalliques des zombies pour en absorber les propriétés.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=#666699>Système Magnétique : </color><color=#8B0000>Inflige toutes les 6 secondes des dégâts égaux à (20 × nombre de plantes magnétiques dans le système × vitesse des zombies) à certains zombies. Seuls les zombies équipés de matériaux magnétisables ou de véhicules mécaniques peuvent être affectés, et ils ne doivent ni être dans les airs ni sous terre. Cet effet est conservé dans les fusions.</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-aimant > Citrouille</color></size>"
         },
         {
             "seedType": 1093,
             "name": "Carambole Magnétique",
-            "introduce": "<size=36><color=black>Starlure nourrit le rêve de toute une vie : aspirer les étoiles du ciel. Il passe chaque nuit à regarder le ciel étoilé, imaginant le jour où son rêve deviendra réalité.</color></size>",
-            "info": "<size=36>Peut fusioner avec les matériaux métalliques des zombies pour absorber leurs propriétés.\n\n<color=black>Dégâts : </color><color=#8B0000>20*5/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige le double de dégâts aux zombies de fer.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Carambole + Champi-aimant</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>Carambole Magnétique nourrit le rêve de toute une vie : aspirer les étoiles du ciel. Il passe chaque nuit à contempler la voûte étoilée, imaginant le jour où son rêve deviendra réalité.</color></size>",
+            "info": "<size=36>Peut fusionner avec les matériaux métalliques des zombies pour en absorber les propriétés.\n\n<color=black>Dégâts : </color><color=#8B0000>40×5/1.5 secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Inflige le double de dégâts aux zombies protégés par du métal.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Carambole + Champi-aimant</color></size>"
         },
         {
             "seedType": 1094,
