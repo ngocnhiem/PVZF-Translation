@@ -2494,7 +2494,7 @@
         },
         {
             "seedType": 1328,
-            "name": "Tripe Pois-pestilentiel",
+            "name": "Triple Pois-pestilentiel",
             "introduce": "<align=justified><size=36><color=black>\" Beurk, votre goût pue ! Je vous déteste tous les deux ! \" hurle la troisième tête. Les zombies pensent qu’il pleure à cause de l’odeur de ses camarades, mais en réalité, c’est simplement à cause de leur horrible goût musical. \" On n’a même pas de nez \", précise la première tête.</color></size>",
             "info": "<size=36>Tire des pois toxiques ; les zombies déjà empoisonnés libèrent des nuages toxiques lorsqu’ils sont touchés.\n\n<color=black>Dégâts : </color><color=#8B0000>30×3/1,5s</color>\n<color=#5E1675>Système de Poison : </color><color=#8B0000>\n<color=black>•</color> Chaque projectile ajoute 1 point de Poison à la cible.\n<color=black>•</color> Si le zombie touché est déjà en état Empoisonné, crée un Nuage Toxique sous ses pieds qui dure 6 s et applique 1 point de Poison par seconde à tous les zombies pris dedans. Un seul Nuage Toxique peut être actif par ligne.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Triple Pisto-pois + Ail</color></size>"
