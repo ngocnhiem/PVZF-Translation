@@ -87,9 +87,9 @@
         {
             "seedType": 12,
             "name": "Nénuphar",
-            "introduce": "<align=justified><size=36><color=black>Nénuphar ne se plaint jamais. Nénuphar ne veut jamais savoir ce qui se passe. Mettez une plante sur Nénuphar, il ne dira rien. A-t-il des opinions surprenantes ou des secrets choquants ? Personne ne le sait. Nénuphar garde tout à l'intérieur.</color></size>",
-            "info": "<size=36>Les Nénuphars vous permettent de planter des plantes non aquatiques au-dessus de ceux-ci.\n\n<color=black>Spécial : </color><color=#8B0000>Des plantes non aquatiques peuvent y être plantées. Change d'apparence selon le type de plante au-dessus.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5s</color></size>"
+            "introduce": "<align=justified><size=36><color=black>Nénuphar ne se plaint jamais. Nénuphar ne veut jamais savoir ce qui se passe. Posez une plante sur Nénuphar, il ne dira rien. A-t-il des opinions surprenantes ou des secrets choquants ? Personne ne le sait. Nénuphar garde tout pour lui.</color></size>",
+            "info": "<size=36>Les Nénuphars vous permettent de planter des plantes non aquatiques au-dessus d'eux.\n\n<color=black>Spécial : </color><color=#8B0000>Des plantes non aquatiques peuvent y être plantées. Change d'apparence selon le type de plante au-dessus qui <i>Replante Automatiquement</i> le délai de replantation automatique est de 90s.</color>\n<color=black>Variantes: </color><color=#8B0000>Tournesol, Noix, Triple Pisto-pois, Écraseur, Torche, Jalapeño. Peut aussi se transformer en Nénu-chat après utilisation d'un Fertilisant.</color></size>",
+            "cost": "<size=36>Coût: <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5s</color></size>"
         },
         {
             "seedType": 13,
@@ -158,7 +158,7 @@
             "seedType": 22,
             "name": "Troufle",
             "introduce": "<size=36><color=black>Quand Troufle avait cinq ans, il a reçu un nouveau gâteau d'anniversaire brillant. Troufle a fait son vœu en soufflant et en soufflant, mais n'a pu éteindre que 60 % des bougies. Au lieu d'abandonner, cependant, il a utilisé cette défaite précoce comme un catalyseur pour se dépasser depuis.</color></size>",
-            "info": "<size=36>Les Troufles chassent les zombies ballons et dissipent le brouillard, à l’exception des Drone et des Zomppelins.\n\n<color=black>Spécial : </color><color=#8B0000>Dissipe le brouillard pendant 30 secondes, chasse les zombies ballons et les missiles de Requinmarine. Repousse légèrement les Zomppelins.</color></size>",
+            "info": "<size=36>Les Troufles chassent les zombies ballons et dissipent le brouillard, à l’exception des Zombies-copter et des Zomppelins.\n\n<color=black>Spécial : </color><color=#8B0000>Dissipe le brouillard pendant 30 secondes, chasse les zombies ballons et les missiles de Requinmarine. Repousse légèrement les Zomppelins.</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>100</color>\nRecharge : <color=#8B0000>15 Secondes</color></size>"
         },
         {
@@ -941,9 +941,9 @@
         {
             "seedType": 1067,
             "name": "Nénu-chat",
-            "introduce": "<size=36><color=black>\"ouaf !\" dit Nénu-chat . \" ouaf ouaf ouaf ! cela te perturbe ? tu t'attends à ce que je dise 'Miaou' comme un chat parce qu'il y a le mot chat dans mon nom et que je ressemble aussi à un chat ? Ce n'est pas comme ça que les choses fonctionnent ici. Je refuse d'être cat-alogué!\"</color></size>",
-            "info": "<size=36>Le Nénu-chat peut tirer sur n’importe qu’elle ligne avec des épines à tête chercheuse et peut également crever les ballons des zombies.\n<color=black>Dégâts : </color><color=#8B0000>20*2/1.5 Secondes</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>125 (peut s'obtenir également en plaçant un sachet de graine sur un nénuphar) </color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"ouaf !\" dit Nénu-chat . \" ouaf ouaf ouaf ! cela te perturbe ? tu t'attends à ce que je dise 'Miaou' comme un chat parce qu'il y a le mot chat dans mon nom et que je ressemble aussi à un chat ? Ce n'est pas comme ça que les choses fonctionnent ici. Je refuse d'être cat-alogué!\"</color></size>",
+            "info": "<size=36>Le Nénu-chat peut tirer sur n’importe qu’elle ligne avec des épines à tête chercheuse et peut également crever les ballons des zombies.\n<color=black>Dégâts : </color><color=#8B0000>20×2/1.5s</color>\n<color=black>Spécial: </color><color=#8B0000> Peut s'obtenir également en utilisant un Fertilisant sur un Nénuphar.</color></size>",
+            "cost": "<size=36>Coût: <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50s</color></size>"
         },
         {
             "seedType": 1068,
@@ -1522,9 +1522,9 @@
         {
             "seedType": 1150,
             "name": "Aimant Doré",
-            "introduce": "<size=36><color=black>Après avoir travaillé d'innombrables heures dans un cabinet comptable, l'Aimant Doré a réalisé son terrifiant potentiel d'attraction et a changé de carrière pour devenir un combattant. \"Honnêtement, c'est bien plus amusant que de compter de l'argent\", remarque-t-il. \"Après tout, l'argent ne pousse pas dans les arbres, mais, d'une manière ou d'une autre, à partir des cultures.\" Cela dit, ses compagnes végétales finissent souvent par souffrir de ses pitreries.</color>",
-            "info": "<size=36>Attirez les projectiles !\n\n<color=black>Spécial : </color><color=#8B0000>Attire les projectiles à tir direct depuis les voies adjacentes et produit 25 pièces pour chaque projectile attiré.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-aimant + Souci</color>",
-            "cost": ""
+            "introduce": "<size=36><color=black>Après avoir passé d'innombrables heures dans un cabinet comptable, l'Aimant Doré a découvert son effrayant pouvoir d'attraction et a décidé de changer de carrière pour devenir combattant. \" Honnêtement, c’est bien plus amusant que de compter de l’argent \", remarque-t-il. \" Après tout, l’argent ne pousse pas dans les arbres… mais d’une manière ou d’une autre, il pousse à partir des cultures. \" Cela dit, ses compagnes végétales finissent souvent par subir les conséquences de ses pitreries.</color></size>",
+            "info": "<size=36>Attire les projectiles.\n\n<color=black>Spécial : </color><color=#8B0000>Attire les projectiles à tir direct provenant des voies adjacentes et produit 25 pièces pour chaque projectile attiré.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-aimant + Souci</color></size>"
         },
         {
             "seedType": 1151,
