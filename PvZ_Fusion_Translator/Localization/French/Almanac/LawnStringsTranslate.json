@@ -1514,9 +1514,9 @@
         },
         {
             "seedType": 1149,
-            "name": "Lance-pastèque Enflammé",
-            "introduce": "<align=justified><size=36><color=black>Les plantes ont toujours l'impression que les Lance-pastèques à peau rouge véhiculent l'ambiance festive du Nouvel An, crépitant et éclatant d'excitation. Mais le Lance-pastèque explique : \" Je n'ai pas mis de pétards dans la pastèque ! C'est juste que les aliments scellés explosent lorsqu'ils sont chauffés – et vous ne pouvez pas vous précipiter pour manger une pastèque chaude !'</color>",
-            "info": "<size=36>Lance des melons incroyablement chauds !\n\n<color=black>Dégâts : </color><color=#8B0000>160/3s </color>\n<color=black>Spécial : </color><color=#8B0000>Inflige l'altération Enflammé.</color>",
+            "name": "Pastèque Enflammé",
+            "introduce": "<align=justified><size=36><color=black>Les plantes ont toujours l'impression que les Lance-pastèques à peau rouge véhiculent l'ambiance festive du Nouvel An, crépitant et éclatant d'excitation. Mais le Lance-pastèque explique : \" Je n'ai pas mis de pétards dans la pastèque ! C'est juste que les aliments scellés explosent lorsqu'ils sont chauffés – et vous ne pouvez pas vous précipiter pour manger une pastèque chaude !\"</color>",
+            "info": "<size=36>Lance des pastèques incroyablement chaud !\n\n<color=black>Dégâts : </color><color=#8B0000>120/3s </color>\n<color=black>Spécial : </color><color=#8B0000>Inflige l'altération Enflammé.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque + Jalapeño</color>"
         },
         {
