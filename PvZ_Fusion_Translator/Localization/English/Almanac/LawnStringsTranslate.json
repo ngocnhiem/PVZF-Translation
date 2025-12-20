@@ -592,14 +592,14 @@
             "seedType": 911,
             "name": "Laser Pumpkin",
             "introduce": "<align=justified><size=36><color=black>\"Magnet-shroom's power remains unmatched,\" said Laser Pumpkin. \"After all, composite armor, electromagnetic catapults, and plasma guns came nearly a century after aircraft carriers.\" Other plants envied Laser Pumpkin's high-tech gear, but only Magnet-shroom knew his power came from a Magnetar meteorite.</color></size>",
-            "info": "<size=36>Spawns laser drones that home in on enemies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>16000</color>\n<color=#666699>Magnetic System:</color> <color=#8B0000>When part of a Magnetic System with a Mechanized Pumpkin or any Metal-infused Pumpkin (including the Joker Pumpkin part of Pumpkin Bunker), gains their special traits. Additionally, assimilates all but one Mechanized Pumpkin in the same system into a Laser Pumpkins every 30s.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Always has a Laser Drone wingman with him when he appears. Generates a Laser Drone on top of a tile around a 3×3 area regularly.\n<color=black>•</color> Reflects 100 damage back to zombies biting it.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Wingmen Amount → 3\n2. All drones damage ×3</color></size>",
+            "info": "<size=36>Spawns laser drones that home in on enemies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>200/1.5s (Drone)\n200/1s (Wingman)\n<color=black>Toughness: </color><color=#8B0000>16000</color>\n<color=#666699>Magnetic System:</color> <color=#8B0000>When part of a Magnetic System with a Mechanized Pumpkin or any Metal-infused Pumpkin (including the Joker Pumpkin part of Pumpkin Bunker), gains their special traits. Additionally, assimilates all but one Mechanized Pumpkin in the same system into a Laser Pumpkins every 30s (first time 10s).</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Always has a Laser Drone wingman with him when he appears. Generates a Laser Drone on top of a tile around a 3×3 area every 30s (first time 10s).\n<color=black>•</color> Reflects 100 damage back to zombies biting it.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Wingmen Amount → 3\n2. All drones damage ×3</color></size>",
             "cost": "<size=35>\nFusion Formula: <color=#8B0000>Magnet Blover > Pump-karrier</color>"
         },
         {
             "seedType": 912,
             "name": "Laser Drone",
             "introduce": "<align=justified><size=36><color=black>Thanks to Laser Pumpkin, now we have an entire arsenal of hi-tech equipment! Take a look at these beauties: Composite alloy armor, electromagnetic rotor, and plasma railgun... Wait, NO!!! THAT WAS MY FAVORITE VASE!!!</color></size>",
-            "info": "<size=36>Laser Drones shoot piercing lasers to attack.\n\n<color=black>Damage: </color><color=#8B0000>200/1.5 Seconds (Stationary)\n200/1 Seconds (Wingman)</color></size>",
+            "info": "<size=36>Laser Drones shoot piercing lasers to attack.\n\n<color=black>Damage: </color><color=#8B0000>200/1.5s</color></size>",
             "cost": "<size=36>"
         },
         {
@@ -1530,7 +1530,7 @@
             "seedType": 1082,
             "name": "Cactus Drone",
             "introduce": "<align=justified><size=36><color=black>Cactus Drones always move in groups, chirping arrogantly and looking down on others. The other plants are curious what such tiny creatures could possibly do, but the Cactus Drones remain unfazed: \"If butterflies can stir up a storm, then of course we're far more powerful.\"</color></size>",
-            "info": "<size=36>Spits out thorns to attack zombies in the sky. Does not occupy any tile.\n\n<color=black>Damage: </color><color=#8B0000>30×2/1.5 seconds (Stationary), 30×2/1 Second (Wingman)</color>\n<color=black>Special: </color><color=#8B0000>Hovering plant. Can be planted on top of another plant.</color></size>",
+            "info": "<size=36>Spits out thorns to attack zombies in the sky. Does not occupy any tile.\n\n<color=black>Damage: </color><color=#8B0000>30×2/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Hovering plant. Can be planted on top of another plant.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cactus + Blover</color>"
         },
         {
@@ -1684,7 +1684,7 @@
             "seedType": 1104,
             "name": "Stardrop",
             "introduce": "<align=justified><size=36><color=black>Stardrop's favorite nights? The ones where fog takes a break and lets him chat with the stars. \"They totally get me,\" he says, convinced they're just as drawn to him as he is to them. One day, he's sure, one will drop down and say hello. Until then? He'll keep talking.",
-            "info": "<size=36>Summons a meteor that deal devastating damage.\n\n<color=black>Damage: </color><color=#8B0000>60×5/3s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Lumos levels 1 to 3 has the same effect as Starglow. Upon hitting Lumos Level 4, summons another type of meteor that has a separate cooldown from the original meteor.</color>\n<color=#666699>Magnetic System: </color><color=#8B0000>Each plant connected to the Magnetic System will increase the damage of the stars by 5%.\n<color=#6A0C9D>Both systems can increase the damage of the stars up to 120, maximum.</color>\n<color=black>Special: </color><color=#8B0000>Summons a meteor that hit the ground and explode into stars every 60 seconds, dealing 1800 damage upon impact.. The cooldown can be reduced by connecting other Stardrops together, up to 13 for an improved cooldown of 25 seconds.</color>",
+            "info": "<size=36>Summons a meteor that deal devastating damage.\n\n<color=black>Damage: </color><color=#8B0000>60×5/3s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Lumos levels 1 to 3 has the same effect as Starglow. Upon reaching Lumos Level 4, summons a Lumos meteor that has a separate 50s cooldown from the original meteor. Lumos meteor does 1800 damage upon impact and splits into 180 homing lumos stars that each do 40 damage.</color>\n<color=#666699>Magnetic System: </color><color=#8B0000>Each plant connected to the Magnetic System will increase the damage of the stars by 5%, up to a maximum of 120.</color>\n<color=black>Special: </color><color=#8B0000>For 1/4/7/10/13 Stardrops on the lawn, a meteor spawns every 50/40/35/30/25 seconds, dealing 1800 damage and breaking into 180 stars that each deal 20 damage.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Plantern + Magnet-shroom + Starfruit</color>"
         },
         {
@@ -1726,7 +1726,7 @@
             "seedType": 1110,
             "name": "Pump-karrier",
             "introduce": "<align=justified><size=36><color=black>Pump-karrier always kept three books on its shelf, their titles concealed from the curious eyes of the other plants. One day, a Cactus Drone's curiosity led it into the study, where it uncovered the titles: \"Guide to Succulent Plant Cultivation,\" \"Postpartum Care for Pumpkins,\" and \"30-Second Cactus Quick Flight Tutorial.\" The Cactus Drone chuckled at the unexpected collection.</color></size>",
-            "info": "<size=36>Spawns a Cactus Drone that moves around the field to attack flying zombies.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Inherits Thorny Pumpkin traits. Always has a Cactus Drone wingman with him when he appears. Generates a Cactus Drone on top of a 3×3 area regularly.</color></size>",
+            "info": "<size=36>Spawns a Cactus Drone that moves around the field to attack flying zombies.\n\n<color=black>Damage: </color><color=#8B0000>30×2/1.5s (Drone), 30×2/1s (Wingman)\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Inherits Thorny Pumpkin traits. Always has a Cactus Drone wingman with him when he appears. Generates a Cactus Drone on top of a 3×3 area every 30s (first time 10s).</color></size>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Cactus > Blover > Pumpkin OR Blover > Cactus > Pumpkin</color>"
         },
         {
@@ -2095,8 +2095,8 @@
         },
         {
             "seedType": 1163,
-            "name": "Chili Mine",
-            "introduce": "<align=justified><size=36><color=black>Chili Mine is a capable assistant to Explode-o-tato Mine, but most of her dishes are given low ratings by customers. \"What's going on—\" Chili Mine feels really guilty but doesn't know why. The truth is, she is not sensitive to spicy flavors and always adds too much chili.</color>",
+            "name": "Chip Mine",
+            "introduce": "<align=justified><size=36><color=black>Chip Mine is a capable assistant to Explode-o-tato Mine, but most of her dishes are given low ratings by customers. \"What's going on—\" Chip Mine feels really guilty but doesn't know why. The truth is, she is not sensitive to spicy flavors and always adds too much chili.</color>",
             "info": "<size=36>Splits into 7 Potato Mines in her lane. \n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Spawns up to 7 Potato Mines that only need 5s to arm themselves in her lane upon defeat.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Jalapeno</color>"
         },
