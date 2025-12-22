@@ -237,5 +237,6 @@
   "当前偏好：([^\\s]+)": "Current Favorite: {0}",
   "第(\\d+)关\n场景：([^\\s]+)\n总波数：(\\d+)波\n特殊环境：([^\\s]+)\n难度：(\\d+)": "Level {0}\nScene: {1}\nTotal Waves: {2}\nModifiers: {3}\nDifficulty: {4}",
   "事件：([^\\s]+)": "Modifiers: {0}",
-  "成功保存文件到:([^\\s]+)": "Custom level saved successfully! The location of the level file is:\r\n{0}"
+  "成功保存文件到:([^\\s]+)": "Custom level saved successfully! The location of the level file is:\r\n{0}",
+  "^(\\d+)分": "Score: 0"
 }

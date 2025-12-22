@@ -4,77 +4,43 @@ The only valid source of this translation is from this community: <color=#64DD17
 Stay away from other sources like <color=#8B0000>pvzfusion.net</color> or <color=#8B0000>pvzfusion.pro</color> as they redistribute our work without permission.
 Please visit our community for future updates and support.
 
-<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.1.1 Changelog</size></align>
+<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.2 Changelog</size></align>
 
-1. Abyss Season 2
-- Test your skills in the brand new Abyss season, featuring 30 new levels, with a new level layout and Abyss modifiers! 
-- Retain your setup throughout your run and upgrade it after each level by choosing new modifiers. You can favor which buffs you want in the new Abyss almanac.
-
-2. New Plants
+1. New Plants
 - Basic Fusions:
- - Blaze Pea (Peashooter + Jalapeno)
- - Blaze Repeater (Repeater + Jalapeno)
- - Split Blaze (Split Pea + Jalapeno)
- - Blaze Gatling (Gatling Pea + Jalapeno)
- - Stinky Pumpkin (Garlic > Pumpkin)
- - Sunny Pumpkin (Sunflower > Pumpkin)
- - Sundae-shroom (Sunflower + Ice-shroom)
- - Comet-shroom (Sunflower + Hypno-shroom)
- - Chompkin (Chomper > Pumpkin)
- - Stench-spreader (Threepeater + Garlic)
- - Cherry-spreader (Cherry Bomb + Threepeater)
- - Black Cherry (Cherry Bomb + Doom-shroom)
- - Catalyst-shroom (Cherry Bomb + Hypno-shroom)
- - Sea-shell (Sea-shroom > Pumpkin)
- - Hypno Chomper (Chomper + Hypno-shroom)
- - Hypno Pepper (Hypno-shroom + Jalapeno)
- - Butterweed (Spikeweed + Kernel-pult)
-- Odyssey/Ultimate Plants:
- - Common
-  - Big Bang Cherry (Cherry Bomb + Black Cherry)
-  - Buck-strike Squadron (Buck-shroom Squad + Blover)
-  - Phoenix Drone (Phoenix Threepeater + Blover)
- - Epic
-  - Vortex Melon (Winter Melon + Chrono Melon)
-  - Prometheus Liontail (Pepper Popper > Flame Cattail)
-  - Scylla Leviathan (Minnow-shroom + Kraken-shroom)
+  
+- Odyssey/Ultimate Fusions:
+
 - Unique/Misc. Plants:
- - Diamond Imitater (Beat Odyssey Gacha: Diamond Imitater to obtain it)
- - Mimic-rye (Legendary Harvest Mode Card)
- - Enlightened Solarnova (Legendary Harvest Mode Card)
- - Plaguebringer Snipea (Snipea + Garlic)
- - Dynamite Commando (Cherry Bomb + Pea-storm Commando)
 
-3. New Zombies
-- Vengeful/Phantom Archduke
-- Imperor's Ark of the Duck
-- Element-infused Gargantuar
-- Frost Legion Frayer Disc
-- Bombeluga Sub
-- Frost Legion Beastmaster
-- Clown-on-the-Jetski Zombie
-- Necroflame
-- Hypno Pepper Zombie
-- Hypno Pepper Digger
+2. New Zombies
+- Trident Gargantuar
 
-4. New Skins
-- Endoflame > Queen Endoflame
-- Nyan Squash > Halloween Nyan Squash
-- Coldsnap Bean > Coldsnap Witch
-- Princess Solarnova > Sorceress Solarnova
-- Gatling Icicle-shroom > Trick-or-treating Icicle-shroom
+3. Almanac Update
+- There is a completely revamped Almanac now available, including a search function and updated organization and visuals! (You can also press C in a level while hovering over a plant to instantly view their Almanac entry.)
 
-5. New Minigames
-- Beghouled 2: Botany Crush
-- Nut-o-mite
-- Archduke's Revenge
+4. New Gacha Mode - Odyssey Gacha: Rerolled
+- In this mode, basic plants will appear on the conveyor belt. The number below indicates how many times the plant can be planted. Random modifiers may also appear on the conveyor belt!
 
-6. New Odyssey Route
-- Before starting an Odyssey run, you can now choose to go down the River Route! Add exclusive aquatic fusions to your arsenal to fend off against the new threats along your journey.
-(Currently exclusive to Odyssey: Classic and Odyssey: Purgatory.)
+5. I-Zombie Changes
+- Cricket Fighting Mode (I-Zombie Sandbox)
+- All zombies can now be placed in I-Zombie Sandbox.
 
-7. Fusion Showcase Level Editor
-- Unleash your creativity with a brand new level editor for Fusion Showcase, with an insane amount of new features!
+6. New Skins
+- Aristocattial > Halloween Aristocattail
+- Magnetar > Magician Magnetar
 
-8. Miscellaneous bug fixes.
+7. Zombie Adjustments
+- Ultra Mecha-nut
+  - HP: 90,000 → 300,000
+  - Damage Cap: 100 → 300
+  - Damage Absorption: Zombies will now take a forced 1 damage per hit when Ultra Mecha-nut absorbs damage.
+- Element-infused Gargantuars
+  - Modifiers:
+    - All 4 Gargantuars will gain the same abilities.
+    - All 4 Gargantuars will gain the same immunities.
 
+8. Chibi Bosses
+- Purchase modifiers to unlock Abyssal Chibi or Mini Striker in your next Odyssey runs for some extra help!
+
+9. Miscellaneous bug fixes.
