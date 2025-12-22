@@ -4,8 +4,8 @@
     "Empress-shroom & Enchantress-shroom: Can now summon Odyssey Zombies",
     "Gatling Doom & Frenzy-shroom: No more rest between every attack | Gatling Frenzy-shroom Subspecies Unlocked",
     "Gatling Doom & Frenzy-shroom: Can now fire a bullet of doom every round instead of every 4th round",
-    "Twin Solar-nut: Click Cost 500 → 200",
-    "Twin Solar-nut: Toughness reduces by 10 for each hit instead of 50",
+    "Twin Solar-nut: Click Cost 500 → 200 Sun | Twin Inferno-nut: Healing amount ×2 | Effects also apply to Epic variants",
+    "Twin Solar-nut: Toughness reduces by 10 for each hit instead of 50 | Twin Inferno-nut: Click cost 500 → 200 HP | Effects also apply to Epic variants",
     "Obsidian Spikerock & Spike-nut: Damage multiplied by 5 | Obsidian Spike-nut Subspecies Unlocked",
     "Obsidian Spikerock & Spike-nut: Gains 95% DMG Reduction",
     "Each Sun now gives more value | 5 → 15 → 25 → 50 → 75",
@@ -55,7 +55,7 @@
     "Tesla Magnet: Attack Range ×2",
     "Tesla Magnet: Absorbs 3 Metal Objects at once, damage to Giga Trident-nut Zombies or Giga Football-nut Zombies ×3",
     "You can upgrade 1 upgradable Epic Modifier",
-    "Plants deal twice damage to Mini-bosses and Bosses",
+    "Plants deal +100% to Mini-bosses and Bosses",
     "Plants gain a 5% damage bonus for every Zombie Modifier you have",
     "Unlock Swordsage Starfruit",
     "Plants deal ×2 damage but receive ×4 damage",
@@ -73,8 +73,14 @@
     "When there are at least 10 Magnetars and 10 Selene Cabbages on the field, Selene's summoned Mini Moon will not disappear, while each Magnetar and Selene will charge a beam into the Mini Moon, which redirects it to target the zombie with the most amount of HP",
     "Grim Arbiter: Seed packet drop is now guaranteed",
     "Grim Arbiter: When destroying non-insta Odyssey plants with on-death effects, the effect is triggered an additional 4 times",
-    "Big Bang Cherry: Radiation Zone duration increased to 10s",
-    "Big Bang Cherry: Explosive cherries and bullets of Doom have a 1% chance of transforming into Nuclear Debris when they hit zombies"
+    "Big Bang Cherry: Radiation Zone duration increased from 7s to 10s",
+    "Big Bang Cherry: Explosive cherries and bullets of Doom have a 1% chance of transforming into Nuclear Debris when they hit zombies | Big Crunch Squash Subspecies Unlocked",
+    "Hail melons from Maelonstrom's Nebula Rifts now deal 6× damage and create singularities, and Quantum McCornics always lob Ultimate Black Holes. When an Ultimate Black Hole collapses, it also detonates all singularities to further increase its own damage",
+    "Summons an Abyssal Chibi to fight for you. His hammer smash damages both nearby plants and zombies, grants damage reduction to affected plants, and deals increased damage to zombies based on nearby plants' HP",
+    "Summons a Mini Striker to fight for you. Every 3s, he moves to the plant with the lowest HP percentage and rallies the area, healing nearby plants and increasing damage taken by zombies. Rally effects scale with level",
+    "Click on an armed Vulcannon while holding a Twin Inferno-nut with the Glove to make all armed Vulcannon on the field perform a synergized attack. Every 8th Inferno Shell shot summons an Inferno Meteor dealing 80× damage, decimating all zombies on the screen",
+    "Cornveyor Weed: Cornveyor Weed's Butter stun duration ×3",
+    "Cornveyor Weed: Now makes zombies on it to continuously slide to the right"
   ],
   "ultimateUpgrades": [
     "Cherrizilla & Garlizilla: HP Recovery ×3",
@@ -146,7 +152,8 @@
     "Unlock Vulcannon: Pyro Cannon + Pepper Popper",
     "Unlock Princess Solarnova: Torchflower + Golden Sunflower",
     "Unlock Maelonstrom: Winter Melon + Chrono Melon",
-    "Unlock Prometheus Liontail: Flame Cattail + Pepper Popper"
+    "Unlock Prometheus Liontail: Flame Cattail + Pepper Popper",
+    "Unlock Scylla Leviathan: Minnow-shroom + Kraken-shroom"
   ],
   "debuffs": [
     "Gatling Cherry Newspaper Zombie: Ability to walk through plants when its newspaper's broken",
@@ -189,7 +196,7 @@
     "Giga Football Archduke will appear as a Mini-boss",
     "Frost Legion Frayer Disc: Dissolver Beams now target the farthest plant within range",
     "Frost Legion Frayer Disc: Siphon Drainer's range: 1 Tile → 3×3 Area",
-    "Element-infused Gargantuar: Appearance no longer matters, has all four affinities at once",
-    "Element-infused Gargantuar: Smash attack range increased by 1 Tile"
+    "Element-infused Gargantuar: Appearance no longer matters, has the debuff immunities of all four affinities at once",
+    "Element-infused Gargantuar: Appearance no longer matters, has the extra abilities of all four affinities at once"
   ]
 }
