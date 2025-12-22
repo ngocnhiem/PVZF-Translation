@@ -21,8 +21,9 @@ The download links for the Multi-language Mod and the translation files of the M
 **Multi-Language 3.1.1 Version 1** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.1.1_v1)
 **English 3.0.1 Version 2** | Android | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.0.1_android_v2)
 **Chinese 3.2** | PC | [Google Drive](https://drive.google.com/file/d/10i_UYkwI4HksOwix5mFtlNgvptwUvhE9/view?usp=sharing)
-**Chinese 3.1.1** | PC | [MEGA](https://mega.nz/file/cikAzYQA#bfRyhtqRgR2x0lK3KYqVL65D5WNVXfiSV2XMWJx1oaY) [Google Drive](https://drive.google.com/file/d/1ijPum6sPics1iLGgSjJOMBwgRq9GUunL/view?usp=sharing)
-**Chinese 3.1.1** | Android | [MEGA](https://mega.nz/file/3Mh3VZyZ#eHtGzgMjtMjnhft6gLL7paW70dyNw5g0k3LJU9qyR6s) [Google Drive](https://drive.google.com/file/d/1jQfA_DEByMZzYYWdADiBIrJMIXTNF3wR/view?usp=sharing)
+**Chinese 3.2** | Android | [Mega](https://mega.nz/file/Ej8nwIyJ#TZ1fSV_tOMxS-VX29O3itV6Igy_AHdCM0yUKku2yzxk)
+**Chinese 3.1.1** | PC | [Google Drive](https://drive.google.com/file/d/1ijPum6sPics1iLGgSjJOMBwgRq9GUunL/view?usp=sharing)
+**Chinese 3.1.1** | Android | [Google Drive](https://drive.google.com/file/d/1jQfA_DEByMZzYYWdADiBIrJMIXTNF3wR/view?usp=sharing)
 
 > Other versions (starting from 2.8.1) can be found on the [Releases page.](https://github.com/Teyliu/PVZF-Translation/releases)
 
