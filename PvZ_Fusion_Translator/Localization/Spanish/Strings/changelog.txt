@@ -1,80 +1,72 @@
-<align=center><size=20>Disclaimer</size></align>
-The Official source of PvZ Fusion is only on the dev, 蓝飘飘fly's Bilibili</color>
-The only valid source of this translation is from this community: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color> and the associated GitHub pages.
-Stay away from other sources like <color=#8B0000>pvzfusion.net</color> or <color=#8B0000>pvzfusion.pro</color> as they redistribute our work without permission.
-Please visit our community for future updates and support.
+<align=center><size=20>¡Aviso!</size></align>
+La única fuente oficial del juego está en el Bilibili del creador, 蓝飘飘fly.</color>
+La única fuente válida de esta traducción es esta: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color> y las páginas de GitHub asociadas.
+Alejate de otras fuentes externas como <color=#8B0000>pvzfusion.net</color> o <color=#8B0000>pvzfusion.pro</color> ya que distribuyen nuestro trabajo sin permiso.
+Por favor revisa nuestra página para futuras actualizaciones.
 
-<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.1.1 Changelog</size></align>
+<align=center><size=130%>Plantas Contra Zombis: Fusion - ¿ Qué añade de nuevo la 3.2 ?</size></align>
 
-1. Abyss Season 2
-- Test your skills in the brand new Abyss season, featuring 30 new levels, with a new level layout and Abyss modifiers! 
-- Retain your setup throughout your run and upgrade it after each level by choosing new modifiers. You can favor which buffs you want in the new Abyss almanac.
+1. Nuevas Plantas
+- Fusiones Básicas:
+  - Planterna Boreal (Seta Congelada + Planterna)
+  - Mina Medrante (Patatapum + Marseta)
+  - Planterna Maldita (Petaseta + Planterna)
+  - Coltillería (Coltapulta ∞ Coltapulta ∞ Coltapulta)
+  - Melonpulta Pesada (Apisonaflor + Melonpulta)
+  - Apisonaflor Explosivo (Petacereza + Apisonaflor)
+  - Apisonaflor Maldito (Petaseta + Apisonaflor)
+  - Mantecaseta (Humoseta + Lanzamaíz)
+  - Hexaguisantes (Tripitidora + Lanzaguisantes)
+  - Trebolador Solar (Girasol + Trebolador)
+  - Calabaza Miniatura (Seta Desesporada + Calabaza)
+  - Calabaza Malhumor (Humoseta + Calabaza)
+  - Apisonaflor Solar (Girasol + Apisonaflor)
+  - Calabaza Sandía (Calabaza + Melonpulta)
+  - Enterraflor (Patatapum + Apisonaflor)
+  - Ajo Negro (Petaseta + Ajo)
+  - Shurikenseta (Humoseta + Frustrella)
+- Fusiones Odisea:
+  - Realeza Solar (Emperador Solar + Nuez)
+  - Melortero Cristalino (Mazorcañón Cristalino + Melonpulta)
+  - Apisonaflor Nuclear (Cereza Nuclear + Apisonaflor)
+  - Coltillería Volcánica (Mazorcañón Volcánico + Coltapulta)
+  - Calabelleza (Seta Coratrón + Calabaza)
+  - Emperador Ígneo (Emperador Solar + Jalapeño)
+  - Realeza Ígnea (Emperador Ígneo + Nuez)
+  - Ralentizahierba (Apinchonaflor + Mantecahierba)
+- Otras Plantas:
+  - Cubo
+  - Casco All-Star
+  - Maceta XXS
+  - Setarmonía
+2. Zombi Nuevo
+- Zombistein Pescador
 
-2. New Plants
-- Basic Fusions:
- - Blaze Pea (Peashooter + Jalapeno)
- - Blaze Repeater (Repeater + Jalapeno)
- - Split Blaze (Split Pea + Jalapeno)
- - Blaze Gatling (Gatling Pea + Jalapeno)
- - Stinky Pumpkin (Garlic > Pumpkin)
- - Sunny Pumpkin (Sunflower > Pumpkin)
- - Sundae-shroom (Sunflower + Ice-shroom)
- - Comet-shroom (Sunflower + Hypno-shroom)
- - Chompkin (Chomper > Pumpkin)
- - Stench-spreader (Threepeater + Garlic)
- - Cherry-spreader (Cherry Bomb + Threepeater)
- - Black Cherry (Cherry Bomb + Doom-shroom)
- - Catalyst-shroom (Cherry Bomb + Hypno-shroom)
- - Sea-shell (Sea-shroom > Pumpkin)
- - Hypno Chomper (Chomper + Hypno-shroom)
- - Hypno Pepper (Hypno-shroom + Jalapeno)
- - Butterweed (Spikeweed + Kernel-pult)
-- Odyssey/Ultimate Plants:
- - Common
-  - Big Bang Cherry (Cherry Bomb + Black Cherry)
-  - Buck-strike Squadron (Buck-shroom Squad + Blover)
-  - Phoenix Drone (Phoenix Threepeater + Blover)
- - Epic
-  - Vortex Melon (Winter Melon + Chrono Melon)
-  - Prometheus Liontail (Pepper Popper > Flame Cattail)
-  - Scylla Leviathan (Minnow-shroom + Kraken-shroom)
-- Unique/Misc. Plants:
- - Diamond Imitater (Beat Odyssey Gacha: Diamond Imitater to obtain it)
- - Mimic-rye (Legendary Harvest Mode Card)
- - Enlightened Solarnova (Legendary Harvest Mode Card)
- - Plaguebringer Snipea (Snipea + Garlic)
- - Dynamite Commando (Cherry Bomb + Pea-storm Commando)
+3. Almanaque Actualizado
+- ¡Ahora hay un Almanaque completamente renovado disponible, que incluye una función de búsqueda y mucho más! (Puedes presionar C durante un nivel mientras pasas el cursor sobre una planta para ver instantáneamente su entrada en el Almanaque).
 
-3. New Zombies
-- Vengeful/Phantom Archduke
-- Imperor's Ark of the Duck
-- Element-infused Gargantuar
-- Frost Legion Frayer Disc
-- Bombeluga Sub
-- Frost Legion Beastmaster
-- Clown-on-the-Jetski Zombie
-- Necroflame
-- Hypno Pepper Zombie
-- Hypno Pepper Digger
+4. Nuevo Nivel Gacha - Odisea Zorpresa: Limitado
+- En este modo, las plantas básicas aparecerán en la cinta transportadora. El número que aparece debajo indica cuántas veces se puede plantar estas plantas. ¡También pueden aparecer modificadores aleatorios en la cinta transportadora!
 
-4. New Skins
-- Endoflame > Queen Endoflame
-- Nyan Squash > Halloween Nyan Squash
-- Coldsnap Bean > Coldsnap Witch
-- Princess Solarnova > Sorceress Solarnova
-- Gatling Icicle-shroom > Trick-or-treating Icicle-shroom
+5. Cambios de Yo, Zombi
+- Pelea de Grillos
+- Ahora todos los zombis pueden ser usados en Yo, Zombi.
 
-5. New Minigames
-- Beghouled 2: Botany Crush
-- Nut-o-mite
-- Archduke's Revenge
+6. Nuevos Disfraces
+- Rabo de Campanita > Rabo de Espantos
+- Emperador Estelar > Mago Estelar
 
-6. New Odyssey Route
-- Before starting an Odyssey run, you can now choose to go down the River Route! Add exclusive aquatic fusions to your arsenal to fend off against the new threats along your journey.
-(Currently exclusive to Odyssey: Classic and Odyssey: Purgatory.)
+7. Ajustes de Zombi
+- Nuez Kírov Gigante
+  - Durabilidad: 90.000 → 300.000
+  - Límite de Daño: 100 → 300
+  - Absorción de Daño: Ahora los zombis recibirán obligatoriamente 1 de daño por golpe cuando la Nuez Kírov Gigante absorba daño.
+- Zombistein Prismático
+  - Modificadores:
+    - No importará su apariencia: Todos los Zombisteins Prismáticos obtendrán las mismas habilidades.
+    - No importará su apariencia: Todos los Zombisteins Prismáticos obtendrán las mismas inmunidades.
 
-7. Fusion Showcase Level Editor
-- Unleash your creativity with a brand new level editor for Fusion Showcase, with an insane amount of new features!
+8. Mini-Jefes... ¡Mini!
+- ¡Compra modificadores para obtener un Ministein Abismal o un Minizombi Abanderado peleando por ti!
 
-8. Miscellaneous bug fixes.
-
+9. Arreglos de bugs misceláneos.

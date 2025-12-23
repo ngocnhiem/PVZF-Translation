@@ -737,7 +737,7 @@
       "theZombieType": 219,
       "name": "Nuez Kírov Gigante",
       "introduce": "<size=39><color=#3D1400>Este zombi era un prototipo de nuez mecánica... hasta que un error de cálculo lo convirtió en una montaña rodante. Ahora, aplasta jardines como si fueran migajas.</color>",
-      "info": "<size=39>Absorbe daño para todos los zombis en el campo.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>90000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Ingeniero de demoliciones. Especialista en \u0022rediseños catastróficos\u0022.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Minijefe. Hereda los rasgos de Nuez Kírov.\n- No puede recibir daño mayor a 100.\n- Absorbe el daño recibido a todos los zombis en el campo hacia si mismo excepto a Zombis Caracaja.</color></size>"
+      "info": "<size=39>Absorbe daño para todos los zombis en el campo.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>300000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Ingeniero de demoliciones. Especialista en \u0022rediseños catastróficos\u0022.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Minijefe. Hereda los rasgos de Nuez Kírov.\n- No puede recibir daño mayor a 300.\n- Absorbe el daño recibido a todos los zombis en el campo hacia si mismo excepto a Zombis Caracaja.\n- Sin embargo, los zombis recibiran 1 de daño de todas formas cuando les absorben el daño.</color></size>"
     },
     {
       "theZombieType": 220,

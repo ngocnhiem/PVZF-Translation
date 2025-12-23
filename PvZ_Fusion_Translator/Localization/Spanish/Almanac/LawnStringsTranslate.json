@@ -6836,15 +6836,15 @@
         },
         {
     "seedType": 1339,
-    "name": "Mina Naval (Terrestre)",
-   "introduce": "<size=39><color=#3D1400>La Mina Naval ha estado acechando durante mucho tiempo. La luz solar y el agua le otorgaron un poder comparable al de una cereza. Todo eso termina en vano, ya que con solo gritar \"¡Explosión patata!\", ya espanta a los zombis.</color></size>",
+    "name": "Mina Medrante (Terrestre)",
+   "introduce": "<size=39><color=#3D1400>La Mina Medrante ha estado acechando durante mucho tiempo. La luz solar y el agua le otorgaron un poder comparable al de una cereza. Todo eso termina en vano, ya que con solo gritar \"¡Explosión patata!\", ya espanta a los zombis.</color></size>",
    "info": "<size=39>Una Patatapum que crece tras un tiempo.</color>\n\n<color=#3D1400>Daño:</color> <color=red>900 (área de 1x1)\n<color=#3D1400>Especial:</color> <color=red>\n- Se desentierra instantáneamente al ser fusionada.\n- Crece tras 30 segundos y su daño se duplica. Tras otros 30 segundos adicionales, vuelve a crecer y su alcance aumenta a un radio de 1,5 casillas.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Patatapum + Marseta (En Orden)</color></size>",
    "cost": "<size=39>Costo: <color=red>25, 100</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
     "seedType": 1340,
-    "name": "Mina Naval (Acuática)",
-   "introduce": "<size=39><color=#3D1400>En cuanto entra a la \"piscina\", la Mina Naval empieza a absorber agua al instante. Cree que así su explosión será el doble de poderosa. Y aunque eso es cierto, aún no entiende por qué todos le dicen piscina cuando en realidad es un río.</color></size>",
+    "name": "Mina Medrante (Acuática)",
+   "introduce": "<size=39><color=#3D1400>En cuanto entra a la \"piscina\", la Mina Medrante empieza a absorber agua al instante. Cree que así su explosión será el doble de poderosa. Y aunque eso es cierto, aún no entiende por qué todos le dicen piscina cuando en realidad es un río.</color></size>",
    "info": "<size=39>Una Patatapum acuática que crece tras un tiempo.</color>\n\n<color=#3D1400>Daño:</color> <color=red>900\n<color=#3D1400>Especial:</color> <color=red>\n- Se prepara para explotar instantáneamente al ser fusionada.\n- Crece tras 30 segundos y su daño se duplica. Tras otros 30 segundos adicionales, vuelve a crecer y su alcance aumenta a un radio de 1,5 casillas.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Marseta + Patatapum (En Orden)</color></size>",
    "cost": "<size=39>Costo: <color=red>25, 100</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
