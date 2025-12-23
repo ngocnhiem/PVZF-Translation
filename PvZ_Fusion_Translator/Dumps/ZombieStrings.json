@@ -820,7 +820,7 @@
             "theZombieType": 233,
             "name": "特种武装巨人",
             "introduce": "<color=#3D1400>特种武装巨人们总表示他们的交谊坚不可摧，但蓝眼总受到他们的排斥。“我们刚好可以组成信号灯，他来就多余了！”绿眼这么说。</color>",
-            "info": "全副武装的巨人僵尸，不同的眼睛颜色标示不同的抗性与能力。\n\n<color=#3D1400>韧性：</color><color=red>16000+16000（一类）</color>\n<color=#3D1400>特点：</color><color=red>不会扔出小鬼僵尸。锤击对僵尸伤害为3600。出场时随机获得一种外表，拥有外表对应的能力</color>\n<color=#3D1400>红眼：</color><color=red>免疫红温。拥有66%减伤</color>\n<color=#3D1400>蓝眼：</color><color=red>免疫寒冷、冻结、击退。自身速度×2。每次锤击会对植物造成5次伤害判定</color>\n<color=#3D1400>黄眼：</color><color=red>免疫定身。锤击后，向前跳跃小段距离，并额外锤击一次</color>\n<color=#3D1400>绿眼：</color><color=red>免疫蒜毒。锤击后回复10%韧性的血量</color>\n<color=#3D1400>词条1：</color><color=red>特种武装巨人拥有四种外表对应的全部能力</color>\n<color=#3D1400>词条2：</color><color=red>特种武装巨人的锤击范围增加1格</color>"
+            "info": "全副武装的巨人僵尸，不同的眼睛颜色标示不同的抗性与能力。\n\n<color=#3D1400>韧性：</color><color=red>16000+16000（一类）</color>\n<color=#3D1400>特点：</color><color=red>不会扔出小鬼僵尸。锤击对僵尸伤害为3600。出场时随机获得一种外表，拥有外表对应的能力和抗性</color>\n<color=#3D1400>红眼：</color><color=red>免疫红温。拥有66%减伤</color>\n<color=#3D1400>蓝眼：</color><color=red>免疫寒冷、冻结、击退。自身速度×2。每次锤击会对植物造成5次伤害判定</color>\n<color=#3D1400>黄眼：</color><color=red>免疫定身。锤击后，向前跳跃小段距离，并额外锤击一次</color>\n<color=#3D1400>绿眼：</color><color=red>免疫蒜毒。锤击后回复10%韧性的血量</color>\n<color=#3D1400>词条1：</color><color=red>整合四种外表对应的特殊能力</color>\n<color=#3D1400>词条2：</color><color=red>整合四种外表对应的对异常状态的免疫能力</color>"
         },
         {
             "theZombieType": 234,

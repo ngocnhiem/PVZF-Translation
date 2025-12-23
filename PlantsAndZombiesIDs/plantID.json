@@ -529,5 +529,6 @@
   PotatoSquash = 1354,
   DoomGarlic = 1355,
   StarFume = 1356,
+  ScaredyPot = 1357,
   Nothing = -1,
 }
