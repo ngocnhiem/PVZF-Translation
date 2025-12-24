@@ -4,7 +4,7 @@ The only valid source of this translation is from this community: <color=#64DD17
 Stay away from other sources like <color=#8B0000>pvzfusion.net</color> or <color=#8B0000>pvzfusion.pro</color> as they redistribute our work without permission.
 Please visit our community for future updates and support.
 
-<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.2 Changelog</size></align>
+<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.2.1 Changelog</size></align>
 
 1. New Plants
 - Basic Fusions:
@@ -34,9 +34,9 @@ Please visit our community for future updates and support.
     - Twin Inferno-nut (Twin Solar-nut + Jalapeno)
     - Cornveyor Weed (Squashweed + Butterweed)
   - Epic:
-    - Pandemelonium Mortar (Cob-literator Cannon + Melon-pult)
+    - Pandemelonium (Cob-literator + Melon-pult)
     - Kaledera Eruptor (Vulcannon + Kernel-pult)
-    - Pump-kaptivator (Charmatron > Pumpkin)
+    - Captivator Pumpkin (Charmatron > Pumpkin)
   - SP:
     - Epic Twin Solar-nut (Wall-nut + Twin Solar-nut)
     - Epic Twin Inferno-nut (Wall-nut + Twin Inferno-nut, Epic Twin Solar-nut + Jalapeno)
@@ -55,8 +55,8 @@ Please visit our community for future updates and support.
 4. New Gacha Mode - Odyssey Gacha: Rerolled
 - In this mode, basic plants will appear on the conveyor belt. The number below indicates how many times the plant can be planted. Random modifiers may also appear on the conveyor belt!
 
-5. I-Zombie Changes
-- Cricket Fighting Mode (I, Zombie Sandbox)
+5. I, Zombie Changes
+- A brand new Lane Arena
 - All zombies can now be placed in I, Zombie Sandbox.
 
 6. New Skins
