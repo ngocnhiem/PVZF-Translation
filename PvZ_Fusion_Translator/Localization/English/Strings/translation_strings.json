@@ -608,6 +608,7 @@
   "积分不足\t\t\t\t\t\t\t\t\t\t积分不足": "Insufficient Points!",
   "未选取此植物": "This Common Odyssey fusion was not selected in the Initial Selection Phase.",
   "排山倒海：一种种一列": "Enable Column Planting",
+  "<color=red>红温</color>\n效果：僵尸受到的伤害增加50%，且死亡时对小范围内僵尸造成100点伤害并施加红温效果\n<color=blue>冻结值</color>\n效果：僵尸初始冻结值上限为100，当累积的冻结值到达上限后会被冻结4秒，然后增加100点冻结值上限，上限最高为1000\n<color=green>水草值</color>\n效果：每次施加水草值时，根据僵尸当前水草值点数造成额外最大生命值百分比伤害：\n6~10：1%，11~15：3%，16~29：5%，30+：100%\n<color=white>蒜值</color>\n僵尸的蒜值上限为5，当蒜值不小于5点时，再试图累积蒜值时会令僵尸进入中毒状态，中毒状态每秒损失20x蒜值的生命值，若当前蒜值为5且被蒜黄油子弹命中后，这个上限将增加到30\n<color=yellow>光照等级</color>\n路灯花会为周围3x3的格子提供1点光照等级，一个格子的光照等级无上限\n<color=#00FFFF>磁力系统</color>\n一株磁力植物周围3x3范围内有另一株磁力植物时，则称这两株植物处在同一个磁力系统中\n": "<size=3><color=#720026>Enflamed</color>\nZombies take 50% more damage, and upon death, they explode, dealing 100 damage to nearby zombies and spreading the Enflamed debuff. Incompatible with Poisoned and Chill. Ember adds another 10% to the extra damage.\n\n<color=#0077b6>Chill</color>\nChilled zombies are slowed by a factor of 50%. Zombies start with a Cryo Points cap of 100. When the accumulated Cryo Points reaches the cap, the zombie will be frozen for 4s, then the cap increases by 100, up to a maximum of 1000. Ember adds another 10% to the slow factor.\n\n<color=#006400>Tangled</color>\nEach time Tangled is applied, it deals extra max HP percentage damage based on the zombie's current Tangle Value:\n6~10: 1%, 11~15: 3%, 16~29: 5%, 30+: 100%\n\n<color=#5E1675>Poison</color>\nA zombie's Poison Value cap is 5. When it reaches 5, any further accumulation will put the zombie in a poisoned state, losing HP every second equal to 20×(Poison Value). If the Poison Value is at 5 and the zombie is hit by a Garlic Butter projectile, this cap will increase to 30. Ember makes Poison lasts indefinitely.\n\n<color=yellow>Lumos Level</color>\nPlanterns provide 1 Lumos Level to all tiles in a 3×3 area. There is no cap on a tile's Lumos Level.\n\n<color=#666699>Magnetic System</color>\nWhen a magnetic plant is within a 3×3 range of another magnetic plant, they are considered to be in the same Magnetic System.",
   "-------Strings - No Clue": "Strings - No Clue-------",
   "错误：尝试生成不存在的植物！": "Error: Attempting to spawn a plant that doesn't exist.",
   "错误：尝试生成不存在的植物！用豌豆代替": "Error: Attempting to spawn a plant that doesn't exist. Use Peashooters instead.",
@@ -1737,6 +1738,7 @@
   "暂无": "N/A",
   "在5个队伍中选择1个你认为最强的队伍": "From the 5 Lanes, choose the one you think is the strongest!",
   "为你的队伍挑选词条": "Select the Modifier for your chosen Lane",
+  "该模式仅在默认地图可用": "This Mode is only available in the Default Scene (5-Lane Day)!",
   "-------Strings - No Idea": "Strings - No Idea-------",
   "保存格子完毕！": "Tiles saved!",
   "加载格子完毕！": "Tiles loaded!",
@@ -1766,7 +1768,11 @@
   "玉米投手": "Kernel-pult",
   "磁力菇王": "Tesla Magnet",
   "坚果墙": "Wall-nut",
+  "坚果": "Wall-nut",
   "小喷菇": "Puff-shroom",
   "高坚果": "Tall-nut",
-  "忧郁菇": "Gloom-shroom"
+  "忧郁菇": "Gloom-shroom",
+  "卷心菜投手": "Cabbage-pult",
+  "玩偶南瓜": "Joker Pumpkin",
+  "缠绕水草": "Tangle Kelp"
 }
