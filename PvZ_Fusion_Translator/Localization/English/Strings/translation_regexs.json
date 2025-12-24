@@ -239,5 +239,6 @@
   "事件：([^\\s]+)": "Modifiers: {0}",
   "成功保存文件到:([^\\s]+)": "Custom level saved successfully! The location of the level file is:\r\n{0}",
   "^(\\d+)分": "Score: {0}",
+  "^图鉴——(.*)": "The Urban Almanac — {0}",
   "对局结束，第(\\d+)路获胜！": "Match Over - Lane {0} Wins!!!"
 }
