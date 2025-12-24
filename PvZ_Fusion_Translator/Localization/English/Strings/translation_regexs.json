@@ -243,7 +243,8 @@
   "^第(\\d)路$": "Lane {0}",
   "View 词条(\\d)": "Lane {0} Modifiers",
   "^已选择第(\\d)路": "Lane {0} Chosen!!!",
-  "随机到的僵尸词条：\n([^\\s]+)": "Zombie Modifier for this round:\n",
+  "随机到的僵尸词条：\n([^\\s]+)": "Zombie Modifier for this round:\n{0}",
   "第(\\d)路活到了最后": "Lane {0} survived until the end of this round!!!",
-  "对局结束，第(\\d)路获胜！": "Match Over - Lane {0} Wins!!!"
+  "对局结束，第(\\d)路获胜！": "Match Over - Lane {0} Wins!!!",
+  "场上已经没有该植物\n总伤害：(\\d+)": "This plant no longer exists on the lawn!\nTotal Damage: {0}"
 }
