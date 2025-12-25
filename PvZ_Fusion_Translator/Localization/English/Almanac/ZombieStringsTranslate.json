@@ -692,7 +692,7 @@
         },
         {
             "theZombieType": 212,
-            "name": "<color=#4B0082><u>Abyssal Gargantuar</u>",
+            "name": "<u>Abyssal Gargantuar</u>",
             "introduce": "<align=justified><size=36><color=black>By ancient writ, it is recorded that the abyssal obsidian armor may only be borne by a body tempered through trials of bitter frost and searing flame. When the kin of zombies art plunged into utmost peril, his visage may yet appear at the heart of the dreadest battlefield. 'Stir not great commotion, lest ye rouse the giant that slumbereth beneath the earth.' A warning to the plants.</color>",
             "info": "<size=36>An ancient, eldritch and insidious threat.\n\n<color=black>Toughness: </color><color=#4B0082>32000 + 32000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Mini-boss. Provides a 90% damage reduction (80% in Odyssey: Evolved) to all zombies on screen, spawns Abyssal Imps when he smashes the ground, and inherits other traits of the Armored Gargantuar.</color>\n<color=#8B0000><u>Mini-bosses: </color></u><color=#4B0082>Mini-bosses receive only 5000 damage from insta-kills. Immune to hypnotization, devouring, drowning, cremators, transmutation, shrinking, chronoshift and teleporting. Grants all zombies 20% damage reduction (stack up to 90%). Only appears in waves of some levels with more than 3 flags. In Odyssey: Evolved, they have ×2 HP and provide a 70% damage reduction.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Summons Dr. Zomboss on death.\n2. Spawns with a selected Mini-boss.</color>"
         },
