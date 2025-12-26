@@ -1590,7 +1590,7 @@
   "火焰支援：每15秒，令本行的僵尸红温": "Cada 15 segundos, los zombis en esta fila reciben el Efecto Pirogénico",
   "火焰支援II：每45秒，在本行触发一次伤害1800的火爆辣椒效果": "Cada 45 segundos, se crea una explosión de Jalapeño en esta fila",
   "寒冰支援：每15秒，减速本行的僵尸，持续15秒": "Cada 15 segundos, los zombis en esta fila se ralentizan por 15 segundos",
-  "寒冰支援II：每30秒，冻结本行的僵尸，持续5秒": "Cada 30 segundos, los zombis en esta fila se congelan por 15 segundos",
+  "寒冰支援II：每30秒，冻结本行的僵尸，持续5秒": "Cada 30 segundos, los zombis en esta fila se congelan por 5 segundos",
   "魅惑支援：每30秒，在本行生成一组魅惑僵尸": "Cada 30 segundos, se crea un grupo de zombis hipnotizados en esta fila",
   "魅惑支援II：每45秒，有50%概率魅惑本行的僵尸": "Cada 45 segundos, los zombis en esta fila tienen un 50% de probabilidad de hipnotizarse",
   "恶作剧：每20秒，尝试将本行的一只随机僵尸驱赶到相邻行": "Cada 20 segundos, se intenta empujar un zombi de esta fila a otra",
