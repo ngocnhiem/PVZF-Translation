@@ -247,6 +247,7 @@
   "第(\\d)路活到了最后": "Lane {0} survived until the end of this round!!!",
   "对局结束，第(\\d)路获胜！": "Match Over - Lane {0} Wins!!!",
   "^分(\\d+)": "Score: {0}",
+  "数据已导出在：([^\\s]+)": "Data exported to {0}!",
   "场上已经没有该植物\n总伤害：(\\d+)": "This plant no longer exists on the lawn!\nCumulative Total Damage: {0}\nError: Division by zero lol",
   "数量：(\\d+)\n总伤害：(\\d+)\n平均伤害：(\\d+)": "Current Count: {0}\nCumulative Total Damage: {1}\nStock-flow-inconsistent Average: {2}",
   "数量：(\\d+)\n总伤害：(\\d+)": "Current Count: {0}\nCumulative Total  Damage: {1}"

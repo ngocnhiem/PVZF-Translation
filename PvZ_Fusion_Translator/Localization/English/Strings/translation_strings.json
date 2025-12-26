@@ -1799,6 +1799,8 @@
   "场地上不能有僵尸": "There may not be Zombies on the lawn!",
   "名称与植物不一致": "Name - Plant Mismatch!",
   "僵尸种类异常，取消出怪限制": "Zombie Type error! Zombie spawn restrictions remove.",
+  "debug模式开启": "Debug Mode On",
+  "debug模式关闭": "Debug Mode Off",
   "-------Strings - Names": "Strings - Names-------",
   "超级樱桃射手": "Explode-o-shooter",
   "超级大嘴花": "Chompzilla",
