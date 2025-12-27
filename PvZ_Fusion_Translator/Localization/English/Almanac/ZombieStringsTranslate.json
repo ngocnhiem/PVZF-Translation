@@ -460,7 +460,7 @@
             "theZombieType": 76,
             "name": "Trident Gargantuar",
             "introduce": "<align=justified><size=36><color=black>Zombies with higher body fat float more easily, but the Trident Gargantuar Zombie, convinced he is a descendant of the legendary Pozeidon, claims in his case it is divine favor. That said, with his size, walking straight along the bottom of the water would not be difficult either…</color>",
-            "info": "<size=36>An aquatic Gargantuar zombie that throws tridents instead of Imp zombies.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Drowning.\n<color=black>•</color>Throws 4 Tridents upon reaching half health, each causing damage to plants equal to 20% (minimum of 60) of their current HP. Smashing deals 500 Damage to anti-crush plants, 50 Damage to Spike Rocks and 1800 Damage to hypnotized zombies each slam.</color>"
+            "info": "<size=36>An aquatic Gargantuar zombie that throws tridents instead of Imp zombies.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Drowning.\n<color=black>•</color> Throws 4 Tridents upon reaching half health, each causing damage to plants equal to 20% (minimum of 60) of their current HP. Smashing deals 500 Damage to anti-crush plants, 50 Damage to Spike Rocks and 1800 Damage to hypnotized zombies each slam.</color>"
         },
         {
             "theZombieType": 100,

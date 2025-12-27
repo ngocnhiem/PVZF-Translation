@@ -3,21 +3,19 @@
 
 # Plants vs Zombies: Fusion | Downloads, Resources, etc. 
 ***
-The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion, as well as mirrors to the Chinese versions. Current supported base game version: **3.1.1**.
+The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion, as well as mirrors to the Chinese versions. Current supported base game version: **3.2.1**.
 
 > **Discord Server**:
 >
 > Visit us on our [Discord Server](https://discord.gg/DPAC5ZVJ8T). This server is mainly a community for the English translation of the game, but also functions as a hub for all users of all versions. **If you're having trouble installing or you're getting errors, visit the server as well and go to the FAQ.**
 
-> **Important**:
-> 
-> For Android: **DO NOT** delete your previous installation or you'll lose your progress forever! Download the APK and update the game normally.
-> 
-> For PC: You can safely uninstall your previous installations, your progress will carry over.
+**Important**:
+- For Android: **DO NOT** delete your previous installation or you'll lose your progress forever! Download the APK and update the game normally.
+- For PC: You can safely uninstall your previous installations, your progress will carry over.
 
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
-**\_Redist (Install these if you have problem launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
+**\_Redist (Install these if you have problems launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
 **Multi-Language 3.2.1 Public Beta** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.2.1_beta-0.3)
 **English 3.0.1 Version 2** | Android | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.0.1_android_v2)
 **Chinese 3.2.1** | PC | [MEGA](https://mega.nz/file/NicBzagR#Ju2A-56e_bUf0BhmtEIC37XKCHyq0h1OsHOBZVb_V34)
@@ -26,10 +24,9 @@ The download links for the Multi-language Mod and the translation files of the M
 **Chinese 3.1.1** | Android | [Google Drive](https://drive.google.com/file/d/1jQfA_DEByMZzYYWdADiBIrJMIXTNF3wR/view?usp=sharing)
 
 > Other versions (starting from 2.8.1) can be found on the [Releases page.](https://github.com/Teyliu/PVZF-Translation/releases)
-
 > Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
 
-> The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, **Ukrainian** and **Korean**. Other contained languages are empty for the moment.
+The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, **Ukrainian** and **Korean**. Other contained languages are empty for the moment.
 
 	Up-to-date (3.2.1) - English, Vietnamese, Spanish
 	Last Updated 3.1.1 - Korean, Japanese, Ukrainian
@@ -56,12 +53,13 @@ The download links for the Multi-language Mod and the translation files of the M
 
 ### The Online English Almanac
 ***
-> The Online English Almanac made by CarrotD1scrd can be found [here](https://carroti4ch.itch.io/almanac). Please be informed that it is updated slowly and what you see in here may not be *as accurate* or *up-to-date* as what's in-game.
+The Online English Almanac made by CarrotD1scrd can be found [here](https://carroti4ch.itch.io/almanac). Please be informed that it is updated slowly and what you see in here may not be *as accurate* or *up-to-date* as what's in-game.
+![The Online English Almanac](https://i.imgur.com/C7gccHG.png)
 
 ### Fusion Addons
 ***
-> Visit our Discord Server to get ~~cheats~~ **Addons** to enhance your gameplay.
--> [![https://discord.gg/DPAC5ZVJ8T](https://i.imgur.com/lIcLtqj.png)](https://discord.gg/DPAC5ZVJ8T) <-
+Visit our Discord Server to get ~~cheats~~ **Addons** to enhance your gameplay.
+[![https://discord.gg/DPAC5ZVJ8T](https://i.imgur.com/lIcLtqj.png)](https://discord.gg/DPAC5ZVJ8T)
 
 
 ## Credits
@@ -79,7 +77,7 @@ Special Thanks | 北窗遥望、 略nd、 MC-大麦、 潜艇伟伟迷、熔莹�
 ### Translation Credits
 Person/People | Contribution
 ------ | ------
-__Dyna & Mamoru-kun__ | Main Translators
+__Mamoru-kun__ | Main Translator
 __NaKune__ | OG Translation Mod Creator
 __Climeron__ | Coding Help | Font Changing Implementation
 __Teyliu, Cassidy, JustNull, Dakosha__ | Coding
@@ -94,7 +92,7 @@ __The Blooms Community__  | Translation ideas and assistance
 ### Language Teams
 **Language** | **Members** | **Inactive Members**
 ------ | ------ | ------
-English | Dyna, Mamoru-kun, Cassidy, JustTer, Invis19 | Professor Cherry Zaitsev, Dimardan, IzzytehWolf, \|>.<\|, Diiax, Hetsuko, Metroidsans, Flow
+English | Mamoru-kun, Cassidy, JustTer, Invis19 | Dyna, Professor Cherry Zaitsev, Dimardan, IzzytehWolf, \|>.<\|, Diiax, Hetsuko, Metroidsans, Flow
 [French](./Docs/french-contributions.md) | [Charles LINDECKER](./Docs/french-contributor/lindecker-charles.md), [Lyolia](./Docs/french-contributor/lyolia.md), [Oarlina](./Docs/french-contributor/oarlina.md), [Hubtech](./Docs/french-contributor/hubtech.md), [Same-ael](./Docs/french-contributor/same_el.md), [Ink Stolas](./Docs/french-contributor/ink-stolas.md), AnthonyGourmand | Erwandawa123, Grymm80, Jedi, Ronny, Mamoru-kun
 Italian | No active translator | Dyna, Pasuqlaw, Daka
 German | No active translator | Stevenzocker, Dynagi
@@ -113,17 +111,17 @@ This language team has a detailed contribution report :
 - [French Contributors — Full Report](./Docs/french-contributions.md)
 
 ## Notice to Translators
-The translator mod, PvZ_Fusion_Translator.dll, is currently closed source, but you can grab the latest build dll on the root directory of this repo's main branch. It is constantly updated.
+The translator mod, `PvZ_Fusion_Translator.dll`, is open source, the repo can be found [here](https://github.com/Teyliu/PVZFusionTranslation). But you can grab the latest build on the root directory of this repo's main branch. It is constantly updated.
 
 ## Instructions on Using the Scripts in [`Useful Scripts`](https://github.com/Teyliu/PVZF-Translation/tree/main/Useful%20Scripts)
 
 There are 4 Python scripts.
 
-csver.py converts [json files](https://en.wikipedia.org/wiki/JSON?oldformat=true) to [csv files](https://en.wikipedia.org/wiki/Comma-separated_values?oldformat=true). The translation mod reads jsons to apply translations, while csvs can be imported to an online spreadsheet like Google Spreadsheet to faciliate group editing, but with the downside of not being able to reflect changes in-game very easily. You can find the jsons by grabbing them from the mod files or download the spreadsheet as xlsx and convert them to json using another script, jsonifier.py.
+`csver.py` converts [`*.json` files](https://en.wikipedia.org/wiki/JSON?oldformat=true) to [`*.csv` files](https://en.wikipedia.org/wiki/Comma-separated_values?oldformat=true). The translation mod reads `*.json`'s to apply translations, while `*.csv`'s can be imported to an online spreadsheet like Google Spreadsheet to faciliate group editing, but with the downside of not being able to reflect changes in-game very easily. You can find the `*.json`'s by grabbing them from the mod files or download the spreadsheet as `*.xlsx` and convert them to `*.json` using another script, `jsonifier.py`.
 
-jsonifier.py converts an xlsx file into different jsons that are readily usable for the translation mod. When you have finished with the online spreadsheet, download it as xlsx and convert them to jsons, copy to where the mod reads them (usually, `[Your Game Location]\Game Files\Mods\PvZ_Fusion_Translator\Localization\X Language\Almanac or Strings`)
+`jsonifier.py` converts an `*.xlsx` file into different `*.json`'s that are readily usable for the translation mod. When you have finished with the online spreadsheet, download it as `*.xlsx` and convert them to `*.json`'s, copy to where the mod reads them (usually, `[Your Game Location]\Game Files\Mods\PvZ_Fusion_Translator\Localization\X Language\Almanac or Strings`)
 
-almanac_json_comparer.py and strings_json_comparer.py handle comparisons of jsons between different translations, mostly between your language and English. These specifically compare jsons. Look inside the scripts to see the name requirements for the input files. They both prioritize using the language that's being worked on for entries that exists in both inputs, and append the entries only present in the English version (untranslated) at the bottom. N.B.: For the almanac, it only compares IDs, so balance changes are not reflected. 
+`almanac_json_comparer.py` and `strings_json_comparer.py` handle comparisons of `*.json`'s between different translations, mostly between your language and English. These specifically compare `*.json`'s. Look inside the scripts to see the name requirements for the input files. They both prioritize using the language that's being worked on for entries that exists in both inputs, and append the entries only present in the English version (untranslated) at the bottom. N.B.: For the almanac, it only compares IDs, so balance changes are not reflected. 
 
 All 4 scripts read from the path where the script is located.
 
