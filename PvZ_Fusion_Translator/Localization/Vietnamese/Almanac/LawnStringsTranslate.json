@@ -1117,7 +1117,7 @@
       "seedType": 963,
       "name": "Quang Hạch Đại Đế",
       "introduce": "<align=justified><size=36><color=#3D1400>Nhằm tiến xa hơn trong công cuộc quang hợp, Quang Hạch Đại Đế đã bắt đầu nghiên cứu diệp lục. Cậu ta cho rằng diệp lục vô cùng quan trọng, và nó giúp các óc chó bowling có thể lăn tròn.</color></size></align>\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Quang Hạch Vương + Óc Chó</color>",
-      "info": "<size=36>Hoàng Đế giá lâm!\n\n<color=#4A2900>Dạng tối thượng của Quang Hạch Vương</color>\n<color=#4A2900>Chỉ mở khóa khi có cả 2 buff du lịch đặc thù của Quang Hạch Vương</color>\n<color=#3D1400>Máu: </color><color=red>4000\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Sát thương nhận vào luôn là 50, mỗi lần nhận sát thương sẽ rớt ra 15 mặt trời.\n<color=black>•</color> Khi nhấp chuột, tiêu 1250 mặt trời và hồi đầy đủ máu, đồng thời triệu hồi 1 Óc Chó Mặt Trời và 2 Óc Chó Mặt Trời Bowling theo 2 góc 45 độ. \n<color=black>•</color> Óc Chó Mặt Trời gây sát thương bằng 600/0.02 giây và Óc Chó Mặt Trời Bowling gây 4000 sát thương khi trúng Zombie.\n<color=#3D1400>Cơ Chế Năng Lượng: </color><color=red>\n<color=black>•</color> Tăng 1 năng lượng cho mỗi lần số mặt trời tăng lên.\n<color=black>•</color> Tăng 10 năng lượng cho mỗi lần nhấp chuột vào Quang Hạch Đại Đế. \n<color=black>•</color> Mỗi khi năng lượng đạt 100, tự động tiêu toàn bộ năng lượng và tạo ra Óc Chó Mặt Trời Khổng Lồ gây x5 sát thương so với Óc Chó Mặt Trời.</color>",
+      "info": "<size=36>Hoàng Đế giá lâm!\n\n<color=#4A2900>Dạng tối thượng của Quang Hạch Vương</color>\n<color=#4A2900>Chỉ mở khóa khi có cả 2 buff du lịch đặc thù của Quang Hạch Vương</color>\n<color=#3D1400>Máu: </color><color=red>4000\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Sát thương nhận vào luôn là 50, mỗi lần nhận sát thương sẽ rớt ra 15 mặt trời.\n<color=black>•</color> Khi nhấp chuột, tiêu 1250 mặt trời và hồi đầy đủ máu, đồng thời triệu hồi 1 Óc Chó Mặt Trời và 2 Óc Chó Mặt Trời Bowling theo 2 góc 45 độ. \n<color=black>•</color> Quang Hạch Đại Đế gây sát thương bằng 600/0.02 giây lẫn đầy lùi Zombie đó và tạo ra 15 mặt trời cho mỗi lần trúng Zombie khác nhau. Óc Chó Mặt Trời Bowling gây 4000 sát thương và rớt ra 5 mặt trời mỗi lần trúng Zombie.\n<color=#3D1400>Cơ Chế Năng Lượng: </color><color=red>\n<color=black>•</color> Tăng 1 năng lượng cho mỗi lần số mặt trời tăng lên.\n<color=black>•</color> Tăng 10 năng lượng cho mỗi lần nhấp chuột vào Quang Hạch Đại Đế. \n<color=black>•</color> Mỗi khi năng lượng đạt 100, tự động tiêu toàn bộ năng lượng và tạo ra Óc Chó Mặt Trời Khổng Lồ gây x5 sát thương so với Óc Chó Mặt Trời.</color>",
       "cost": ""
     },
     {
@@ -3673,6 +3673,275 @@
       "name": "Chậu Nhút Nhát",
       "introduce": "<align=justified><size=36><color=#3D1400>Ở trường, Chậu Nhút Nhát luôn thu mình được trồng ít hơn các nấm khác. Mặc dù các nấm khác ghen tị rằng nấm của cậu ta là ngon nhất.</color></color>\n\n<size=36><color=#3D1400>Công Thức: <color=red>Chậu Hoa + Nấm Nhút Nhát</color>",
       "info": "<size=36>Tăng sức mạnh cho Nấm Nhút Nhát.\n\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Buff cây bên trên bằng (0.04*giá cây)%, tối đa là 20%.\n<color=black>•</color> Nếu cây bên trên là Nấm Nhút Nhát, buff sát thương bằng (0.04*giá cây+10)*2%.\n<color=black>•</color> Nếu Zombie ở gần nó, nó sẽ sợ hãi và ngưng buff cây. Sau khi hết sợ hãi thì sẽ buff lại cây sau 3 giây.</color>",
+      "cost": ""
+    },
+    {
+      "MC屑鱼 Mod": ""
+    },
+    {
+      "seedType": 990,
+      "name": "Nguyên Hàn Tử Linh",
+      "introduce": "<align=justified><size=36><color=#3D1400>Là thợ săn Zombie nguy hiểm nhất vùng Viễn Đông, mỗi lần bắn là mỗi lần mọi Zombie phải chạy trốn. Các Zombie gọi hắn ta là tử thần chiến trường.</color>\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Lan Tử Đinh + Nấm Băng </color>",
+      "info": "<size=36>Lan Tử Đinh với sức mạnh áp đảo.\n\n<color=blue>Từ MC屑鱼 Mod\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương:</color><color=red> 300*4/1.5 giây</color>\n<color=#0077b6>Stack Đóng Băng: </color><color=red>Mỗi lần cho 10 stack đóng băng. Gây x4 sát thương lên Zombie bị đóng băng\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Thừa hưởng mọi buff của Lan Tử Đinh.\n<color=black>•</color> Mỗi 8 viên sẽ bắn 1 đạn siêu nguyên tử băng có thể gây hiệu ứng của Nấm Nguyên Tử Băng và x4 sát thương lên Zombie đóng băng, đồng thời cho 100 stack đóng băng lên Zombie bị ảnh hưởng.\n<color=black>•</color> Sau khi bắn 2 lần thì sẽ nghỉ trong 4.5 giây.</color></color></color>",
+      "cost": ""
+    },
+    {
+      "seedType": 991,
+      "name": "Thời Không Hàn Thuỷ",
+      "introduce": "<align=justified><size=36><color=#3D1400>Cậu ta được sinh ra vào thời điểm vũ trụ lụi tàn, đi ngược dòng thời gian để quay trở lại khởi nguyên của vũ trụ. Trên hành trình đó, cậu ấy đã chứng kiến những kỳ tích mà người thường không thể tưởng tượng.Và giờ đây, với hành trình nghịch chuyển định mệnh này, và giờ đây cậu ta sẽ dẫn dắt quỹ đạo của vũ trụ tới tận cùng của định mệnh.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Dưa Băng + Nấm Nguyên Tử Thời Không",
+      "info": "<size=36>Sức mạnh của độ không tuyệt đối và năng lực không-thời gian. Càng nhiều Zombie trên sân thì càng ít Zombie có thể lại gần.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>300*2/3 giây</color>\n<color=#0077b6>Stack Đóng Băng: </color><color=red>Mỗi lần cho 50 stack đóng băng, Zombies bị đánh lan thì sẽ nhận 5 stack đóng băng. Gây x4 sát thương lên Zombie đã bị đóng băng.\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Là cây sắt, có thể hồi máu bằng sắt vụn.\n<color=black>•</color> x3 sát thương lên Zombie mang giáp cấp 1.\n<color=black>•</color> Zombie bị ném trúng có tỉ lệ 10% đẩy lùi 3 ô hoặc dịch chuyển qua góc phải sân.\n<color=black>•</color> Có tỉ lệ 10% kích hoạt Tuyệt Kĩ, mỗi lần tấn công thì tăng 5% tỉ lệ kích hoạt Tuyệt Kĩ cho mỗi quả dưa ném ra. \n<color=#3D1400>Tuyệt Kĩ: </color><color=red>Ném dưa thời không lên không trung, khi đó có thể phân tách ra thành 1-3 dưa băng cho từng Zombie trên hàng.\n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Kỉ Băng Hà:</color><color=red> Đòn tấn công của Thời Không Hàn Thuỷ sẽ tăng 1 điểm Âm Cực cho Zombie bị trúng đòn.\n<color=#3D1400>Khoa Học Lượng Tử:</color> Khi kích hoạt Tuyệt Kĩ, có tỉ lệ 10% toàn bộ Zombie bị bắn trúng đều dịch chuyển về bên phải sân, sát thương từ Tuyệt Kĩ x2.\n<color=#3D1400>Hiệu ứng Âm Cực:</color><color=red>\n<color=black>•</color> Tối đa 75 Stack Âm Cực. Cho mỗi 1 điểm Âm Cực, Zombie sẽ giảm 5% tốc độ di chuyển, tối đa là 30%.\n<color=black>•</color> Khi Zombie đạt 50 Stack Âm Cực, nhận thêm sát thương tương đương 5% máu hiện tại từ Thời Không Hàn Thuỷ. Nếu là 75 Stack Âm Cực, nhận thêm sát thương tương đương 15% máu hiện tại từ Thời Không Hàn Thuỷ.\n<color=black>•</color> Huỷ bỏ hiệu ứng khi tan băng hoặc nhận sát thương lửa.  </color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1900,
+      "name": "Cao Xạ Nguyên Tử Băng",
+      "introduce": "<align=justified><size=36><color=#3D1400>Nhiều người hỏi vì sao Làng Khoai Tây có vô số thứ kì lạ, từ có 1 con hải cẩu có thể ăn mọi thứ, 1 con mèo Danni, và nhiều thứ khác. Lý do là vì từ xưa, Cryda, phù thuỷ người mèo duy nhất trong làng đã không cho mèo Danni ăn do bận rộn trong công việc. Thế là mèo Danni thi triển phép thuật và tạo nên nhiều thứ kỳ lạ như việc vì sao NguyenLong có 1 cái tầng hầm to ngang 1 thành phố ngầm để bắt người ta chơi TD.</color>\n\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Cao Xạ + Nấm Nguyên Tử Băng</color>",
+      "info": "<size=36>Mang đến cái chết lạnh lẽo.\n\n<color=blue>Từ MC屑鱼 Mod\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Chọn Lúc Ban Đầu\n<color=#3D1400>Sát Thương: </color><color=red>600*2/3 giây</color>\n<color=#0077b6>Stack Đóng Băng: </color><color=red>Đạn băng sẽ cho 100 Stack Đóng Băng. Gây x4 sát thương lên Zombie bị đóng băng.</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Mỗi lần bắn thì sẽ gắn thêm 1 bom băng lên Zombie đó, phát bắn tiếp theo sẽ kích nổ nó gây 1800 sát thương. Còn nếu không thì bom băng sẽ tự phát nổ và chỉ gây 600 sát thương.\n<color=black>•</color> Mỗi 11 phát bắn sẽ kích hoạt hiệu ứng Nấm Nguyên Tử Băng, gây 7200 sát thương toàn sân. Phát bắn tiếp theo sẽ hành quyết và gây 2.1 tỉ sát thương lên Zombie (10000 lên Miniboss).\n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Bom Hủy Diệt:</color><color=red> \n<color=black>•</color> <color=#3D1400>Cấp 1:</color><color=red> Sát thương bom băng x3. \n<color=black>•</color> <color=#3D1400>Cấp 2:</color><color=red> Mỗi 2 phát sẽ luôn kích hoạt hiệu ứng Nguyên Tử Băng, có tỉ lệ 50% hành quyết và gây thêm sát thương tương đương với 10% máu tối đa của Zombie.\n<color=#3D1400>Bóng Đêm Tập Kích:</color> Mỗi 11 phát sẽ khóa mục tiêu vào Zombie có lượng máu cao nhất, mỗi phát bắn đều có tỉ lệ nhỏ bắn liên tiếp.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1901,
+      "name": "Đậu Bão Tố Bùng Cháy",
+      "introduce": "<align=justified><size=36><color=#3D1400>Ngọn lửa nhiệt huyết bùng cháy dữ dội, sẳn sàng tạo nên 1 bước ngoặt trong công cuộc thành trừng Zombie, bằng cách tăng nhiệt độ lò nướng để nướng bánh hoa quả.</color>\n\n<size=36><color=#3D1400>Công Thức: <color=red>Cao Xạ Hoả Đậu + Đậu Hà Lan</color>",
+      "info": "<size=36>Ngọn lửa thiêu rụi mọi thứ trong tầm bắn!\n\n<color=blue>Từ MC屑鱼 Mod\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>50/60/70*6/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Phân loại của Cao Xạ Hoả Đậu, chuyển đổi qua lại bằng Đậu Hà Lan.\n<color=black>•</color> Mỗi lần bắn ra 3 đậu lửa cấp độ ngẫu nhiên với sát thương 50/60/70.\n<color=black>•</color> Mỗi lần bắn có tỉ lệ 3% kích hoạt tuyệt kĩ.\n<color=#3D1400>Tuyệt Kĩ: </color><color=red>Bắn 3 đạn lửa cấp độ ngẫu nhiên mỗi 0.02 giây và kéo dài trong 5 giây.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1902,
+      "name": "Cao Xạ Âm Hàn",
+      "introduce": "<align=justified><size=36><color=#3D1400>Cơn bão băng giá đã tôi luyện cho cậu ấy khả năng chiến đấu bền bỉ và sẳn sáng đưa những viên đạn băng gặm sâu vào mục tiêu. Nhưng mà này, chúng ta có hơi bị nhiều đậu cao xạ thì phải.</color>\n\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Bão Tố Băng Giá + Đậu Hà Lan</color>",
+      "info": "<size=36>Đóng băng và tê liệt mục tiêu.\n\n<color=blue>Từ MC屑鱼 Mod\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>300/3 giây</color>\n<color=#0077b6>Stack Đóng Băng: </color><color=red>Mỗi lần cho 75 stack đóng băng. Gây x4 sát thương lên Zombie bị đóng băng.\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Phân loại của Đậu Bão Tố Băng Giá, chuyển đổi qua lại bằng Đậu Hà Lan.\n<color=black>•</color> Mỗi 6 lần bắn thì lần bắn tiếp theo sẽ hành quyết mục tiêu.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1903,
+      "name": "Doro",
+      "introduce": "<align=justified><size=36><color=#3D1400>Chờ đã, con này từ bên NIKKE mà, sao lại sang PvZ Fusion thế. Đầu tiên là Milky Way Cookie từ Cookie Run Kingdom rồi, bây giờ lại thêm cái này, chán thật.</color>\n\n<size=36><color=#3D1400>Giá: <color=red>325\n<color=#3D1400>Thời gian chờ: <color=red>30 giây</color>",
+      "info": "<size=36>Khiến Zombie ra khỏi sân hoặc gây 1 tá sát thương.\n\n<color=blue>Từ MC屑鱼 Mod\n<color=#3D1400>Sát Thương: </color><color=red>150*2/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Khiến Zombie ra khỏi sân một khi dính đạn.\n<color=black>•</color> Nếu không ra khỏi sân thì gây 1200*2 sát thương.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1904,
+      "name": "Bạch Liên Thiên Xạ",
+      "introduce": "<align=justified><size=36><color=#3D1400>Nếu ngày xưa Hậu Nghệ bắn hạ mặt trời để giải cứu dân lành, thì thời này Bạch Liên Thiên Xạ bắn hạ Zombie để cứu nguy cho mọi cây trong phố, chỉ là, cậu ta thường bắn trật thì phải.</color>\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Thái Dương Bạch Cải + Gốc Cung Thủ </color>",
+      "info": "<size=36>Bắn những lưỡi cưa vàng cắt đứt mọi mục tiêu.\n\n<color=blue>Từ MC屑鱼 Mod\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương:</color><color=red> 40/0.02 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Phân loài của Thái Dương Bạch Cải, chuyển đổi qua lại bằng Gốc Cung Thủ và Bắp Cải.\n<color=black>•</color> Mỗi 1,5 giây bắn ra 1 lưỡi cưa có thể truy tìm mục tiêu, gây 40 sát thương mỗi 0.02 giây lên Zombie tiếp xúc với lưỡi cưa. Lưỡi cưa tồn tại trong 5 giây.\n<color=black>•</color> Có thể triệu hồi Mặt Trời Nhỏ với khả năng tương tự như của Thái Dương Bạch Cải.\n<color=black>•</color> Lưỡi cưa bắn ra từ Bạch Liên Thiên Xạ sẽ tạo ra 5 mặt trời cho mỗi 15 lần gây sát thương.\n<color=black>•</color> Khi số mặt trời vượt quá 15000 thì sẽ tiêu 200 mặt trời mỗi lần bắn, sát thương gốc sẽ x3.\n<color=#3D1400>Tuyệt Kĩ: </color><color=red>Giá 1000 Xu</color>\n<color=red><color=black>•</color> Nếu trên sân chưa có Mặt Trời Nhỏ, lập tức triệu hồi nó. Nếu đã có, kéo dài thêm 15 giây thời gian tồn tại và chỉ có thể tồn tại một Mặt Trời Nhỏ tại cùng một thời điểm.\n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Quang Âm Phi Nhận:</color><color=red> Thời gian tồn tại của Lưỡi Cưa x3. \n<color=#3D1400>Kim Quang Lấp Lánh:</color> Khi lượng mặt trời trên 15000, với mỗi 1 mặt trời tiêu thụ thì sát thương tăng 3%. Nếu sát thương gốc x3, thì lưỡi cưa sẽ tính sát thương hiện tại đã tăng lên.</color></color></color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1905,
+      "name": "Cá Hồi",
+      "introduce": "<align=justified><size=36><color=#3D1400>Cá Hồi.</color>\n\n<size=36><color=#3D1400>Giá:</color><color=red> 127</color>",
+      "info": "<size=36>Cá Hồi từ Minecraft.\n\n<color=blue>Từ Cá Hồi\n<color=#4A2900>Điều Kiện Sử Dụng: Cá Hồi\n<color=#3D1400>Máu:</color><color=red> Vô hạn</color>\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Sau khi trồng cá hồi, toàn bộ cây khi đặt ra sẽ có máu là vô hạn.\n<color=black>•</color> Bạn đã thắng.</color></color></color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1906,
+      "name": "Bão Tố Điện Từ",
+      "introduce": "<align=justified><size=36><color=#3D1400>Là 1 người với mong ước trở thành idol, ngày nào cũng hát Super Idol mà không nhận ra rằng cậu ta vô tình khiến các Zombie xung quanh bị giật điện 114514 vôn.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Hành Điện + Đậu Bão Tố",
+      "info": "<size=36>Vô số đậu điện bắn ra cùng 1 lúc.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>20*6/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Đạn đậu điện có độ xuyên là vô hạn và sẽ gây sát thương liên tục mỗi 0.14 giây trong phạm vi 3x3 ô.\n<color=black>•</color> Mỗi 49 lần đạn gây sát thương thì lần gây sát thương tiếp theo sẽ gây thêm 100 sát thương. \n<color=black>•</color> Mỗi lần bắn sẽ có tỉ lệ 3% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Bắn 3 đậu đậu điện mỗi 0.02 giây, kéo dài trong 5 giây.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1907,
+      "name": "Nấm Bão Tố",
+      "introduce": "<align=justified><size=36><color=#3D1400>Đây sẽ là tân binh của chúng ta, những nấm bão tố này không đơn thuần chỉ bắn đậu, mà còn sẳn sàng sát cánh bên nhau nữa đấy.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Nấm Lùn + Đậu Bão Tố",
+      "info": "<size=36>Vô số đạn bắn ra từ những quả nấm nhỏ bé.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>20*6/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Có thể chuyển đổi qua lại giữa dạng bắn tỉa và bão tố bằng Đậu Hà Lan.\n<color=black>•</color> Bắn 6 đạn đậu nhỏ vào Zombie phía trước. \n<color=black>•</color> Mỗi lần bắn sẽ có tỉ lệ 3% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Bắn 3 đậu đậu nhỏ mỗi 0.02 giây, kéo dài trong 5 giây.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1908,
+      "name": "Nấm Cao Xạ",
+      "introduce": "<align=justified><size=36><color=#3D1400>Nhiều người thắc mắc làm thế nào mà cậu ta có thể bắn đậu điệu nghệ tới vậy, và cậu ta đáp rằng, đó là bí mật không thể bật mí.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Không có công thức",
+      "info": "<size=36>Tay xạ thủ nhỏ bé nhưng đầy chết chóc.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>300/3 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Có thể chuyển đổi qua lại giữa dạng bắn tỉa và bão tố bằng Đậu Hà Lan.\n<color=black>•</color> Mỗi 6 phát sẽ hành quyết Zombie mục tiêu.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1910,
+      "name": "Nấm Bão Tố Băng",
+      "introduce": "<align=justified><size=36><color=#3D1400>Với những kẻ sống sót đủ lâu đều sẽ nghĩ rằng chúng bất khả chiến bại trên chiến trường. Tôi cá là ngay cả cậu đấy anh bạn. Khá là nghiệt ngã đấy anh bạn, khi mà đôi bạn như chúng ta lại phải chiến đấu trong trận chiến cuối cùng.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Nấm Lùn + Đậu Bão Tố Băng Giá",
+      "info": "<size=36>Cơn lốc băng giá xuyên thấu mọi thứ.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>20*6/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Bắn 6 đạn tia băng vào Zombie phía trước, tối đa xuyên 2 mục tiêu. \n<color=black>•</color> Nếu buff Thế Như Chẻ Tre được kích hoạt, đạn tia băng xuyên vô hạn. \n<color=black>•</color> Nếu buff Đồng Triệt Tâm Phi được kích hoạt, gây x10 sát thương lên Zombie bị đóng băng.\n<color=black>•</color> Mỗi lần bắn sẽ có tỉ lệ 3% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Bắn 3 đạn tia băng mỗi 0.02 giây, kéo dài trong 5 giây.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1911,
+      "name": "Nấm Cao Xạ Lửa",
+      "introduce": "<align=justified><size=36><color=#3D1400>Đây là AWACS, nghe đây Cao Xạ Hoả Đậu, chúng tôi đã phân tích thành công kẻ thù, bọn chúng được trang bị bộ sáu nòng băng giá vô cùng mạnh mẽ, điểm yếu duy nhất là chính mũ giáp của hắn. Cậu phải bắt buộc bắn hạ hắn ta. Đi đi, tiêu diệt tên Bão Tố Băng, chỉ có cậu có thể đối đầu với hắn. Xạ Thủ tới từ Địa Ngục, tôi hy vọng cậu sẽ thành công.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Nấm Lùn + Cao Xạ Hoả Đậu",
+      "info": "<size=36>Quá nhiệt bản thân để gây nhiều sát thương hơn.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>300/3 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Khi tấn công sẽ gây thêm 100 sát thương lan lên Zombie gần đó. Toàn bộ Zombie đều sẽ bị hiệu ứng Chịu Nhiệt.\n<color=black>•</color> Mỗi 6 phát sẽ hành quyết Zombie mục tiêu.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1913,
+      "name": "Hoả Mộng Lạc",
+      "introduce": "<align=justified><size=36><color=#3D1400>Phù thuỷ lửa Mộng Lạc đang cố gắng giải câu đố trên báo hôm nay, nhưng nó quá khó nên cậu ta nổi điên lên và trút giận lên Zombie.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Mộng Lạc + Ớt",
+      "info": "<size=36>Mộng Lạc bùng cháy có khả năng rớt ra thẻ bí và đốt cháy hàng khi đè.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#3D1400>Sát Thương: </color><color=red>1800 (1 ô)+1800 (1 hàng)</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Với mỗi Zombie đánh trúng, nó sẽ tạo ra 1 thẻ Bí Đè, rơi ra thẻ Bí Cay khi đánh trúng ít nhất 3 Zombie, tối đa rơi ra 3 thẻ Bí Đè và 1 Bí Cay.\n<color=black>•</color> Khi đè 1 Zombie đồng thời sẽ đốt 1 hàng 1 lần gây 1800 sát thương.\n<color=black>•</color> Khi đè 2 Zombie đồng thời sẽ đốt 1 hàng gây 3600 sát thương. \n<color=black>•</color> Nếu đè ít nhất 3 Zombie trở lên sẽ đốt 3 hàng và gây 3600 sát thương cho mỗi hàng.\n<color=black>•</color> Tự đổng đè khi có Hoa Lan Lửa trước mặt, khi đó sẽ rớt ra thẻ Hoả Mộng Lạc và phân bón.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1914,
+      "name": "Hàn Mộng Lạc",
+      "introduce": "<align=justified><size=36><color=#3D1400>Là phù thuỷ sống ở xứ lạnh, việc cậu ta hay làm tập luyện phép thuật với Cực Hàn Âm Đậu, tuy nhiên đừng gọi cậu ta là Mộng Lạc xanh lè, cậu ta cáu đấy.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Mộng Lạc + Nấm Băng",
+      "info": "<size=36>Mộng Lạc băng có khả năng rớt ra thẻ bí và đóng băng Zombie khi đè.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#3D1400>Sát Thương: </color><color=red>1800 (1 ô)+900 (3*3 ô)</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Với mỗi Zombie đánh trúng, nó sẽ tạo ra 1 thẻ Bí Đè, rơi ra thẻ Bí Băng khi đánh trúng ít nhất 3 Zombie, tối đa rơi ra 3 thẻ Bí Đè và 1 Bí Băng.\n<color=black>•</color> Khi đè 1 Zombie sẽ gây thêm 900 sát thương lan lên Zombie xung quanh ở phạm vi 3x3 ô và đóng băng chúng, x4 sát thương lên Zombie bị đóng băng.\n<color=black>•</color> Khi đè 2 Zombie sẽ gây thêm 900 sát thương lan lên Zombie toàn sân và đóng băng chúng, x4 sát thương lên Zombie bị đóng băng.\n<color=black>•</color> Nếu đè 3 Zombie trở lên thì gây 1800 sát thương và đóng băng toàn sân, x4 sát thương lên Zombie bị đóng băng</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1915,
+      "name": "Từ Quang Mê Hoặc",
+      "introduce": "<align=justified><size=36><color=#3D1400>Là phù thuỷ tối thượng xứ Neighborville, khả năng đặc biệt của cậu ta là dùng những sắt vụn để tạo ra các Zombie.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Từ Quang Đào + Nấm Thôi Miên",
+      "info": "<size=36>Sức mạnh điện từ lớn, có thể biến đổi vật sắt hút được thành Zombie thôi miên.\n\n<color=blue>Từ MC屑鱼 Mod</color></color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Phân loài của Từ Quang Đào, chuyển đổi qua lại bằng Nấm Thôi Miên và Bom Anh Đào.\n<color=black>•</color> Phạm vi hút tương tự như Nam Châm Phát Sáng.\n<color=black>•</color> Có thể hút vật sắt và tạo ra Zombie tướng ứng với đầy đủ máu. Có thể sử dụng vặt sắt lên nó tương tự như Nam Châm Thôi Miên.\n<color=black>•</color> Gây 300 sát thương mỗi 0.5 giây lên Hắc Khổng Hạch và Khổng Hạch Phi Thương.\n\n\n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Tua Bin Điện Từ:</color><color=red> Phạm vi hút của Từ Quang Mê Hoặc tăng gấp đôi.\n<color=#3D1400>Vạn Từ Vương:</color><color=red> Từ Quang Mê Hoặc có thể hút 3 vật sắt cùng 1 lúc và x3 sát thương lên Hắc Khổng Hạch và Khổng Hạch Phi Thương.\n<color=#3D1400>Tinh Binh Cường Tướng:</color><color=red> Khi hút vật sắt thì có thể triệu hồi Zombie tối thượng ngẫu nhiên.</color></color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1916,
+      "name": "Chiến Long Đại Đế",
+      "introduce": "<align=justified><size=36><color=#3D1400>Là sự kết hợp giữa Anh Long Đại Đế và công nghệ tối mật của Gfish Corps, giờ đây Chiến Long Đại Đế, hoặc là Anh Long Máy hay cơ khí gì đó, sẽ gần như bất hoại trước mọi loại Zombie.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Phi Long Thăng Thiên + Thuỷ Quái Cơ Khí",
+      "info": "<size=36>Tuyệt tác công nghệ của Gfish Corps, càng nhận nhiều sát thương thì càng nhận ít sát thương\n\n<color=blue>Từ MC屑鱼 Mod</color></color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>1000/1.75 giây</color>\n<color=#3D1400>Máu: </color><color=red>16000</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Khi mới ghép sẽ có lượng máu bằng 20 lần lượng máu tối đa\n<color=black>•</color> Miễn nhiễm với nghiền nát, tối đa sát thương nhận vào là 16000.\n<color=black>•</color> Giảm 10% sát thương nhận vào, có thể nhận sát thương thay cho cây trong phạm vi 3x3 ô.\n<color=black>•</color> Hồi máu vượt ngưỡng mức cơ bản là 16000 (không giới hạn), và có thể hồi 3200 máu cho mỗi vật sắt. Nếu vật sắt rơi ra mà không dùng đến thì khi biến mất sẽ hồi tổng cộng 3200/tất cả Thuỷ Long Cơ Khí và Thuỷ Quái Cơ Khí. \n<color=black>•</color> Đòn tấn công cũng sẽ gây sát thương lan, sát thương cắn sẽ bằng 1% máu hiện tại và sẽ hồi 40% máu bằng sát thương gây ra. Sau khi cắn thì sẽ bắn đạn pháo gây 1000 sát thương lan.\n<color=black>•</color> Mỗi 40 giây có thể kích hoạt Hành Quyết, khi đó sẽ nuốt chửng Zombie thường.\n<color=black>•</color> Nếu nhận quá 32000 sát thương thì lần cắn tiếp theo sẽ luôn nuốt chửng Zombie thường, đồng thời sẽ giảm 150 sát thương tối đa nhận vào, tăng 1% giảm sát thương nhận vào. Tối đa sẽ là 4000 sát thương tối đa có thể nhận vào và giảm 90% sát thương có thể nhận vào.\n<color=black>•</color> Có thể kích hoạt trang thái hấp hối nếu nhận sát thương chí mạng, khi đó máu sẽ không dưới 1 trong 5 giây, và có thể nuốt chửng Zombie tiếp theo ngay lập tức. Có thể kích hoạt mỗi 10 giây.\n\n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Thị Huyết Như Mệnh:</color><color=red> x3 khả năng hồi máu.\n<color=#3D1400>Chiến Binh Tận Thế:</color><color=red> Thời gian hồi Hành Quyết còn 15 giây, lượng máu bị mất cần để kích hoạt Hành Quyết còn 16000 máu.</color></color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1917,
+      "name": "Nấm Mèo Nhút Nhát",
+      "introduce": "<align=justified><size=36><color=#3D1400>Mèo cute phô mai que, và hôm nay cắt pate nhé.\n\n<size=36><color=#3D1400>Giá: <color=red>250\n<color=#3D1400>Thời gian chờ: <color=red>15 giây</color>",
+      "info": "<size=36>Càng nhiều Zombie sát thương càng cao.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#3D1400>Sát Thương: </color><color=red>300/1 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Có đặc tính của Nấm Nhút Nhát\n<color=black>•</color> Cho mỗi Zombie xuất hiện trên sân, tăng vĩnh viễn 10 sát thương.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1918,
+      "name": "Bão Tố Tỏi Độc",
+      "introduce": "<align=justified><size=36><color=#3D1400>'Đội Bão Tố, chúng tôi không thể chấp nhận việc rút lui, tiêu diệt bọn chúng ngay.' - Bộ Chỉ Huy. 'Tôi đoán anh sẽ nói thế mà, việc này sẽ tốn thêm 1 chút chi phí đấy' - Bão Tố Tỏi Độc\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Tỏi + Đậu Bão Tố",
+      "info": "<size=36>Cơn mưa đạn tỏi vào mặt kẻ thù.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>40*6/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Đặt 1 điểm Stack độc cho mỗi viên đạn, có tỉ lệ 10% kích hoạt hiệu ứng Bom Tỏi lên Zomebie đã bị nhiễm độc tỏi.\n<color=black>•</color> Gây thêm 20 sát thương cho mỗi Stack độc của Zombie.\n<color=black>•</color> Hiệu ứng Bom Tỏi: Gây sát thương lan bằng (Stack Độc x 40) của Zombie đó trong phạm vi 3x3 ô.\n<color=black>•</color> Mỗi lần bắn sẽ có tỉ lệ 3% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Bắn 3 đạn tỏi mỗi 0.02 giây, kéo dài trong 5 giây.\n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Toán Độc Sậu Phát:</color><color=red> Sát thương tăng lên từ Stack độc x4, xát suất kích hoạt hiệu ứng Bom Tỏi tăng lên 25%, sát thương từ hiệu ứng Bom Tỏi x10.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1919,
+      "name": "??? Óc Chó",
+      "introduce": "<align=justified><size=36><color=#3D1400>01000100 01100001 01101110 01101110 01101001 01101100 01101001 01110011 01110100 01101001 01100011 00100000 01000100 01100001 01110111 01110011 01101111 01101110\n\n<size=36><color=#3D1400>Giá: <color=red>750\n<color=#3D1400>Thời gian chờ: <color=red>60 giây</color>",
+      "info": "<size=36>Không thể xác định.\n\n<color=blue>Từ MC屑鱼 Mod, rework bởi JustNull</color>\n<color=#3D1400>Sát Thương: </color><color=red>100/0.5 giây</color>\n<color=#3D1400>Máu: </color><color=red>4000</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Miễn nhiễm với mọi hiệu ứng bất lợi và nghiền nát, sát thương nhận vào là ngẫu nhiên từ 1~50.\n<color=black>•</color> Zombie tấn công nó sẽ bị dính 1 trong những hiệu ứng sau: Quá Nhiệt, Làm Chậm trong 10 giây, Độc trong 10 giây, nổ Nguyên Tử ko để lại hố, Than Hồng, Tiền Thưởng. \n<color=black>•</color> Có tỉ lệ 20% tiêu diệt Zombie đang ăn nó ngay lập tức.\n<color=black>•</color> Mỗi 0.5 giây sẽ tăng 300 máu tối đa và 300 giáp cho toàn bộ cây xung quanh nó. Đồng thời toàn bộ cây tấn công xung quanh nó sẽ x6 tốc đánh và tăng 75% sát thương tối đa mỗi 0.25 giây. Với cây mặt trời thì sẽ tạo mặt trời mỗi 0.25 giây. \n<color=black>•</color>Gây sát thương lên Zombie xung quanh nó ở phạm vi 3x3 ô như khi Zombie cắn nó.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1919,
+      "name": "??? Óc Chó",
+      "introduce": "<align=justified><size=36><color=#3D1400>01000100 01100001 01101110 01101110 01101001 01101100 01101001 01110011 01110100 01101001 01100011 00100000 01000100 01100001 01110111 01110011 01101111 01101110\n\n<size=36><color=#3D1400>Giá: <color=red>750\n<color=#3D1400>Thời Gian Hồi: <color=red>60 giây</color>",
+      "info": "<size=36>Không thể xác định.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#3D1400>Máu: </color><color=red>4000</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Miễn nhiễm với mọi hiệu ứng bất lợi và nghiền nát, sát thương nhận vào là ngẫu nhiên từ 1~50.\n<color=black>•</color> Zombie tấn công nó sẽ bị dính 1 trong những hiệu ứng sau: Quá Nhiệt, Làm Chậm trong 10 giây, Độc trong 10 giây, nổ Nguyên Tử ko để lại hố, Than Hồng, Tiền Thưởng. \n<color=black>•</color> Có tỉ lệ 20% tiêu diệt Zombie đang ăn nó ngay lập tức. </color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1920,
+      "name": "Bão Tố 3 Đầu Băng",
+      "introduce": "<align=justified><size=36><color=#3D1400>Là những Bão Tố chiến đấu trong các môi trường khắc nghiệt, Bão Tố 3 Đầu Băng là những chiến binh xuất sắc nhất và sẳn sàng thực hiện bất kì nhiệm vụ khó khắn nào.</color></color>\n\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Bão Tố 3 Đầu + Nấm Băng</color>",
+      "info": "<size=36>Thay đổi cả thời tiết bằng đậu băng.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>20*6*3/1.5 giây</color>\n<color=#0077b6>Stack Đóng Băng: </color><color=red>Mỗi lần cho 10 stack đóng băng. x4 sát thương lên Zombie bị đóng băng.</color>\n<color=#3D1400>Khả Năng: </color><color=red>Tầm bắn 3 hàng. Mỗi lần bắn sẽ có tỉ lệ 6% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Mỗi 0.02 giây bắn 1 đạn đậu băng cho từng hàng. Kéo dài trong 5 giây.</color></color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1921,
+      "name": "Bão Tố 3 Đầu Lửa",
+      "introduce": "<align=justified><size=36><color=#3D1400>Đã tới lúc rồi! Bắt đầu chiến dịch giải phóng Neighborville. Toàn bộ lực lượng, tiến thẳng vào trung tâm chỉ huy của kẻ địch. Kẻ địch đã gia cố khu vực phòng thủ tại nơi đây, lực lượng của chúng ta sẽ hứng chịu các cuộc phản công dữ dội. Hãy mau chóng kết thúc trận chiến này và về nhà nào.</color></color>\n\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Bão Tố 3 Đầu + Ớt</color>",
+      "info": "<size=36>Những cơn lốc bằng lửa bùng cháy.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>80/100/120*6*3/1.5 giây</color></color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Tầm bắn 3 hàng.\n<color=black>•</color> Mỗi lần bắn ra 3 đậu lửa cấp độ ngẫu nhiên với sát thương 80/100/120, có thể sử dụng các gốc lửa cấp cao hơn để đốt đạn lửa cấp thấp. \n<color=black>•</color> Mỗi lần bắn sẽ có tỉ lệ 6% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Mỗi 0.02 giây bắn 1 đạn đậu lửa cấp độ ngẫu nhiên cho từng hàng. Kéo dài trong 5 giây.</color></color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1923,
+      "name": "Bão Tố Phượng Hoàng",
+      "introduce": "<align=justified><size=36><color=#3D1400>Hỡi Neighborville, hỡi đất mẹ, chúng con đã trở về để tiêu diệt bọn phản trắc này. Chúng ta đã thành công phá huỷ Zomboss 9000, nhưng đã phải trả cái giá quá đắt. Kể cả khi phải chịu thiệt hại nặng nề, toàn bộ quân ta đã tiến tới Zombieland.</color></color>\n\n<size=36><color=#3D1400>Công Thức: <color=red>Bão Tố Tro Tàn + Ớt hoặc Đậu Bão Tố + Hoả Bộc Phương Lan</color>",
+      "info": "<size=36>Bùng cháy từ đống tro tàn.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>160*6*3/1.5 giây</color></color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Tầm bắn 3 hàng. Thừa hưởng mọi khả năng và buff của Hoả Bộc Phương Lan.\n<color=black>•</color> Mỗi lần bắn có tỉ lệ 6% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Mỗi 0.02 giây bắn 1 đạn lửa cho từng hàng. Kéo dài trong 5 giây.</color></color></color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1924,
+      "name": "Bão Tố Tro Tàn",
+      "introduce": "<align=justified><size=36><color=#3D1400>Hình như bọn Zombie biết kế hoạch của chúng ta, tên tiến sĩ Zomboss đã bắt đầu cuộc tấn công. Mục tiêu của chúng ta không phải để chiến thắng cuộc chiến, mà là câu đủ thời gian để hoàn thiện thứ này.</color>\n\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Bão Tố 3 Đầu Lửa + Ớt hoặc Đậu Tro Tàn + Đậu Bão Tố 3 Đầu</color>",
+      "info": "<size=36>Sự phục sinh sẽ sớm xuất hiện.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Khả Năng: </color><color=red>Mất đi khả năng tấn công.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1925,
+      "name": "Nấm 3 Nòng Bão Tố Lửa",
+      "introduce": "<align=justified><size=36><color=#3D1400>Tại sao nấm bão tố này trông dị dạng vậy? Đó là vì khi Crazy Dave cố gắng kệt hợp đậu 3 đầu với nấm lùn, một sự kiện xảy ra và khiến cây này trở nên như vậy.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Nấm Lùn + Bão Tố 3 Đầu Lửa",
+      "info": "<size=36>Mọi cây bão tố đều có dạng nấm đấy.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>(60*6)*3/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Tầm bắn 3 hàng. Bắn 6 đạn đậu lửa vào Zombie phía trước. \n<color=black>•</color> Mỗi lần bắn sẽ có tỉ lệ 2% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> x3 sát thương, bắn 1 đạn lửa mỗi hàng 0.02 giây, kéo dài trong 5 giây.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1926,
+      "name": "Nấm Bão Tố Lửa",
+      "introduce": "<align=justified><size=36><color=#3D1400>Zombieland, trái tim của cả đế chế - nơi kết thúc mọi thứ. Tiến sĩ Zomboss đang cố gắng phòng thủ với những gì hắn có, nhưng hắn đang dần thua cuộc chiến này. Bọn Zombie tin rằng pháo đài này không thể bị xuyên thủng. Bất khả xâm phạm. Chứng minh bọn chúng đã sai, chỉ huy, tiêu diệt nơi này, tiêu diệt Zomboss. Cho bọn Zombie thấy những gì chúng ta có thể làm tại Garden Center, Chomp Town. Cho bọn Zombie thấy rằng không thể cướp lấy sự yên bình của chúng ta.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Nấm Lùn + Đậu Bão Tố Lửa",
+      "info": "<size=36>Những ngọn lửa tí hon nhưng thiêu đốt mọi thứ.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>60*6/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Bắn 6 đạn đậu lửa vào Zombie phía trước. \n<color=black>•</color> Mỗi lần bắn sẽ có tỉ lệ 2% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Bắn 3 đạn tia băng mỗi 0.02 giây, kéo dài trong 5 giây.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1927,
+      "name": "Nấm 3 Nòng Bão Tố",
+      "introduce": "<align=justified><size=36><color=#3D1400>Nếu bạn thắc mắc tại sao nó lại như thế, ờ thì, 3 cái đầu nhập lại thành 1, và giờ họ luôn cãi nhau mỗi khi tới giờ ăn.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Nấm Lùn + Bão Tố 3 Đầu",
+      "info": "<size=36>Có thể kết hợp với Ớt hoặc Băng.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>(20*6)*3/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Tầm bắn 3 hàng. Bắn 6 đạn đậu vào Zombie phía trước. \n<color=black>•</color> Mỗi lần bắn sẽ có tỉ lệ 2% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> x3 sát thương, bắn 1 đạn lửa mỗi hàng 0.02 giây, kéo dài trong 5 giây.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1928,
+      "name": "Nấm 3 Nòng Bão Tố Băng",
+      "introduce": "<align=justified><size=36><color=#3D1400>Này, bạn đã cho mèo ăn chưa, nếu chưa thì cho mèo ăn đi, còn không thì Nấm Bão Tố 3 đâu băng sẽ bắn bạn đấy.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Nấm Lùn + Bão Tố 3 Đầu Băng",
+      "info": "<size=36>Cái gì tốt hơn Nấm Bão Tố Băng? Phiên bản 3 đầu của nó.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>(20*6)*3/1.5 giây</color>\n<color=#0077b6>Stack Đóng Băng: </color><color=red>Mỗi lần cho 10 stack đóng băng. x4 sát thương lên Zombie bị đóng băng.\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Tầm bắn 3 hàng. Bắn 6 tia băng vào Zombie phía trước. \n<color=black>•</color> Thừa hưởng buff của Băng Hà Lan Linh\n<color=black>•</color> Mỗi lần bắn sẽ có tỉ lệ 2% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> x3 sát thương, bắn 1 tia băng mỗi hàng 0.02 giây, kéo dài trong 5 giây.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1929,
+      "name": "Anh Đào Liên Linh",
+      "introduce": "<align=justified><size=36><color=#3D1400>Ngày càng nhiều cây tạo nên từ ý tưởng bởi các họa sĩ khác nhau trên Internet trở thành hiện thực! Vì giờ đây ngay cả Anh Đào Liên Linh cũng chính thức tham chiến.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Nấm Lùn + Liên Pháo Anh Đào",
+      "info": "<size=36>Liên Pháo Anh Đào phiên bản nhỏ gọn.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>200*4/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Thừa hưởng mọi buff của Liên Pháo Anh Đào, kể cả buff cộng hưởng với Hỏa Bộc Bí Đao. \n<color=black>•</color> Đạn siêu anh đào mini gây sát thương lan tương tự như Liên Pháo Anh Đào.\n<color=black>•</color> x2 sát thương lên Zombie bị thu nhỏ.\n<color=black>•</color> Khi buff cộng hưởng được kích hoạt, đạn siêu anh đào nhỏ có khả năng thu nhỏ Zombie.",
+      "cost": ""
+    },
+    {
+      "seedType": 1930,
+      "name": "Bão Tố 3 Đầu Bất Diệt",
+      "introduce": "<align=justified><size=36><color=#3D1400>Tại sao có quá nhiều cây bất diệt thế, thế điểm mạnh giữa chúng là gì? Thì với Bão Tố Bất Diệt, đó là khả năng bắn mỗi 0.02 giây. Còn đối với Bão Tố Bất Diệt nhưng nhỏ hơn? Nó bắn thêm đạn lửa để tăng sát thương mà Zombie phải nhận vào đấy. Còn với Bão Tố 3 Đầu này thì, sát thương tăng lên vô hạn.\n\n<size=36><color=#3D1400>Công Thức: </color><color=red>Bão Tố 3 Đầu Băng + Bão Tố 3 Đầu Lửa",
+      "info": "<size=36>Rẻ hơn nhưng không có nghĩa yếu hơn.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>(120*6)*3/1.5 giây</color>\n<color=#3D1400>Máu: </color><color=red>8000</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Tầm bắn 3 hàng. Bắn 6 đạn diên thạch vào Zombie phía trước, xuyên tối đa 2 Zombie. \n<color=black>•</color> Mỗi lần bắn thì sẽ mất 50 máu và sẽ dừng lại ở mức 500 máu.\n<color=black>•</color> Cho mỗi 2000 máu bị mất, tăng vĩnh viễn 40 sát thương, tối đa là 360 sát thương. \n<color=black>•</color> Mỗi lần bắn sẽ có tỉ lệ 2% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> x3 sát thương, bắn 1 đạn diên thạch mỗi hàng 0.02 giây, kéo dài trong 5 giây. Đồng thời cho mỗi 30 đạn bắn ra, hồi 750 máu.\n<color=#3D1400>Buff Du Lịch: </color>\n<color=#3D1400>Trở Xung Chi: </color>Sát thương và khả năng đẩy lùi x3.\n<color=#3D1400>Cuồng Chiến Sĩ: </color>\n<color=black>•</color> <color=#3D1400>Cấp 1: </color>Nếu máu dưới 500, miễn nhiễm với sát thương dưới 1000, đồng thời giới hạn sát thương của đạn tăng lên 1440.\n<color=black>•</color> <color=#3D1400>Cấp 2: </color>Tỉ lệ kích hoạt Tuyệt Kĩ tăng lên thành 10%, đạn không còn giới hạn sát thương, sát thương tăng lên là vô hạn.</color></color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1931,
+      "name": "Cây Sao Chép Vàng",
+      "introduce": "<align=justified><size=36><color=#3D1400>Bạn có thấy quen không? Đúng vậy, nó là Cây Sao Chép Ngẫu Nhiên bên PvZ Hybrid. Và lần này thì được dát vàng.\n\n<size=36><color=#3D1400>Giá: <color=red>50\n<color=#3D1400>Thời Gian Hồi: <color=red>15 giây</color>",
+      "info": "<size=36>Khi bạn gacha từ đặt cây cho tới cả Zombie\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Khi trồng xuống sẽ có tỉ lệ 70% ra cây, 30% ra Zombie.\n<color=black>•</color> Sẽ không xuất hiện như thứ sau đây: Nấm Tham Lam, Zombie Hộp Quà, Bà Chúa Tuyết, Zomboss Vàng, Zombie test.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1932,
+      "name": "Bão Tố 3 Đầu Mê Hoặc",
+      "introduce": "<align=justified><size=36><color=#3D1400>Đây chính là cây ưa thích của tôi, dù sao thì với vô số đậu 3 đầu bão tố thì tôi là người sáng giá nhất rồi, phải chứ? Ít ra là thế cho tới khi Tuna tới và làm 1 cây bão tố 3 đầu xịn hơn.</color></color>\n\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Bão Tố 3 Đầu + Nấm Thôi Miên</color>",
+      "info": "<size=36>Vô số đậu thôi miên vào Zombie.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>30*6*3/1.5 giây</color></color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Tầm bắn 3 hàng.\n<color=black>•</color> Có mọi đặc tính của Đậu Thôi Miên. \n<color=black>•</color> Mỗi lần bắn sẽ có tỉ lệ 6% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Mỗi 0.02 giây bắn 1 đạn đậu thôi miên cấp độ ngẫu nhiên cho từng hàng với sát thương x3. Kéo dài trong 5 giây.</color></color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1933,
+      "name": "Lan Tử Đinh Siêu Tốc",
+      "introduce": "<align=justified><size=36><color=#3D1400>Nếu Liên Pháo Anh Đào có cái gì, thì tôi cũng sẽ có cái y hệt, và giờ tôi sẳn sàng để áp đảo tên Liên Pháo Anh Đào chết tiệt đó.</color></color>\n\n<size=36><color=#3D1400>Chỉ xuất hiện với tỉ lệ 2% khi ghép Lan Tử Đinh</color>",
+      "info": "<size=36>Cơn bão đạn nguyên tử sẳn sàng khai hoả.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Phiên bản giới hạn của Lan Tử Định\n<color=#4A2900>Điều Kiện Sử Dụng: Chế độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>300*6/0.5 giây, 1800</color>.\n<color=#3D1400>Khả Năng:<color=red> \n<color=black>•</color><color=red> Khi phát hiện mục tiêu, nó sẽ nạp trong 1.5 giây trước khi tấn công.\n<color=black>•</color> Có tỉ lệ 5% bắn đạn siêu nguyên tử. Đồng thời mỗi 16 phát bắn sẽ luôn bắn đạn siêu nguyên tử, nếu buff Hạch Nhân Uy Nhiếp được kích hoạt thì sẽ bắn đạn siêu nguyên tử mỗi 4 phát.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1943,
+      "name": "Thời Không Thần Bơ Đào",
+      "introduce": "<align=justified><size=36><color=#3D1400>Sự sống và cái chết trong từng giây tích tắc. Nhân loại bám lấy nỗi nhớ đã đi qua. Liệu họ có bao giờ trốn thoát khỏi xiềng xích của thời gian? Chỉ có thời gian mới có thể trả lời....</color></color>\n\n<size=36><color=#3D1400>Chỉ xuất hiện với tỉ lệ 2% khi ghép Thời Không Thần Hồ Đào</color>",
+      "info": "<size=36>Rối loạn không-thời gian, sự kết hợp giữa 2 dạng.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Phiên bản giới hạn của Thời Không Thần Hồ Đào\n<color=#4A2900>Điều Kiện Sử Dụng: Chế độ Du Lịch\n<color=#3D1400>Máu: </color><color=red>16000</color>.\n<color=#3D1400>Khả Năng:<color=red> \n<color=black>•</color><color=red> Thừa hượng mọi khả năng và buff của Thời Không Thần Hồ Đào.\n<color=black>•</color> Có thể dùng Óc Chó để ghép lại thành Thời Không Thần Hồ Đào.\n<color=black>•</color> Sau khi nhận 2000 sát thương thì sẽ trở về trạng thái 3 giây trước đó và bất tử trong 2 giây.\n<color=black>•</color> Khi bị Zombie cắn, Zombie đó sẽ bị bơ trong 2 giây, và có thể dịch chuyển Zombie về phía bên phải sân mỗi 3 giây.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1944,
+      "name": "Nhật Thực Bạch Cải",
+      "introduce": "<align=justified><size=36><color=#3D1400>Sự sống và cái chết trong từng giây tích tắc. Nhân loại bám lấy nỗi nhớ đã đi qua. Liệu họ có bao giờ trốn thoát khỏi xiềng xích của thời gian? Chỉ có thời gian mới có thể trả lời....</color></color>\n\n<size=36><color=#3D1400>Chỉ xuất hiện với tỉ lệ 2% khi ghép Thái Dương Bạch Cải</color>",
+      "info": "<size=36>Kẻ mang lại sự tận thế của vạn vật.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Phiên bản giới hạn của Thời Không Thần Hồ Đào\n<color=#4A2900>Điều Kiện Sử Dụng: Chế độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>300*5/2 giây</color>.\n<color=#3D1400>Khả Năng:<color=red> \n<color=black>•</color><color=red> Thừa hượng mọi khả năng và buff của Thái Dương Bạch Cải.\n<color=black>•</color> Có thể dùng Hoa Hướng Dương để ghép lại thành Thái Dương Bạch Cải.\n<color=black>•</color> Mỗi 30 giây sẽ tạo ra Nhật Thực; Nhật Thực sẽ thay thế cho Mặt Trời Nhỏ và tồn tại trong 15 giây. Khi Nhật Thực trên sân, toàn bộ cây trên sân tăng 50% sát thương.\n<color=black>•</color> Khi số mặt trời trên 15000, mỗi giây sẽ tốn 200 mặt trời và sát thương của toàn bộ cây trên sân x3.\n<color=#3D1400>Tuyệt Kĩ: </color><color=red>1000 xu; tạo ra Nhật Thực; nếu Nhật Thực đã ở trên sân, kèo dài nó thêm 15 giây.\n<color=#3D1400>Buff Du Lịch: </color><color=red>\n<color=#3D1400>Huyết Nguyệt Song Thần: </color><color=red>Chỉ kích hoạt nếu Nhật Thực Bạch Cải và Nguyệt Thực Bạch Cải ở trên sân, khi đó hiệu ứng của Nhật Thực sẽ x3, Zombie tạo ra từ Nguyệt Thực x3 sức mạnh. Và cả Nhật Thực lẫn Nguyệt Thực sẽ tồn tại vĩnh viễn, đồng thời sẽ triệu hồi thiên thạch lớn và nhỏ liên tục trên sân.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1951,
+      "name": "Hỏa Bộc Nhiệt Hạch",
+      "introduce": "<align=justified><size=36><color=#3D1400>Cậu ta có 1 gu thời trang rất riêng, rất dị biệt, và cậu ta cũng là nhà tạo mẫu tốc nổi tiếng trong khu, có điều, khách của cậu ta toàn là đậu hà lan.</color>\n\n<size=36><color=#3D1400>Công Thức: <color=red>Gốc Lửa Anh Đào + Bom Anh Đào Nhiệt Hạch</color>",
+      "info": "<size=36>Biến anh đào và nấm nguyên tử thành bom nhiệt hạch\n\n<color=blue>Từ MC屑鱼 Mod\n<color=#3D1400>Sát Thương: </color><color=red>1200/0.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Miễn nhiễm với mọi sát thương anh đào.\n<color=black>•</color> Tỏa vùng phóng xạ xung quanh nó 3x3 ô, x3 sát thương lên Zombie không giáp cấp 1.\n<color=black>•</color> Có thể đốt đạn đậu tương tự như của Gốc Lửa Địa Ngục. \n<color=black>•</color> Nếu đốt đạn anh đào, sao anh đào, bí anh đào và đạn nguyên tử, toàn bộ sẽ x4 sát thương trước khi đốt thành đạn nhiệt hạch anh đào. Đạn nhiệt hạch anh đào có khả năng xuyên 2 mục tiêu và luôn gây vụ nổ hạt nhân ở phạm vi 5x5 ô gây thêm 1200 sát thương.\n<color=black>•</color> Nếu chết hoặc bị xẻng, kích hoạt hiệu ứng của Bom Anh Đào Nhiệt Hạch.\n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Siêu Bức Xạ:</color><color=red> Đạn nhiệt hạch anh đào x3 sát thương.\n<color=#3D1400>Rò Rỉ Phóng Xạ:</color> Phạm vi vùng phóng xạ của Hỏa Bộc Nhiệt Hạch tăng lên thành 5x5 ô.</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1953,
+      "name": "Lan Tử Linh Siêu Tốc",
+      "introduce": "<align=justified><size=36><color=#3D1400>Với khả năng nã đạn siêu tốc, Lan Tử Linh Siêu Tốc mệnh danh là bệ gattling di động. Đặc biệt thiết kế của cậu ta lại là đứng đầu trong số các thiết kế về cây nữa!</color></color>\n\n<size=36><color=#3D1400>Chỉ xuất hiện với tỉ lệ 2% khi ghép Tử Cơ Thương Linh</color>",
+      "info": "<size=36>Hỏa lực áp đảo trong thời gian ngắn.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Phiên bản giới hạn của Tử Cơ Thương Linh\n<color=#4A2900>Điều Kiện Sử Dụng: Chế độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>300/0.5 giây</color>.\n<color=#3D1400>Khả Năng:<color=red> \n<color=black>•</color><color=red> Phân loài của Lan Tử Đinh Siêu Tốc, chuyển đổi qua lại bằng Nấm Nhút Nhát và Đậu Hà Lan.\n<color=black>•</color><color=red> Khi phát hiện mục tiêu, nó sẽ nạp trong 1 giây trước khi tấn công.\n<color=black>•</color> Mỗi lần bắn sẽ giảm 0.02 giây, tối thiểu còn 0.1 giây.\n<color=black>•</color> Mỗi phát có tỉ lệ 5% bắn đạn siêu nguyên tử, mỗi 16 phát bắn đều luôn bắn đạn siêu nguyên tử.\n<color=black>•</color> Nếu bắn trúng Zombie bị hiệu ứng nguyên tử, kích nổ Nấm Nguyên Tử lên Zombie đó.</color>",
       "cost": ""
     }
   ]
